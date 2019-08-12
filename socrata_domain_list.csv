@@ -1,0 +1,272 @@
+id,domain_url,organization,resource_count,center_lat,center_long,center_zoom,address
+1,2014bonds.cityofws.org,"City of Winston-Salem, NC",NULL,36.099861,-80.244217,NULL,NULL
+2,amopen.amo.on.ca,"Municipalities of Ontario, Canada",NULL,43.777702,-79.233238,NULL,NULL
+3,apd-data.albanyny.gov,"City of Albany Police Department, NY",NULL,42.652580,-73.756233,NULL,NULL
+4,bchi.bigcitieshealth.org,"The Big Cities Health Coalition (BCHC)",NULL,38.984653,-77.094711,NULL,NULL
+5,bea.data.commerce.gov,"The Bureau of Economic Analysis (BEA)",NULL,38.845980,-76.927500,NULL,NULL
+6,bis.data.commerce.gov,"The Bureau of Industry and Security (BIS)",NULL,38.892647,-77.032818,NULL,NULL
+7,brigades.opendatanetwork.com,"Brigade Open Data Sharing Platform",NULL,38.883216,-77.131307,NULL,NULL
+8,bronx.lehman.cuny.edu,"Lehman College",NULL,40.874890,-73.893176,NULL,NULL
+9,bythenumbers.sco.ca.gov,"California State Controller Office",NULL,38.578678,-121.503769,NULL,NULL
+10,census.data.commerce.gov,"U.S. Census Bureau",NULL,38.845980,-76.927500,NULL,NULL
+11,chhs.data.ca.gov,"California Health and Human Services - State of California",NULL,38.573935,-121.498018,NULL,NULL
+12,chronicdata.cdc.gov,"Centers for Disease Control and Prevention (CDC)",NULL,33.800072,-84.329712,NULL,NULL
+13,churned-data.awcnet.org,"Association of Washington Cities",NULL,47.038350,-122.897780,NULL,NULL
+14,cipdata.cityofnovi.org,"City of Novi, MI",NULL,42.480591,-83.475494,NULL,NULL
+15,controllerdata.lacity.org,"Los Angeles City Controller, CA",NULL,34.053260,-118.242190,NULL,NULL
+16,corstat.coronaca.gov,"City of Corona, CA",NULL,33.862122,-117.563200,NULL,NULL
+17,daisi.datacenterresearch.org,"Southeast Louisiana New Orleans Data Center, LA",NULL,29.952931,-90.073130,NULL,NULL
+18,dashboard.alexandriava.gov,"City of Alexandria, VA",NULL,38.820450,-77.050552,NULL,NULL
+19,dashboard.edmonton.ca,"City of Edmonton, Canada",NULL,53.631611,-113.323975,NULL,NULL
+20,dashboard.hawaii.gov,"State of Hawaii",NULL,21.315603,-157.858093,NULL,NULL
+21,dashboard.plano.gov,"City of Plano, TX",NULL,33.019844,-96.698883,NULL,NULL
+22,dashboard.slco.org,"Salt Lake County, UT",NULL,40.758701,-111.876183,NULL,NULL
+23,dashboarddata.caloes.ca.gov,"California State Governor's Office of Emergency Services (Cal OES)",NULL,38.556550,-121.309570,NULL,NULL
+24,data.acgov.org,"Alameda County, CA",NULL,37.804363,-122.271111,NULL,NULL
+25,data.albanyny.gov,"City of Albany, NY",0,42.652580,-73.756233,NULL,NULL
+26,data.auburnwa.gov,"City of Auburn, CA",NULL,38.896564,-121.076889,NULL,NULL
+27,data.austintexas.gov,"City of Austin, TX",NULL,30.266926,-97.750519,NULL,NULL
+28,data.baltimorecity.gov,"City of Baltimore, MD",NULL,39.299236,-76.609383,NULL,NULL
+29,data.brla.gov,"City of Baton Rouge, LA",NULL,30.471165,-91.147385,NULL,NULL
+30,data.buffalony.gov,"City of Buffalo, NY",NULL,42.880230,-78.878738,NULL,NULL
+31,data.burlingtonvt.gov,"City of Burlington, VT",NULL,44.475883,-73.212074,NULL,NULL
+32,data.calgary.ca,"City of Calgary, Canada",NULL,51.044270,-114.062019,NULL,NULL
+33,data.cambridgema.gov,"City of Cambridge, MA",NULL,42.370930,-71.116164,NULL,NULL
+34,data.cdc.gov,"Centers for Disease Control and Prevention (CDC)",NULL,33.800072,-84.329712,NULL,NULL
+35,data.cese.nsw.gov.au,"Australia Centre for Education Statistics and Evaluation",NULL,-33.813767,151.008255,NULL,NULL
+36,data.chattlibrary.org,"Chattanooga Public Library",NULL,35.044367,-85.310767,NULL,NULL
+37,data.cic.mx,"Centro de Información Ciudadana",NULL,32.530830,-117.020000,NULL,NULL
+38,data.cincinnati-oh.gov,"City of Cincinnati, OH",NULL,39.103119,-84.512016,NULL,NULL
+39,data.cityofberkeley.info,"City of Berkeley, CA",NULL,37.871853,-122.258423,NULL,NULL
+40,data.cityofboston.gov,"City of Boston, MA",NULL,42.361145,-71.057083,NULL,NULL
+41,data.cityofchicago.org,"City of Chicago, IL",NULL,41.881832,-87.623177,NULL,NULL
+42,data.cityofevanston.org,"City of Evanston, IL",NULL,42.045597,-87.688568,NULL,NULL
+43,data.cityofgainesville.org,"City of Gainesville, FL",NULL,29.651634,-82.324829,NULL,NULL
+44,data.cityofgp.com,"City of Grande Prairie, Canada",NULL,55.166670,-118.802710,NULL,NULL
+45,data.cityofnewyork.us,"City of New York, NY",NULL,40.730610,-73.935242,NULL,NULL
+46,data.cityoforlando.net,"City of Orlando, FL",NULL,28.542100,-81.379000,NULL,NULL
+47,data.cityoftacoma.org,"City of Tacoma, WA",NULL,47.249600,-122.439900,NULL,NULL
+48,data.cms.gov,"Centers for Medicare & Medicaid Services",NULL,39.317948,-76.763985,NULL,NULL
+49,data.code4sa.org,"Code for South Africa",NULL,-33.980600,18.465300,NULL,NULL
+50,data.colorado.gov,"State of Colorado",NULL,39.734800,-104.965300,NULL,NULL
+51,data.coloradosprings.gov,"City of Colorado Springs, CO",NULL,38.834000,-104.825300,NULL,NULL
+52,data.commerce.gov,"U.S. Department of Commerce",NULL,38.892647,-77.032818,NULL,NULL
+53,data.communityvitalsigns.org,"Community Vital Signs Initiative",NULL,34.109870,-117.285440,NULL,NULL
+54,data.consumerfinance.gov,"Consumer Financial Protection Bureau",NULL,38.898157,-77.039827,NULL,NULL
+55,data.countyofriverside.us,"County of Riverside, CA",NULL,33.978114,-117.373745,NULL,NULL
+56,data.cstx.gov,"City of College Station, TX",NULL,30.621070,-96.325500,NULL,NULL
+57,data.ct.gov,"State of Connecticut",NULL,41.766984,-72.668895,NULL,NULL
+58,data.culvercity.org,"City of Culver City, CA",NULL,34.021100,-118.396500,NULL,NULL
+59,data.dcpcsb.org,"District of Columbia Public Charter School Board, DC",NULL,38.930927,-77.032443,NULL,NULL
+60,data.debtwatch.treasurer.ca.gov,"California State Treasurer Debt Watch",NULL,34.050080,-118.246910,NULL,NULL
+61,data.delaware.gov,"State of Delaware",NULL,39.743507,-75.546339,NULL,NULL
+62,data.detroitmi.gov,"City of Detroit, MI",NULL,42.348700,-83.056700,NULL,NULL
+63,data.douglas.co.us,"Douglas County, CO",NULL,39.371951,-104.862357,NULL,NULL
+64,data.dupontwa.gov,"City of DuPont, WA",NULL,47.105968,-122.646032,NULL,NULL
+65,data.edd.ca.gov,"Employment Development Department - State of California ",NULL,34.046500,-118.262250,NULL,NULL
+66,data.edmonton.ca,"City of Edmonton, Canada",NULL,53.545710,-113.494631,NULL,NULL
+67,data.energystar.gov,"Energy Star - Department of Energy",NULL,38.886999,-77.025371,NULL,NULL
+68,data.exim.gov,"The Export-Import Bank of the United States (EXIM)",NULL,38.900764,-77.034347,NULL,NULL
+69,data.fortworthtexas.gov,"City of Fort Worth, TX",NULL,32.749227,-97.330740,NULL,NULL
+70,data.framinghamma.gov,"City of Framingham, MA",NULL,42.279802,-71.416879,NULL,NULL
+71,data.ftb.ca.gov,"Franchise Tax Board - State of California",NULL,38.581491,-121.494350,NULL,NULL
+72,data.fultoncountyga.gov,"Fulton County, GA",NULL,33.750892,-84.391678,NULL,NULL
+73,data.gates.org,"Bill & Melinda Gates Foundation",NULL,47.623877,-122.347002,NULL,NULL
+74,data.govloop.com,GovLoop,NULL,38.904925,-77.034882,NULL,"1152 15th St. NW Suite 800 Washington, D.C. 20005"
+75,data.greensboro-nc.gov,"City of Greensboro, NC",NULL,36.071154,-79.792637,NULL,"300 West Washington Street, Greensboro, NC 27401"
+76,data.gta.gov.zw,"Zimbabwe Government Portal",NULL,-19.016670,30.016670,NULL,NULL
+77,data.hampton.gov,"City of Hampton, VA",NULL,37.028697,-76.343087,NULL,"22 Lincoln St Hampton, VA 23669"
+78,data.hartford.gov,"City of Hartford, CT",NULL,41.762690,-72.673852,NULL,"550 Main St #1, Hartford, CT 06103"
+79,data.hawaii.gov,"State of Hawaii",NULL,21.304275,-157.852142,NULL,"801 S Beretania St, Honolulu, HI 96813"
+80,data.healthcare.gov,HealthCare,NULL,37.128970,-84.083260,NULL,"465 Industrial Blvd London, KY 40750-0001"
+81,data.honolulu.gov,"City and County of Honolulu, HI",NULL,21.304275,-157.852142,NULL,"801 S Beretania St, Honolulu, HI 96813"
+82,data.imls.gov,"Institute of Museum and Library Services",NULL,38.884663,-77.023740,NULL,"955 L'Enfant Plaza North, SW, Suite 4000, Washington, D.C. 20024-2135"
+83,data.iowa.gov,"State of Iowa",NULL,41.589103,-93.616508,NULL,"400 Robert D. Ray Dr, Des Moines, IA 50309"
+84,data.kcmo.org,"City of Kansas City, MO",NULL,39.100781,-94.577859,NULL,"City Hall, 414 E. 12th St. Kansas City, MO 64106"
+85,data.kingcounty.gov,"King County, WA",NULL,47.602903,-122.329270,NULL,"500 Fourth Ave Seattle, WA 98104"
+86,data.lacity.org,"City of Los Angeles, CA",NULL,34.054050,-118.243170,NULL,"200 N Spring St, Los Angeles, CA 90012"
+87,data.lacounty.gov,"Los Angeles County, CA",NULL,34.054050,-118.243170,NULL,"200 N Spring St, Los Angeles, CA 90012"
+88,data.lcb.wa.gov,"Washington State Liquor and Cannabis Board, WA",NULL,47.043515,-122.858160,NULL,"3000 Pacific Avenue SE, Olympia, WA 98504"
+89,data.littlerock.gov,"City of Little Rock, AR",NULL,34.749117,-92.275713,NULL,"500 W Markham St, Little Rock, AR 72201"
+90,data.livewellsd.org,"Live Well San Diego - County of San Diego, CA",NULL,32.717787,-117.163257,NULL,"202 W C St, San Diego, CA 92101"
+91,data.macoupincountyil.gov,"Macoupin County, IL",NULL,39.279680,-89.880160,NULL,"201 E Main St, Carlinville, IL 62626"
+92,data.maine.gov,"State of Maine",NULL,44.315557,-69.770326,NULL,"16 Cony St, Augusta, ME 04330"
+93,data.map.uncdf.org,"United Nations Capital Development Fund (UNCDF)",NULL,40.751045,-73.969360,NULL,"Two UN Plaza, 26th Floor; New York, NY 10017"
+94,data.marincounty.org,"Marin County, CA",NULL,37.998617,-122.531068,NULL,"3501 Civic Center Dr #234, San Rafael, CA 94903"
+95,data.maryland.gov,"State of Maryland",NULL,38.978891,-76.491100,NULL,"100 State Circle Annapolis, Maryland 21401-1925"
+96,data.mass.gov,"State of Massachusetts",NULL,42.358310,-71.063750,NULL,"24 Beacon St. Boston, MA"
+97,data.medicaid.gov,Medicaid,NULL,39.317948,-76.763985,NULL,"7500 Security Boulevard Baltimore, Maryland 21244-1850"
+98,data.medicare.gov,Medicare,NULL,38.960000,-95.240000,NULL,"Lawrence, KS 66044"
+99,data.melbourne.vic.gov.au,"City of Melbourne, Australia",NULL,-37.814812,144.966508,NULL,"90-130 Swanston St, Melbourne VIC 3000, Australia"
+100,data.memphistn.gov,"City of Memphis, TN",NULL,35.149102,-90.052098,NULL,"125 N Main St #514, Memphis, TN 38103"
+101,data.menlopark.org,"City of Menlo Park, CA",NULL,37.453279,-122.177244,NULL,"701 Laurel St, Menlo Park, CA 94025"
+102,data.mesaaz.gov,"City of Mesa, AZ",NULL,33.415496,-111.830708,NULL,"20 E Main St, Mesa, AZ 85201"
+103,data.miamigov.com,"City of Miami, FL",NULL,25.727684,-80.233779,NULL,"3500 Pan American Dr, Miami, FL 33133"
+104,data.michigan.gov,"State of Michigan",NULL,42.599180,-84.371970,NULL,"430 W. Allegan Lansing, MI 48918"
+105,data.mo.gov,"State of Missouri",NULL,38.578854,-92.173308,NULL,"201 W Capitol Ave #216, Jefferson City, MO 65101"
+106,data.monroecounty-fl.gov,"Monroe County, FL",NULL,24.710870,-81.095410,NULL,"3117 Overseas Hwy, Marathon, FL 33050"
+107,data.montgomeryal.gov,"City of Montgomery, AL",NULL,32.379258,-86.307863,NULL,"103 N Perry St, Montgomery, AL 36104"
+108,data.montgomerycountymd.gov,"Montgomery County, MD",NULL,39.083283,-77.150677,NULL,"50 Maryland Ave, Rockville, MD 20850"
+109,data.montgomeryschoolsmd.org,"Montgomery County Public Schools, MD",NULL,39.095129,-77.158098,NULL,"850 Hungerford Drive, Room 123. Rockville, Maryland 20850"
+110,data.muni.org,"Municipality of Anchorage (city), AK",NULL,61.216500,-149.896577,NULL,"700 W 6th Ave, Anchorage, AK 99501"
+111,data.naperville.il.us,"City of Naperville, IL",NULL,41.770501,-88.152313,NULL,"400 S Eagle St, Naperville, IL 60540"
+112,data.nasa.gov,"National Aeronautics and Space Administration NASA",NULL,38.883180,-77.015260,NULL,"300 E. Street SW, Suite 5R30 Washington, DC 20546"
+113,data.nashville.gov,"Nashville and Davidson County, TN",NULL,36.104244,-86.815949,NULL,"4009 Hillsboro Pike #207, Nashville, TN 37215"
+114,data.nationalservice.gov,"Corporation for National and Community Service",NULL,38.883003,-77.014924,NULL,"250 E St SW, Washington, DC 20024"
+115,data.nj.gov,"State of New Jersey",NULL,40.219900,-74.764060,NULL,"125 W State St, Trenton, NJ 08608"
+116,data.nlc.org,"National League of Cities",NULL,38.898611,-77.009436,NULL,"660 North Capitol Street  washington dc"
+117,data.nola.gov,"City of New Orleans, LA",NULL,29.952034,-90.077014,NULL,"1300 Perdido St, New Orleans, LA 70112"
+118,data.norfolk.gov,"City of Norfolk, VA",NULL,36.844580,-76.285720,NULL,"810 Union St, Norfolk, VA 23510"
+119,data.novascotia.ca,"Nova Scotia Provinces, Canada",NULL,44.643432,-63.571463,NULL,"1451 Barrington Street, Halifax, Nova Scotia, Canada B3J 1Z2 "
+120,data.ny.gov,"State of New York",NULL,42.649990,-73.753659,NULL,"110 State St, Albany, NY 12207"
+121,data.oaklandnet.com,"City of Oakland, CA",NULL,37.806068,-122.272439,NULL,"1 Frank H Ogawa Plaza, Oakland, CA 94612"
+122,data.oce.gov.pr,"Oficina del Contralor Electoral (OCE)",NULL,18.420000,-66.070000,NULL,"235 Arterial Hostos Avenue Capital Center Building, North Tower 16th Floor, 00918, Puerto Rico"
+123,data.opendatanetwork.com,"Open Data Network",NULL,34.051686,-118.247424,NULL,"233 South Broadway, Los Angeles, California 90012, United States"
+124,data.orcities.org,"League of Oregon Cities, OR",NULL,44.938361,-123.026040,NULL,"1201 Court St NE #200, Salem, OR 97301"
+125,data.oregon.gov,"State of Oregon",NULL,44.938511,-123.030579,NULL,"900 Court St NE, Salem, OR 97301"
+126,data.oxnard.org,"City Of Oxnard, CA",NULL,34.199944,-119.180177,NULL,"300 3rd Street, Oxnard, CA 93030"
+127,data.pa.gov,"State of Pennsylvania",NULL,40.261620,-76.886550,NULL,"225 Capitol Bldg, Harrisburg, PA 17120"
+128,data.permits.performance.gov,"Permitting Dashboard - Performance",NULL,38.875898,-77.003290,NULL,"1200 New Jersey Avenue, SE Washington, DC 20590"
+129,data.policefoundation.org,"Police Foundation",NULL,38.906095,-77.040804,NULL,"1201 Connecticut Ave NW, Suite 200. Washington, DC 20036"
+130,data.portmoody.ca,"City of Port Moody, Canada",NULL,49.281795,-122.829447,NULL,"100 Newport Dr, Port Moody, BC V3H 5C3, Canada"
+131,data.pr.gov,"Estado Libre Asociado de Puerto Rico",NULL,18.470000,-66.120000,NULL,"Avenida Juan Ponce de León San Juan Antiguo, PR, 00901"
+132,data.princeedwardisland.ca,"Prince Edward Island Provinces, Canada",NULL,46.232794,-63.133317,NULL,"11 Kent Street, Charlottetown, PE C1A 7N8"
+133,data.princegeorgescountymd.gov,"Prince George's County, MD",NULL,38.815745,-76.751142,NULL,"14735 Main St, Upper Marlboro, MD 20772"
+134,data.providenceri.gov,"City of Providence, RI",NULL,41.824142,-71.412913,NULL,"25 Dorrance St, Providence, RI 02903"
+135,data.qac.org,"Queen Anne's County, MD",NULL,39.045260,-76.064890,NULL,"120 Broadway, Centreville, MD 21617"
+136,data.raleighnc.gov,"City of Raleigh, NC",NULL,35.779064,-78.642610,NULL,"222 W Hargett St, Raleigh, NC 27601"
+137,data.readingpa.gov,"City of Reading, PA",NULL,40.336950,-75.921230,NULL,"815 Washington St, Reading, PA 19601"
+138,data.redmond.gov,"City of Redmond, WA",NULL,47.679072,-122.131115,NULL,"15670 NE 85th St, Redmond, WA 98052"
+139,data.richmondgov.com,"City of Richmond, VA",NULL,37.540390,-77.433250,NULL,"900 E Broad St, Richmond, VA 23219"
+140,data.roseville.ca.us,"City of Roseville, CA",NULL,38.748373,-121.284270,NULL,"311 Vernon St, Roseville, CA 95678"
+141,data.rutlandcitypolice.com,"City of Rutland, VT",NULL,43.605193,-72.977877,NULL,"1 Strongs Ave, Rutland, VT 05701"
+142,data.safest.org,"Safe Streets",NULL,47.257042,-122.445870,NULL,"622 Tacoma Ave South 1st Floor Tacoma, WA 98402"
+143,data.sandiegocounty.gov,"San Diego County, CA",NULL,32.722480,-117.172060,NULL,"1600 Pacific Hwy #260, San Diego, CA 92101"
+144,data.sccgov.org,"County of Santa Clara, CA",NULL,37.352346,-121.903833,NULL,"70 W Hedding St 1st Floor, San Jose, CA 95110"
+145,data.seattle.gov,"City of Seattle, WA",NULL,47.603953,-122.330498,NULL,"600 4th Ave, Seattle, WA 98104"
+146,data.sfgov.org,"City and County of San Francisco, CA",NULL,37.776682,-122.418174,NULL,"1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102"
+147,data.smcgov.org,"County of San Mateo, CA",NULL,37.488000,-122.230720,NULL,"555 County Center, Redwood City, CA 94063"
+148,data.smgov.net,"City of Santa Monica, CA",NULL,34.011700,-118.492240,NULL,"1685 Main St, Santa Monica, CA 90401"
+149,data.snhd.org,"Southern Nevada Health District, NV",NULL,36.173056,-115.062239,NULL,"70 N Nellis Blvd, Las Vegas, NV 89110"
+150,data.somervillema.gov,"City of Somerville, MA",NULL,42.387196,-71.098192,NULL,"93 Highland Ave, Somerville, MA 02143"
+151,data.sonomacounty.ca.gov,"Sonoma County, CA",NULL,38.465735,-122.725217,NULL,"585 Fiscal Dr # 103F, Santa Rosa, CA 95403"
+152,data.srcity.org,"City of Santa Rosa, CA",NULL,38.437785,-122.711174,NULL,"100 Santa Rosa Ave, Santa Rosa, CA 95404"
+153,data.strathcona.ca,"Strathcona County, Canada",NULL,53.525583,-113.296887,NULL,"2001 Sherwood Dr, Sherwood Park, AB T8A 4W3, Canada"
+154,data.sunlightlabs.com,"Sunlight Foundation",NULL,38.898129,-77.032883,NULL,"1440 G Street NW Washington, DC 20005"
+155,data.sunshinecoast.qld.gov.au,"Sunshine Coast Council",NULL,-26.654814,153.092894,NULL,"10 First Ave, Maroochydore QLD 4558, Australia"
+156,data.sustainablesm.org,"Santa Monica Office of Sustainability and the Environment",NULL,34.011120,-118.488823,NULL,"1717 4th St #100, Santa Monica, CA 90401"
+157,data.texas.gov,"State of Texas",NULL,30.272318,-97.738823,NULL,"1100 San Jacinto Blvd, Austin, TX 78701"
+158,data.tol.ca,"Township of Langley Canada",NULL,49.085280,-122.601480,NULL,"Langley, BC, V2Z 1N4, Canada"
+159,data.tompsc.com,"Town of Mount Pleasant Municipal Complex",NULL,32.800826,-79.888074,NULL,"100 Ann Edwards Ln, Mt Pleasant, SC 29464"
+160,data.topeka.org,"City of Topeka, KS",NULL,39.049026,-95.672044,NULL,"215 SE 7th St, Topeka, KS 66603"
+161,data.transportation.gov,"U.S. Department of Transportation",NULL,38.875898,-77.003290,NULL,"1200 New Jersey Ave, SE Washington, DC 20590"
+162,data.tuscaloosa.com,"City of Tuscaloosa, AL",NULL,33.209720,-87.565810,NULL,"2230 6th St, Tuscaloosa, AL 35403"
+163,data.urbanaillinois.us,"City of Urbana, IL",NULL,40.110071,-88.204447,NULL,"400 S Vine St, Urbana, IL 61801"
+164,data.vbgov.com,"City of Virginia Beach, VA",NULL,36.750431,-76.056388,NULL,"2401 Courthouse Dr, Virginia Beach, VA 23456"
+165,data.vermont.gov,"State of Vermont",NULL,44.256580,-72.567590,NULL,"109 State St, Montpelier, VT 05609"
+166,data.vta.org,"Santa Clara Valley Transportation Authority (VTA), CA",NULL,37.400110,-121.939970,NULL,"3331 N 1st St bldg b, San Jose, CA 95134"
+167,data.wa.gov,"State of Washington",NULL,46.978110,-122.702390,NULL,"416 14th Ave SW, Olympia, WA 98504"
+168,data.waterpointdata.org,"Water Point Data Exchange (WPDx)",NULL,33.990911,-118.248596,NULL,na
+169,data.weho.org,"City of West Hollywood, CA",NULL,34.090313,-118.370644,NULL,"8300 Santa Monica Blvd, West Hollywood, CA 90069"
+170,data.winnipeg.ca,"City of Winnipeg, Canada",NULL,49.899790,-97.138449,NULL,"510 Main St, Winnipeg, MB R3B 1B9, Canada"
+171,datacatalog.cookcountyil.gov,"Cook County, IL",NULL,41.883819,-87.631210,NULL,"118 N Clark St, Chicago, IL 60602"
+172,datadiscovery.nlm.nih.gov,"National Library of Medicine (NLM)",NULL,38.995310,-77.096640,NULL,"8600 Rockville Pike, Bethesda, MD 20894"
+173,datapoints.dallascityhall.com,"City of Dallas, TX",NULL,32.776250,-96.798320,NULL,"1500 Marilla St, Dallas, TX 75201"
+174,debtwatch.treasury.ri.gov,"State of Rhode Island",NULL,41.831106,-71.414945,NULL,"82 Smith St, Providence, RI 02903"
+175,eda.data.commerce.gov,"U.S. Economic Development Administration",NULL,38.892647,-77.032818,NULL,"1401 Constitution Ave NW, Washington, DC 20230"
+176,electionsdata.kingcounty.gov,"King County, WA",NULL,47.602903,-122.329270,NULL,"500 4th Ave #430, Seattle, WA 98104"
+177,esa.data.commerce.gov,"U.S. Economics & Statistics Administration",NULL,38.595000,-77.236600,NULL,"washington dc "
+178,finances.worldbank.org,"World Bank",NULL,38.898945,-77.042568,NULL,"1818 H St NW, Washington, DC 20433"
+179,flintactiontracker.michigan.gov,"State of Michigan",NULL,44.272508,-86.272502,NULL,"1672 US-31, Manistee, MI 49660"
+180,future.michigan.gov,"State of Michigan",NULL,44.272508,-86.272502,NULL,"1672 US-31, Manistee, MI 49660"
+181,greengov.data.ca.gov,"State of California",NULL,38.576780,-121.494890,NULL,"1315 10th St, Sacramento, CA 95814"
+182,hartstat.hartford.gov,"City of Hartford, CT",NULL,41.762720,-72.674220,NULL,"550 Main St #1, Hartford, CT 06103"
+183,health.data.ny.gov,"State of New York",NULL,40.749776,-73.974898,NULL,"633 3rd Ave 38th Floor, New York, NY 10017"
+184,healthdata.nj.gov,"State of New Jersey",NULL,40.219900,-74.764060,NULL,"125 W State St, Trenton, NJ 08608"
+185,hsmp-data.aspe.hhs.gov,"U.S. Department of Health and Human Services (HHS)",NULL,38.884830,-77.015260,NULL,"330 C St SW, Washington, DC 20416"
+186,impact.glispa.org,"Global Island Partnership (GLISPA)",NULL,40.750031,-73.969191,NULL,"777 United Nations Plaza, 5th Floor New York, NY 10017-3521"
+187,impact.stlouisco.com,"St. Louis County, MO",NULL,38.648116,-90.338923,NULL,"105 S Central Ave, St. Louis, MO 63105"
+188,information.stpaul.gov,"City of Saint Paul, MN",NULL,44.943920,-93.093480,NULL,"15 W Kellogg Blvd #310, St Paul, MN 55102"
+189,insights.cincinnati-oh.gov,"City of Cincinnati, OH",NULL,39.099528,-84.519066,NULL,"805 Central Ave #110, Cincinnati, OH 45202"
+190,ita.data.commerce.gov,"U.S. Department of Commerce International Trade Administration",NULL,38.892647,-77.032818,NULL,"1401 Constitution Ave NW, Washington, DC 20230"
+191,kcstat.kcmo.org,"City of Kansas City, MO",NULL,39.100781,-94.577859,NULL,"414 E 12th St, Kansas City, MO 64106"
+192,mbda.data.commerce.gov,"U.S. Minority Business Development Agency",NULL,38.892647,-77.032818,NULL,"1401 Constitution Ave NW, Washington, DC 20230"
+193,midashboard.michigan.gov,"State of Michigan",NULL,44.272508,-86.272502,NULL,"1672 US-31, Manistee, MI 49660"
+194,mydata.iadb.org,"Inter-American Development Bank",NULL,38.899409,-77.030529,NULL,"1300 New York Ave NW, Washington, DC 20577"
+195,nist.data.commerce.gov,"National Institute of Standards and Technology (NIST)",NULL,39.144390,-77.216530,NULL,"100 Bureau Dr, Gaithersburg, MD 20899"
+196,noaa.data.commerce.gov,"National Oceanic and Atmospheric Administration (NOAA)",NULL,38.892647,-77.032818,NULL,"1401 Constitution Ave NW, Washington, DC 20230"
+197,ntia.data.commerce.gov,"National Telecommunications and Information Administration (NTIA)",NULL,38.892647,-77.032818,NULL,"1401 Constitution Ave NW, Washington, DC 20230"
+198,ntis.data.commerce.gov,"National Technical Information Service (NTIS)",NULL,39.144390,-77.216530,NULL,"100 Bureau Dr, Gaithersburg, MD 20899"
+199,open.piercecountywa.gov,"Pierce County, WA",NULL,47.253304,-122.445237,NULL,"930 Tacoma Ave S, Tacoma, WA 98402"
+200,opendata.ci.richmond.ca.us,"City of Richmond, CA",NULL,37.936775,-122.342778,NULL,"440 Civic Center Plaza, Richmond, CA 94804"
+201,opendata.cityofhenderson.com,"City of Henderson, NV",NULL,36.030216,-114.982310,NULL,"240 S Water St, Henderson, NV 89015"
+202,opendata.cityofmesquite.com,"City of Mesquite, TX",NULL,32.762042,-96.599045,NULL,"757 N S Galloway Ave, Mesquite, TX 75149"
+203,opendata.fcc.gov,"U.S. Federal Communications Commission",NULL,38.884570,-77.028200,NULL,"445 12th St SW, Washington, DC 20554"
+204,opendata.fcgov.com,"City of Fort Collins, CO",NULL,40.581966,-105.083769,NULL,"424 W Mulberry St, Fort Collins, CO 80521"
+205,opendata.howardcountymd.gov,"Howard County, MD",NULL,39.268523,-76.798393,NULL,"8360 Court Ave, Ellicott City, MD 21043"
+206,opendata.lasvegasnevada.gov,"City of Las Vegas, NV",NULL,36.167364,-115.148431,NULL,"495 S Main St, Las Vegas, NV 89101"
+207,opendata.miamidade.gov,"Miami-Dade County, FL",NULL,25.774656,-80.195150,NULL,"73 W Flagler St, Miami, FL 33128"
+208,opendata.ramseycounty.us,"Ramsey County, MN",NULL,44.936127,-93.090619,NULL,"90 Plato Blvd W, St Paul, MN 55107"
+209,opendata.usac.org,"Universal Service Administrative Company",NULL,38.899148,-77.028459,NULL,"700 12th St NW #900, Washington, DC 20005"
+210,opendata.utah.gov,"State of Utah",NULL,40.778180,-111.888570,NULL,"350 State St Suite 200, Salt Lake City, UT 84114"
+211,opengov.cityofdubuque.org,"City of Dubuque, MS",NULL,42.505144,-90.667876,NULL,"50 W 13th St, Dubuque, IA 52001"
+212,openpaymentsdata.cms.gov,"Centers for Medicare & Medicaid Services",NULL,38.887510,-77.014100,NULL,"200 Independence Ave SW, Washington, DC 20201"
+213,openperformance.ramseycounty.us,"Ramsey County, MN",NULL,44.936127,-93.090619,NULL,"90 Plato Blvd W, St Paul, MN 55107"
+214,performance.adcogov.org,"Adams County, CO",NULL,39.923754,-104.812922,NULL,"4430 S Adams County Pkwy, Brighton, CO 80601"
+215,performance.austintexas.gov,"City of Austin, TX",NULL,30.264717,-97.747294,NULL,"301 W 2nd St # 1120, Austin, TX 78701"
+216,performance.carson.org,"Carson City, NV",NULL,39.201066,-119.785727,NULL,"1470 Medical Pkwy, Carson City, NV 89703"
+217,performance.chattanooga.gov,"City of Chattanooga, TN",NULL,35.043650,-85.307380,NULL,"101 E 11th St, Chattanooga, TN 37402"
+218,performance.ci.janesville.wi.us,"City of Janesville, WI",NULL,42.682086,-89.026769,NULL,"18 N Jackson St, Janesville, WI 53548"
+219,performance.cityofcamas.us,"City of Camas, WA",NULL,45.586736,-122.401800,NULL,"616 NE 4th Ave, Camas, WA 98607"
+220,performance.cityofdavenportiowa.com,"City of Davenport, IA",NULL,41.524060,-90.582240,NULL,"600 W 4th St, Davenport, IA 52801"
+221,performance.cityofrc.us,"City of Rancho Cucamonga, CA",NULL,34.103436,-117.574543,NULL,"10500 Civic Center Dr, Rancho Cucamonga, CA 91730"
+222,performance.cookcountyil.gov,"Cook County, IL",NULL,NULL,NULL,NULL,NULL
+223,performance.danvilleva.gov,"City of Danville, VA",NULL,NULL,NULL,NULL,NULL
+224,performance.franklintn.gov,"City of Franklin, TN",NULL,NULL,NULL,NULL,NULL
+225,performance.fultoncountyga.gov,"Fulton County, GA",NULL,NULL,NULL,NULL,NULL
+226,performance.glendaleca.gov,"City of Glendale, CA",NULL,NULL,NULL,NULL,NULL
+227,performance.greensboro-nc.gov,"City of Greensboro, NC",NULL,NULL,NULL,NULL,NULL
+228,performance.princegeorgescountymd.gov,"Prince George's County, MD",NULL,NULL,NULL,NULL,NULL
+229,performance.providenceri.gov,"City of Providence, RI",NULL,NULL,NULL,NULL,NULL
+230,performance.sandiegocounty.gov,"San Diego County, CA",NULL,NULL,NULL,NULL,NULL
+231,performance.seattle.gov,"City of Seattle, WA",NULL,NULL,NULL,NULL,NULL
+232,performance.smcgov.org,"County of San Mateo, CA",NULL,NULL,NULL,NULL,NULL
+233,performance.topeka.org,"City of Topeka, KS",NULL,NULL,NULL,NULL,NULL
+234,performance.vbgov.com,"City of Virginia Beach, VA",NULL,NULL,NULL,NULL,NULL
+235,performance.williamsburgva.gov,"City of Williamsburg, VA",NULL,NULL,NULL,NULL,NULL
+236,perspectives.dnrec.delaware.gov,"State of Delaware",NULL,NULL,NULL,NULL,NULL
+237,pip.nashville.gov,"Nashville City and Davidson County, TN",NULL,NULL,NULL,NULL,NULL
+238,policeview.johnscreekga.gov,"City of Johns Creek, GA",NULL,NULL,NULL,NULL,NULL
+239,reportcard.santamonicayouth.net,"City of Santa Monica, CA",NULL,NULL,NULL,NULL,NULL
+240,reports.awcnet.org,"Association of Washington Cities, WA",NULL,NULL,NULL,NULL,NULL
+241,reports.data.imls.gov,"Institute of Museum and Library Services (IMLS)",NULL,NULL,NULL,NULL,NULL
+242,results.livewellsd.org,"County of San Diego, CA",NULL,NULL,NULL,NULL,NULL
+243,ship.dfs.ny.gov,"State of New York",NULL,NULL,NULL,NULL,NULL
+244,stat.cityofgainesville.org,"City of Gainesville, FL",NULL,NULL,NULL,NULL,NULL
+245,stat.montgomerycountymd.gov,"Montgomery County, MD",NULL,NULL,NULL,NULL,NULL
+246,stat.stpete.org,"City of St. Petersburg, FL",NULL,NULL,NULL,NULL,NULL
+247,stats.cityofcarrollton.com,"City of Carrollton, TX",NULL,NULL,NULL,NULL,NULL
+248,strategicplanning1.aspe.hhs.gov,"U.S. Department of Health and Human Services",NULL,NULL,NULL,NULL,NULL
+249,sustainability.metroairports.org,"Metropolitan Airports Commission",NULL,NULL,NULL,NULL,NULL
+250,tni.princegeorgescountymd.gov,"Prince George's County, MD",NULL,NULL,NULL,NULL,NULL
+251,transparencyarchive.michigan.gov,"State of Michigan",NULL,NULL,NULL,NULL,NULL
+252,uspto.data.commerce.gov,"U.S. Patent and Trademark Office",NULL,NULL,NULL,NULL,NULL
+253,www.dallasopendata.com,"City of Dallas, TX",NULL,NULL,NULL,NULL,NULL
+254,www.data.act.gov.au,"ACT Government Australia",NULL,NULL,NULL,NULL,NULL
+255,www.datos.gov.co,"Datos Abiertos Colombia",NULL,NULL,NULL,NULL,NULL
+256,www.forsythfutures.org,"Forsyth Futures",NULL,NULL,NULL,NULL,NULL
+257,www.mdchildhungerpartnership.org,"The Partnership to End Childhood Hunger in Maryland",NULL,NULL,NULL,NULL,NULL
+258,www.metrochicagodata.org,"Metro Chicago Data, IL",NULL,NULL,NULL,NULL,NULL
+259,www.opendatanyc.com,"New York City, NY",NULL,NULL,NULL,NULL,NULL
+260,www.pivcide.pr,"Puerto Rico",NULL,NULL,NULL,NULL,NULL
+261,www.sudandata.org,Sudan,NULL,NULL,NULL,NULL,NULL
+262,www.thedatazone.ca,"datazONE Canada",NULL,NULL,NULL,NULL,NULL
+263,dashboard.udot.utah.gov,"Utah State Department of Transportation",NULL,NULL,NULL,NULL,NULL
+264,data.usaid.gov,"US aid",NULL,NULL,NULL,NULL,NULL
+265,internal.open.piercecountywa.gov,"Pierce County, WA",NULL,NULL,NULL,NULL,NULL
+266,idp.nz,"Internet New Zealand",NULL,NULL,NULL,NULL,NULL
+267,data.oce.pr.gov,"Puerto Rico",NULL,NULL,NULL,NULL,NULL
+268,data.pinellas.gov,"Pinellas County FL",NULL,NULL,NULL,NULL,NULL
+269,fiscalfocus.pittsburghpa.gov,"Pittsburgh City Controller",NULL,NULL,NULL,NULL,NULL
+270,highways.hidot.hawaii.gov,"Hawaii State Department of Transportation",NULL,NULL,NULL,NULL,NULL
+271,opendata.maryland.gov,"State of Maryland",NULL,NULL,NULL,NULL,NULL

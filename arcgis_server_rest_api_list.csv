@@ -1,0 +1,1094 @@
+id,rest_url,place,center_lat,center_long,center_zoom,name,type,web,address
+1,https://maps.lacity.org/arcgis/rest/services/Mapping/NavigateLA/MapServer,"Los Angeles NavigateLA",34.049039,-118.246521,17,"Los Angeles NavigateLA",service,NULL,NULL
+2,https://dcgis.maps.arcgis.com,"Washington DC",38.906860,-77.027505,12,"Washington DC",web,NULL,NULL
+3,https://maps.lacity.org/lahub/rest/services/Maps_and_Indices/MapServer,"Los Angeles LAhub Maps Indices",34.049039,-118.246521,11,"Los Angeles LAhub Maps Indices",service,NULL,NULL
+4,https://services2.arcgis.com/zNjnZafDYCAJAbN0/ArcGIS/rest/services,Pasadena,34.145795,-118.142841,17,Pasadena,folder,NULL,NULL
+5,https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/Political_Boundaries/MapServer,"Los Angeles County Political",34.049039,-118.246521,10,"Los Angeles County Political",service,NULL,NULL
+6,https://maps.lacity.org/lahub/rest/services,"Los Angeles City LAhub",34.049039,-118.246521,17,"Los Angeles City LAhub",folder,NULL,NULL
+7,https://public.gis.lacounty.gov/public/rest/services,"Los Angeles County",34.049039,-118.246521,17,"Los Angeles County",folder,NULL,NULL
+8,https://maps.lacity.org/arcgis/rest/services,"Los Angeles City Maps NavigateLA",34.049039,-118.246521,18,"Los Angeles City Maps NavigateLA",folder,NULL,NULL
+9,https://assessor.gis.lacounty.gov/assessor/rest/services/PAIS/pais_parcels/MapServer,"Los Angeles County Assessor",34.049039,-118.246521,17,"Los Angeles County Assessor",service,NULL,NULL
+10,https://data.seattle.gov/resource,Seattle,47.612589,-122.335788,17,Seattle,domain,NULL,NULL
+11,https://data.lacity.org/resource,"Los Angeles",34.049039,-118.246521,17,"Los Angeles",domain,NULL,NULL
+12,https://data.cityofchicago.org/resource,Chicago,41.876509,-87.629909,18,Chicago,domain,NULL,NULL
+13,https://data.cityofnewyork.us/resource,"New York-socrata",40.703603,-74.012224,17,"New York-socrata",domain,NULL,NULL
+14,https://gisrevprxy.seattle.gov/arcgis/rest/services/ext/WM_CityGISLayers/MapServer,Seattle,47.612589,-122.335788,17,Seattle,folder,NULL,NULL
+15,https://gisservices.its.ny.gov/arcgis/rest/services,"New York State",40.703603,-73.994256,17,"New York State",folder,NULL,NULL
+16,https://gisservices.its.ny.gov/arcgis/rest/services/NYS_Tax_Parcels_Public/MapServer,"New York State NYS_Tax_Parcels_Public",40.703603,-73.994256,17,"New York State NYS_Tax_Parcels_Public",service,NULL,NULL
+17,https://gis3.dot.ny.gov/ArcGIS/rest/services/Basemap/MapServer,"New York State Transportation",40.703603,-73.994256,15,"New York State Transportation",folder,NULL,NULL
+18,https://gisservices.its.ny.gov/arcgis/rest/services/NYS_Assembly_Districts/MapServer,"New York State_Assembly_Districts",40.703603,-73.994256,11,"New York State_Assembly_Districts",service,NULL,NULL
+19,https://gisservices.its.ny.gov/arcgis/rest/services/NYS_Congressional_Districts/MapServer,"New York State_Congressional_Districts",40.703603,-73.994256,11,"New York State_Congressional_Districts",service,NULL,NULL
+20,https://gisservices.its.ny.gov/arcgis/rest/services/NYS_Senate_Districts/MapServer,"New York State_Senate_Districts",40.703603,-73.994256,11,"New York State_Senate_Districts",service,NULL,NULL
+21,https://gisservices.its.ny.gov/arcgis/rest/services/NYS_Place_Points/MapServer,"New York State_Place_Points",40.703603,-73.994256,15,"New York State_Place_Points",service,NULL,NULL
+22,https://gisservices.its.ny.gov/arcgis/rest/services/SAM_Address_Points/MapServer,"New York State_Address_Points",40.703603,-73.994256,17,"New York State_Address_Points",service,NULL,NULL
+23,https://gisservices.its.ny.gov/arcgis/rest/services/NYS_Streets/MapServer,"New York State_Streets ",40.703603,-73.994256,17,"New York State_Streets ",service,NULL,NULL
+24,https://gisservices.its.ny.gov/arcgis/rest/services/NYS_Civil_Boundaries/MapServer,"New York State_Civil_Boundaries",40.703603,-73.994256,11,"New York State_Civil_Boundaries",service,NULL,NULL
+25,https://cohegis.houstontx.gov/cohgispub/rest/services,Houston,29.756241,-95.367312,17,Houston,folder,NULL,NULL
+26,https://data.sfgov.org/resource,"San Francisco socrata",37.804427,-122.410632,17,"San Francisco socrata",domain,NULL,NULL
+27,https://gis-webpub.sonoma-county.org/arcgis/rest/services,"Sonoma County basemap",38.440976,-122.715339,17,"Sonoma County basemap",folder,NULL,NULL
+28,https://maps2.dcgis.dc.gov/dcgis/rest/services,"Washington DC",38.907292,-77.036420,17,"Washington DC",folder,NULL,NULL
+29,https://gismaps.kingcounty.gov/arcgis/rest/services,"King County ",47.612589,-122.335788,17,"King County ",folder,NULL,NULL
+30,https://gis.water.ca.gov/arcgis/rest/services,"California State Department of Water Resource arcgis",34.049039,-118.246521,10,"California State Department of Water Resource arcgis",folder,NULL,NULL
+31,https://nowcoast.noaa.gov/arcgis/rest/services,"NOAA nowcoast arcgis",34.049039,-118.246521,10,"NOAA nowcoast arcgis",folder,NULL,NULL
+32,https://gis.ngdc.noaa.gov/arcgis/rest/services,"NOAA National Centers for Environmental Information  arcgis",34.049039,-118.246521,10,"NOAA National Centers for Environmental Information  arcgis",folder,NULL,NULL
+33,https://sampleserver3.arcgisonline.com/ArcGIS/rest/services,"Arcgis online sampleserver3",34.049039,-118.246521,16,"Arcgis online sampleserver3",folder,NULL,NULL
+34,https://sampleserver6.arcgisonline.com/arcgis/rest/services,"Arcgis online sampleserver6",34.049039,-118.246521,16,"Arcgis online sampleserver6",folder,NULL,NULL
+35,https://mapservices.nps.gov/arcgis/rest/services,"National Park Service",40.703603,-74.012224,16,"National Park Service",folder,NULL,NULL
+36,https://irmaservices.nps.gov/arcgis/rest/services,"National Park Service irma",40.703603,-74.012224,16,"National Park Service irma",folder,NULL,NULL
+37,https://geodata.epa.gov/arcgis/rest/services,"Environmental Protection Agency",40.703603,-74.012224,16,"Environmental Protection Agency",folder,NULL,NULL
+38,https://echo.epa.gov/arcgis/rest/services,"Enforcement and Compliance History Online",40.703603,-74.012224,16,"Enforcement and Compliance History Online",folder,NULL,NULL
+39,https://enviroatlas.epa.gov/arcgis/rest/services,EnviroAtlas,40.703603,-74.012224,16,EnviroAtlas,folder,NULL,NULL
+40,https://edg.epa.gov/arcgis/rest/services,"Environmental Dataset Gateway",40.703603,-74.012224,16,"Environmental Dataset Gateway",folder,NULL,NULL
+41,https://ejscreen.epa.gov/arcgis/rest/services,"EJSCREEN Environmental Justice Screening and Mapping Tool",40.703603,-74.012224,16,"EJSCREEN Environmental Justice Screening and Mapping Tool",folder,NULL,NULL
+42,https://gispub.epa.gov/arcgis/rest/services,"Environmental Protection Agency",40.703603,-74.012224,16,"Environmental Protection Agency",folder,NULL,NULL
+43,https://apps.fs.usda.gov/arcx/rest/services,"U.S. Forest Service",40.703603,-74.012224,16,"U.S. Forest Service",folder,NULL,NULL
+44,https://services5.arcgis.com/GfwWNkhOj9bNBqoJ/ArcGIS/rest/services,"New York City",40.703603,-74.012224,17,"New York City",folder,NULL,NULL
+45,https://gisdata.dot.ca.gov/arcgis/rest/services,"California State Department of Transportation",34.049039,-118.246521,16,"California State Department of Transportation",folder,NULL,NULL
+46,http://gis.abag.ca.gov/arcgis/rest/services,"Association of Bay Area Governments",37.804427,-122.410632,17,"Association of Bay Area Governments",folder,NULL,NULL
+47,https://gisapps.cityofchicago.org/arcgis/rest/services,Chicago,41.876509,-87.629909,17,Chicago,folder,NULL,NULL
+48,https://maps.pasda.psu.edu/arcgis/rest/services,"Pennsylvania Spatial Data",39.952583,-75.165222,17,"Pennsylvania Spatial Data",folder,NULL,NULL
+49,http://maps.psiee.psu.edu/arcgis/rest/services,"Pennsylvania State University Institute Of Energy Environment",39.952583,-75.165222,17,"Pennsylvania State University Institute Of Energy Environment",folder,NULL,NULL
+50,https://maps.cityofrochester.gov/arcgis/rest/services,Rochester,43.156578,-77.608849,17,Rochester,folder,NULL,NULL
+51,https://mapservices.phoenix.gov/arcgis/rest/services,Phoenix,33.448376,-112.074036,17,Phoenix,folder,NULL,NULL
+52,https://qagis.sanantonio.gov/arcgis/rest/services,"San Antonio",29.424122,-98.493629,17,"San Antonio",folder,NULL,NULL
+53,https://maps.bexar.org/arcgis/rest/services,"Bexar County",29.424122,-98.493629,17,"Bexar County",folder,NULL,NULL
+54,http://maps.sandiego.gov/ArcGIS/rest/services,"San Diego",32.715736,-117.161087,17,"San Diego",folder,NULL,NULL
+55,https://gis-public.co.san-diego.ca.us/arcgis/rest/services,"San Diego County",32.715736,-117.161087,17,"San Diego County",folder,NULL,NULL
+56,https://gis.dallascityhall.com/wwwgis/rest/services,Dallas,32.776665,-96.796989,17,Dallas,folder,NULL,NULL
+57,http://gis.sanjoseca.gov/arcgis/rest/services,"San Jose",37.338207,-121.886330,17,"San Jose",folder,NULL,NULL
+58,http://maps.coj.net/coj/rest/services,Jacksonville,30.332184,-81.655647,17,Jacksonville,folder,NULL,NULL
+59,http://imaps.indy.gov/arcgis/rest/services,Indianapolis,39.768402,-86.158066,17,Indianapolis,folder,NULL,NULL
+60,https://maps.columbus.gov/arcgis/rest/services,Columbus,39.961178,-82.998795,17,Columbus,folder,NULL,NULL
+61,https://mapit.fortworthtexas.gov/ags/rest/services,"Fort Worth",32.755489,-97.330765,17,"Fort Worth",folder,NULL,NULL
+62,https://maps.ci.charlotte.nc.us/arcgis/rest/services,Charlotte,35.227085,-80.843124,17,Charlotte,folder,NULL,NULL
+63,https://ccgis.charlottecountyfl.gov/arcgis/rest/services,"Charlotte County",26.931650,-82.041023,17,"Charlotte County",folder,NULL,NULL
+64,https://gis.elpasotexas.gov/arcgis/rest/services,"El Paso",31.761877,-106.485023,17,"El Paso",folder,NULL,NULL
+65,https://gis.detroitmi.gov/arcgis/rest/services,Detroit,42.331429,-83.045753,17,Detroit,folder,NULL,NULL
+66,http://gis.cityofboston.gov/arcgis/rest/services,Boston,42.360081,-71.058884,17,Boston,folder,NULL,NULL
+67,http://mapgis.memphistn.gov/arcgis/rest/services,Memphis,35.149532,-90.048981,17,Memphis,folder,NULL,NULL
+68,https://maps.nashville.gov/arcgis/rest/services,Nashville,36.162663,-86.781601,17,Nashville,folder,NULL,NULL
+69,https://www.portlandmaps.com/arcgis/rest/services,Portland,45.512230,-122.658722,17,Portland,folder,NULL,NULL
+70,https://gis.edmondok.com/arcgis/rest/services,"Oklahoma City",35.467560,-97.516426,17,"Oklahoma City",folder,NULL,NULL
+71,https://mapdata.lasvegasnevada.gov/clvgis/rest/services,"Las Vegas",36.169941,-115.139832,17,"Las Vegas",folder,NULL,NULL
+72,http://cityview.baltimorecity.gov/ArcGIS/rest/services,Baltimore,39.290386,-76.612190,17,Baltimore,folder,NULL,NULL
+73,http://bcgis.baltimorecountymd.gov/arcgis/rest/services,"Baltimore County",39.290386,-76.612190,17,"Baltimore County",folder,NULL,NULL
+74,https://ags1.lojic.org/arcgis/rest/services,Louisville,38.252666,-85.758453,17,Louisville,folder,NULL,NULL
+75,https://maps2.milwaukee.gov/arcgis/rest/services,Milwaukee,43.038902,-87.906471,17,Milwaukee,folder,NULL,NULL
+76,https://lio.milwaukeecountywi.gov/arcgis/rest/services,"Milwaukee County",43.038902,-87.906471,17,"Milwaukee County",folder,NULL,NULL
+77,http://coagisweb.cabq.gov/arcgis/rest/services,Albuquerque,35.084385,-106.650421,17,Albuquerque,folder,NULL,NULL
+78,https://maps2.tucsonaz.gov/arcgis/rest/services,Tucson,32.222607,-110.974709,17,Tucson,folder,NULL,NULL
+79,https://gis4u.fresno.gov/arcgis/rest/services,Fresno,36.737797,-119.787125,17,Fresno,folder,NULL,NULL
+80,http://gis-server.cityofwestsacramento.org/arcgis/rest/services,Sacramento,38.581573,-121.494400,17,Sacramento,folder,NULL,NULL
+81,http://mapservices.gis.saccounty.net/arcgis/rest/services,"Sacramento County",38.581573,-121.494400,17,"Sacramento County",folder,NULL,NULL
+82,https://maps.kcmo.org/kcgis/rest/services,"Kansas City",39.099728,-94.578568,17,"Kansas City",folder,NULL,NULL
+83,https://tsdgis.longbeach.gov/webgis/rest/services,"Long Beach",33.770050,-118.193741,17,"Long Beach",folder,NULL,NULL
+84,https://gis.atlantaga.gov/dpcd/rest/services,Atlanta,33.748997,-84.387985,17,Atlanta,folder,NULL,NULL
+85,http://apps.costamesaca.gov/arcgis/rest/services,"Costa Mesa",33.641216,-117.918823,17,"Costa Mesa",folder,NULL,NULL
+86,https://gis.coloradosprings.gov/arcgis/rest/services,"Colorado Springs",38.833881,-104.821365,17,"Colorado Springs",folder,NULL,NULL
+87,https://gismaps.vbgov.com/arcgis/rest/services,"Virginia Beach",36.852924,-75.977982,17,"Virginia Beach",folder,NULL,NULL
+88,https://earthquake.usgs.gov/arcgis/rest/services,"USGS Earthquake",34.049039,-118.246521,17,"USGS Earthquake",folder,NULL,NULL
+89,https://basemap.nationalmap.gov/arcgis/rest/services,"USGS Base Map",34.049039,-118.246521,17,"USGS Base Map",folder,NULL,NULL
+90,https://gis.dogis.org/arcgis/rest/services,Omaha,41.256538,-95.934502,17,Omaha,folder,NULL,NULL
+91,https://maps.raleighnc.gov/arcgis/rest/services,Raleigh,35.779591,-78.638176,17,Raleigh,folder,NULL,NULL
+92,https://maps.townofcary.org/arcgis/rest/services,Cary,35.826055,-78.767304,17,Cary,folder,NULL,NULL
+93,https://gisweb.miamidade.gov/arcgis/rest/services,"Miami Dade County gisweb",25.761681,-80.191788,17,"Miami Dade County gisweb",folder,NULL,NULL
+94,https://gis.miamibeachfl.gov/arcgispublic/rest/services,"Miami Beach",25.790653,-80.130043,17,"Miami Beach",folder,NULL,NULL
+95,https://gisws.miamidade.gov/arcgis/rest/,"Miami Dade County gisws",25.761681,-80.191788,17,"Miami Dade County gisws",folder,NULL,NULL
+96,http://mapgis.oaklandnet.com/ArcGIS/rest/services,Oakland,37.804363,-122.271111,17,Oakland,folder,NULL,NULL
+97,http://gisapps.mapoakland.com/oakgis/rest/services,"Oakland gisapps",37.804363,-122.271111,17,"Oakland gisapps",folder,NULL,NULL
+98,https://services.arcgis.com/afSMGVsC7QlRK1kZ/ArcGIS/rest/services,Minneapolis,44.977753,-93.265015,17,Minneapolis,folder,NULL,NULL
+99,https://maps.co.ramsey.mn.us/arcgis/rest/services,"Ramsey County",44.977753,-93.265015,17,"Ramsey County",folder,NULL,NULL
+100,https://gis.hennepin.us/arcgis/rest/services,"Hennepin County",44.977753,-93.265015,17,"Hennepin County",folder,NULL,NULL
+101,https://maps.cityoftulsa.org/gis/rest/services,Tulsa,36.153980,-95.992775,17,Tulsa,error,NULL,NULL
+102,http://www.clevelandgis.org/arcgis/rest/services,Cleveland,41.499321,-81.694359,17,Cleveland,folder,NULL,NULL
+103,http://gis.hudson.oh.us/arcgis/rest/services,Hudson,41.239960,-81.440422,17,Hudson,folder,NULL,NULL
+104,https://gismaps.wichita.gov/agsweb/rest/services,Wichita,37.687176,-97.330055,17,Wichita,folder,NULL,NULL
+105,https://gis2.arlingtontx.gov/agsext2/rest/services,Arlington,32.735687,-97.108063,17,Arlington,folder,NULL,NULL
+106,https://gis.nola.gov/arcgis/rest/services,"New Orleans",29.951065,-90.071533,17,"New Orleans",folder,NULL,NULL
+107,https://gis.bakersfieldcity.us/webmaps/rest/services,Bakersfield,35.373291,-119.018715,17,Bakersfield,folder,NULL,NULL
+108,https://arcgis.tampagov.net/arcgis/rest/services,Tampa,27.950575,-82.457176,17,Tampa,folder,NULL,NULL
+109,http://honolulugis.org/arcgis/rest/services,Honolulu,21.306944,-157.858337,17,Honolulu,folder,NULL,NULL
+110,https://locator.hawaii.gov/arcgis/rest/services,"Hawaii State",21.306944,-157.858337,17,"Hawaii State",folder,NULL,NULL
+112,https://gis.aurora-il.org/arcgis/rest/services,Aurora,36.970890,-93.717979,17,Aurora,folder,NULL,NULL
+113,https://gis.anaheim.net/server/rest/services,Anaheim,33.836594,-117.914299,17,Anaheim,folder,NULL,NULL
+114,https://services1.arcgis.com/u3G8zpmDyNtG4F4e/ArcGIS/rest/services,"Santa Ana",33.745472,-117.867653,17,"Santa Ana",folder,NULL,NULL
+115,https://mobile.ci.norco.ca.us/norarcgis/rest/services,Norco,33.924309,-117.554176,17,Norco,folder,NULL,NULL
+116,https://arcgis102.ci.corona.ca.us/arcgis/rest/services,Corona,33.875294,-117.566437,17,Corona,folder,NULL,NULL
+117,http://arcgis10.discovercorona.com/ArcGIS/rest/services,"Corona discover",33.875294,-117.566437,17,"Corona discover",folder,NULL,NULL
+118,https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/,"Miami Dade County",25.761681,-80.191788,17,"Miami Dade County",folder,NULL,NULL
+119,https://maps.stlouisco.com/arcgis/rest/services,"St. Louis",38.627003,-90.199402,17,"St. Louis",folder,NULL,NULL
+120,https://gis.countyofriverside.us/arcgis_public/rest/services,"Riverside County",33.980602,-117.375496,17,"Riverside County",folder,NULL,NULL
+121,https://maps.scag.ca.gov/scaggis/rest/services,"Southern California Association of Governments",33.980602,-117.375496,17,"Southern California Association of Governments",folder,NULL,NULL
+122,https://services.arcgis.com/fLeGjb7u4uXqeF9q/ArcGIS/rest/services,Philadelphia,39.952583,-75.165222,17,Philadelphia,folder,NULL,NULL
+123,https://dpw.gis.lacounty.gov/dpw/rest/services,"Los Angeles County Department of Public Work",34.049039,-118.246521,17,"Los Angeles County Department of Public Work",folder,NULL,NULL
+124,https://arcgis.gis.lacounty.gov/arcgis/rest/services,"Los Angeles County Department of Regional Planning",34.049039,-118.246521,17,"Los Angeles County Department of Regional Planning",folder,NULL,NULL
+125,https://transparentgov.net:8000/City%20of%20Los%20Angeles%20Public%20Work,"City of Los Angeles Department of Public Work",34.049039,-118.246521,17,"City of Los Angeles Department of Public Work",file,NULL,NULL
+126,https://transparentgov.net:8000/Los%20Angeles%20County%20Regional%20Planning,"Los Angeles County Department of Regional Planning",34.049039,-118.246521,17,"Los Angeles County Department of Regional Planning",file,NULL,NULL
+127,https://transparentgov.net:8000/Los%20Angeles%20County%20Public%20Work,"Los Angeles County Department of Public Work",34.049039,-118.246521,17,"Los Angeles County Department of Public Work",file,NULL,NULL
+128,https://transparentgov.net:8000/City%20of%20Costa%20Mesa,"City of Costa Mesa",33.641216,-117.918823,17,"City of Costa Mesa",file,NULL,NULL
+129,https://gis.urbaneng.com/arcgis/rest/services,"Corpus Christi",27.800583,-97.396378,17,"Corpus Christi",folder,NULL,NULL
+130,https://maps.lexingtonky.gov/lfucggis/rest/services,Lexington,38.040585,-84.503716,17,Lexington,folder,NULL,NULL
+131,https://maps.pittsburghpa.gov/primary/rest/services,Pittsburgh,40.440624,-79.995888,17,Pittsburgh,folder,NULL,NULL
+132,http://www.dot.state.ak.us/ArcGIS/rest/services,Anchorage,61.218056,-149.900284,17,Anchorage,folder,NULL,NULL
+133,http://www.stocktongov.com/arcgis/rest/services,Stockton,37.957703,-121.290779,17,Stockton,folder,NULL,NULL
+134,https://cagisonline.hamilton-co.org/arcgis/rest/services,Cincinnati,39.103119,-84.512016,17,Cincinnati,folder,NULL,NULL
+135,https://stpmaps.stpaul.gov/public/rest/services,"Saint Paul",44.953705,-93.089958,17,"Saint Paul",folder,NULL,NULL
+136,https://gis.toledo.oh.gov/arcgis/rest/services,Toledo,41.652805,-83.537865,17,Toledo,folder,NULL,NULL
+137,https://gis.greensboro-nc.gov/arcgis/rest/services,Greensboro,36.072636,-79.791977,17,Greensboro,folder,NULL,NULL
+138,https://njgin.ci.newark.nj.us/arcgis/rest/services,Newark,40.735657,-74.172363,17,Newark,folder,NULL,NULL
+139,https://maps.planogis.org/arcgiswad/rest/services,Plano,33.019844,-96.698883,17,Plano,folder,NULL,NULL
+140,https://gisrevprxy.seattle.gov/arcgis/rest/services/ext/WM_CityGISLayers/MapServer,Seattle,47.612589,-122.335788,17,Seattle,service,NULL,NULL
+141,http://maps.cityofhenderson.com/arcgis/rest/services,Henderson,36.039524,-114.981720,17,Henderson,folder,NULL,NULL
+142,https://gisproxy.hendersoncountync.gov/arcgis/rest/services,"Henderson County",36.328362,-78.402951,17,"Henderson County",folder,NULL,NULL
+143,https://gisext.lincoln.ne.gov:6443/arcgis/rest/services,Lincoln,40.813618,-96.702599,17,Lincoln,folder,NULL,NULL
+144,https://arcgisserver.lincolncounty.org/arcgis/rest/services,"Lincoln County",35.470870,-81.258450,17,"Lincoln County",folder,NULL,NULL
+145,https://gis.city-buffalo.com/arcgis/rest/services,Buffalo,42.886448,-78.878372,17,Buffalo,folder,NULL,NULL
+146,http://sdps.chulavistaca.gov:6080/arcgis/rest/services,"Chula Vista",32.640053,-117.084198,17,"Chula Vista",folder,NULL,NULL
+147,http://gis.chulavistaca.gov:6080/arcgis/rest/services,"Chula Vista gis",32.640053,-117.084198,17,"Chula Vista gis",folder,NULL,NULL
+148,https://gis.acimap.us/fwcu/rest/services,"Fort Wayne",41.079273,-85.139351,17,"Fort Wayne",folder,NULL,NULL
+149,http://www2.cityoforlando.net/arcgis/rest/services,Orlando,28.538336,-81.379234,17,Orlando,folder,NULL,NULL
+150,https://ocgis3.ocfl.net/arcgis/rest/services,"Orange County Florida",28.538336,-81.379234,17,"Orange County Florida",folder,NULL,NULL
+151,https://egis.stpete.org/arcgis/rest/services,"St. Petersburg Florida",27.772070,-82.638489,17,"St. Petersburg Florida",folder,NULL,NULL
+152,https://gistest.chandleraz.gov/arcgistest/rest/services,Chandler,33.306160,-111.841248,17,Chandler,folder,NULL,NULL
+153,https://orfmaps.norfolk.gov/orfgis/rest/services,Norfolk,36.850769,-76.285873,17,Norfolk,folder,NULL,NULL
+154,https://gis.dchcmpo.org/mpogis1/rest/services,Durham,35.994034,-78.898621,17,Durham,folder,NULL,NULL
+155,https://maps.madisonal.gov/server/rest/services,Madison,43.073051,-89.401230,17,Madison,folder,NULL,NULL
+156,https://maps.huntsvilleal.gov/arcgis2/rest/services,Huntsville,34.730370,-86.586105,17,Huntsville,folder,NULL,NULL
+157,https://madison.rexburg.org/mrgis/rest/services,Rexburg,43.826069,-111.789528,17,Rexburg,folder,NULL,NULL
+158,https://pubgis.ci.lubbock.tx.us/server/rest/services,Lubbock,33.577862,-101.855164,17,Lubbock,folder,NULL,NULL
+159,https://gis.cityofirvine.org/arcgis/rest/services,Irvine,33.684566,-117.826508,17,Irvine,folder,NULL,NULL
+160,https://www5.cityofws.org/arcgis/rest/services,Winston-Salem,36.096260,-80.243736,17,Winston-Salem,folder,NULL,NULL
+161,http://gis.glendaleaz.com/arcgis/rest/services,"Glendale Arizona",33.538559,-112.183701,17,"Glendale Arizona",folder,NULL,NULL
+162,https://gis.mcassessor.maricopa.gov/arcgis/rest/services,"Maricopa County",33.458571,-112.069090,17,"Maricopa County",folder,NULL,NULL
+163,https://services2.arcgis.com/9koNgJGJVNJ5IWdw/ArcGIS/rest/services,"Glendale California",34.142509,-118.255074,17,"Glendale California",folder,NULL,NULL
+164,https://maps.garlandtx.gov/arcgis/rest/services,Garland,32.912624,-96.638885,17,Garland,folder,NULL,NULL
+166,https://gis.miamibeachfl.gov/ArcGIS/rest/services,"Miami Beach",25.790653,-80.130043,17,"Miami Beach",folder,NULL,NULL
+167,https://maps.scottsdaleaz.gov/arcgis/rest/services,Scottsdale,33.494171,-111.926048,17,Scottsdale,folder,NULL,NULL
+168,http://maps.reno.gov/renomaps/rest/services,Reno,39.529633,-119.813805,17,Reno,folder,NULL,NULL
+169,https://gisdata.cityofchesapeake.net/public/rest/services,Chesapeake,36.768208,-76.287491,17,Chesapeake,folder,NULL,NULL
+170,https://maps.gilbertaz.gov/arcgis/rest/services,Gilbert,33.352825,-111.789024,17,Gilbert,folder,NULL,NULL
+171,https://maps.brla.gov/gis/rest/services,"Baton Rouge",30.451468,-91.187149,17,"Baton Rouge",folder,NULL,NULL
+172,https://gismaps.cityofboise.org/arcgis/rest/services,Boise,43.615021,-116.202316,17,Boise,folder,http://opendata.cityofboise.org,NULL
+173,http://imaps.sbcity.org/arcgis/rest/services,"San Bernardino",34.108318,-117.294151,17,"San Bernardino",folder,NULL,NULL
+174,https://services.arcgis.com/aA3snZwJfFkVyDuP/arcgis/rest/services,"San Bernardino County arcgis online",34.108318,-117.294151,17,"San Bernardino County arcgis online",folder,https://open.sbcounty.gov,NULL
+175,http://maps.sanbag.ca.gov:6080/arcgis/rest/services,"San Bernardino County Transportation Authority",34.108318,-117.294151,17,"San Bernardino County Transportation Authority",folder,NULL,NULL
+176,http://ags.sbcounty.gov/sbcgis/rest/services,"San Bernardino County Assessor",34.108318,-117.294151,17,"San Bernardino County Assessor",folder,NULL,NULL
+177,https://gisweb.birminghamal.gov/arcgis/rest/services,Birmingham,33.518589,-86.810356,17,Birmingham,folder,NULL,NULL
+180,https://maps.dmgov.org/arcgis/rest/services,"Des Moines",41.588820,-93.620310,17,"Des Moines",folder,NULL,NULL
+181,http://geoweb02.ci.richmond.ca.us/arcgis/rest/services,"Richmond California",37.935757,-122.347748,17,"Richmond California",folder,NULL,NULL
+182,http://gis2.richmondnc.com/arcgis2013/rest/services,"Richmond County",35.028838,-79.733326,17,"Richmond County",folder,NULL,NULL
+188,https://services2.arcgis.com/AVso4yDITKsybTJg/arcgis/rest/services,Fremont,37.548271,-121.988571,17,Fremont,folder,https://egis-cofgis.opendata.arcgis.com,NULL
+189,https://services3.arcgis.com/OfsJXUlu8pSkbl7B/ArcGIS/rest/services,Irving,32.814018,-96.948891,17,Irving,folder,NULL,NULL
+190,https://services3.arcgis.com/h9QEFLHkUI1SIRs7/arcgis/rest/services,Laredo,27.503561,-99.507553,17,Laredo,folder,NULL,NULL
+191,https://services.arcgis.com/3PDwyTturHqnGCu0/arcgis/rest/services,"Spokane arcgis online",47.658779,-117.426048,17,"Spokane arcgis online",folder,NULL,NULL
+192,https://services.spokanegis.org/arcgis/rest/services,Spokane,47.658779,-117.426048,17,Spokane,folder,NULL,NULL
+193,https://gis.spokanecounty.org/arcgis/rest/services,"Spokane County",47.658779,-117.426048,17,"Spokane County",folder,NULL,NULL
+194,https://gis.modestogov.com/arcgis/rest/services/ExternalServices,Modesto,37.639095,-120.996880,17,Modesto,folder,NULL,NULL
+195,https://gis.cityoftacoma.org/arcgis/rest/services,Tacoma,47.252876,-122.444290,17,Tacoma,folder,NULL,NULL
+196,https://gisqa.cityoftacoma.org/arcgis/rest/services,"Tacoma gisqa",47.252876,-122.444290,17,"Tacoma gisqa",folder,NULL,NULL
+197,https://services1.arcgis.com/XhE4Nx2bBPScQrhF/ArcGIS/rest/services,Fontana,34.092232,-117.435051,17,Fontana,folder,NULL,NULL
+198,https://gis.santa-clarita.com/arcgis/rest/services,"Santa Clarita",34.391663,-118.542587,17,"Santa Clarita",folder,NULL,NULL
+199,http://mycity.houstontx.gov/COHGIS/rest/services,"Houston mycity",29.756241,-95.367312,17,"Houston mycity",folder,NULL,NULL
+200,https://maps.phoenix.gov/pub/rest/services,"Phoenix City Maps",33.448376,-112.074036,17,"Phoenix City Maps",folder,NULL,NULL
+201,https://services1.arcgis.com/T0NPfOCJr9tmBN93/ArcGIS/rest/services,"Florida State FL Department of Agriculture and Consumer Services",28.538336,-81.379234,17,"Florida State FL Department of Agriculture and Consumer Services",folder,NULL,NULL
+202,https://maps.floridadisaster.org/gis/rest/services,"Florida State FL Disaster",28.538336,-81.379234,17,"Florida State FL Disaster",folder,NULL,NULL
+203,https://ca.dep.state.fl.us/arcgis/rest/services,"Florida State FL Department of Environmental Protection",28.538336,-81.379234,17,"Florida State FL Department of Environmental Protection",folder,NULL,NULL
+204,https://www25.swfwmd.state.fl.us/arcgis12/rest/services,"Southwest Florida Water Management District",27.337693,-82.435229,17,"Southwest Florida Water Management District",folder,NULL,NULL
+205,https://gis.flhealth.gov/arcgis/rest/services,"Florida State FL Department of Health",28.538336,-81.379234,17,"Florida State FL Department of Health",folder,NULL,NULL
+206,https://dotscoazgis1.dot.state.fl.us/arcgis/rest/services,"Florida State FL Department of Transportation",28.538336,-81.379234,17,"Florida State FL Department of Transportation",folder,NULL,NULL
+207,https://ocean.floridamarine.org/arcgis/rest/services,"Florida State FL Fish and Wildlife Conservation Commission",28.538336,-81.379234,17,"Florida State FL Fish and Wildlife Conservation Commission",folder,NULL,NULL
+208,http://atoll.floridamarine.org/arcgis/rest/services,"Florida State FL Fish and Wildlife Conservation Commission atoll",28.538336,-81.379234,17,"Florida State FL Fish and Wildlife Conservation Commission atoll",folder,NULL,NULL
+209,http://geoservices.nwfwmd.state.fl.us/arcgis/rest/services,"Northwest Florida Water Management District",27.337734,-82.435265,17,"Northwest Florida Water Management District",folder,NULL,NULL
+210,http://gis.srwmd.state.fl.us/arcgis/rest/services,"Florida Suwanee River Water Management District",29.588752,-82.935442,17,"Florida Suwanee River Water Management District",folder,NULL,NULL
+211,http://arcgisserver10.cfgis.org/arcgis/rest/services,"East Central Florida Regional Planning Council",28.538336,-81.379234,17,"East Central Florida Regional Planning Council",folder,NULL,NULL
+250,https://gis.alachuacounty.us/arcgis/rest/services,"Alachua County FL",29.651634,-82.324829,17,"Alachua County FL",folder,NULL,NULL
+251,https://gis.baycountyfl.gov/arcgis/rest/services,"Bay County FL",30.176592,-85.805489,17,"Bay County FL",folder,NULL,NULL
+252,http://gis.brevardcounty.us/gissrv/rest/services,"Brevard County FL",28.612219,-80.807556,17,"Brevard County FL",folder,NULL,NULL
+253,https://bcgis.broward.org/arcgisimagery/rest/services,"Broward County FL",26.122438,-80.137314,17,"Broward County FL",folder,NULL,NULL
+254,https://www.bcpao.us/arcgis/rest/services,"Broward County Property appraiser FL",26.122438,-80.137314,17,"Broward County Property appraiser FL",folder,NULL,NULL
+255,https://gis.calhouncounty.org/arcgis5/rest/services,"Calhoun County gis5 FL",30.443529,-85.045195,17,"Calhoun County gis5 FL",folder,NULL,NULL
+256,https://gis.calhouncounty.org/arcgis6/rest/services,"Calhoun County gis6 FL",30.443529,-85.045195,17,"Calhoun County gis6 FL",folder,NULL,NULL
+257,https://ccgis.charlottecountyfl.gov/arcgis/rest/services,"Charlotte County FL",26.931650,-82.041023,17,"Charlotte County FL",folder,NULL,NULL
+258,https://maps.claycountygov.com:6443/arcgis/rest/services,"Clay County FL",29.991909,-81.678147,17,"Clay County FL",folder,NULL,NULL
+259,https://ags.colliergov.net/arcgis/rest/services,"Collier County FL",26.147369,-81.795479,17,"Collier County FL",folder,NULL,NULL
+260,https://gisms.miamidade.gov/arcgis/rest/services,"Dade County FL gisms",25.761681,-80.191788,17,"Dade County FL gisms",folder,NULL,NULL
+261,https://gismaps.myescambia.com/arcgis/rest/services,"Escambia County FL",30.421309,-87.216911,17,"Escambia County FL",folder,NULL,NULL
+262,http://gis.hardeecounty.net/arcgis/rest/services,"Hardee County FL",27.547259,-81.811472,17,"Hardee County FL",folder,NULL,NULL
+263,https://www.hernandocountygis-fl.us/arcgis10_3/rest/services,"Hernando County FL",28.554899,-82.387863,17,"Hernando County FL",folder,NULL,NULL
+264,https://gis.hcbcc.org/arcgis/rest/services,"Highlands County FL",27.497980,-81.444832,17,"Highlands County FL",folder,NULL,NULL
+265,https://maps.hillsboroughcounty.org/arcgis/rest/services,"Hillsborough County FL",27.950575,-82.457176,17,"Hillsborough County FL",folder,NULL,NULL
+266,https://gis.lakecountyfl.gov/lakegis/rest/services,"Lake County FL",28.789925,-81.775164,17,"Lake County FL",folder,NULL,NULL
+267,https://leegis.leegov.com/arcgis/rest/services,"Lee County FL",26.614149,-81.825768,17,"Lee County FL",folder,NULL,NULL
+268,https://tlcgisinter.leoncountyfl.gov/arcgis/rest/services,"Leon County FL",30.438255,-84.280731,17,"Leon County FL",folder,NULL,NULL
+269,https://www.mymanatee.org/arcgis01/rest/services,"Manatee County FL gis01",27.488960,-82.562798,17,"Manatee County FL gis01",folder,NULL,NULL
+270,https://www.mymanatee.org/arcgis02/rest/services,"Manatee County FL gis02",27.488960,-82.562798,17,"Manatee County FL gis02",folder,NULL,NULL
+271,https://www.mymanatee.org/arcgis03/rest/services,"Manatee County FL gis03",27.488960,-82.562798,17,"Manatee County FL gis03",folder,NULL,NULL
+272,https://www.mymanatee.org/arcgis04/rest/services,"Manatee County FL gis04",27.488960,-82.562798,17,"Manatee County FL gis04",folder,NULL,NULL
+273,https://gis.marioncountyfl.org/arcgis/rest/services,"Marion County FL",29.189310,-82.137787,17,"Marion County FL",folder,NULL,NULL
+274,https://geoweb.martin.fl.us/arcgis/rest/services,"Martin County FL",27.199570,-80.254883,17,"Martin County FL",folder,NULL,NULL
+275,https://mcgis4.monroecounty-fl.gov/public/rest/services,"Monroe County FL",24.559750,-81.783699,17,"Monroe County FL",folder,NULL,NULL
+276,https://maps.nassauflpa.com/ncflpa_arcgis/rest/services,"Nassau County FL Property appraiser",30.669682,-81.462593,17,"Nassau County FL Property appraiser",folder,NULL,NULL
+277,https://ags.co.okaloosa.fl.us/arcgis/rest/services,"Okaloosa County FL",30.762133,-86.570508,17,"Okaloosa County FL",folder,NULL,NULL
+278,https://maps.co.palm-beach.fl.us/arcgis/rest/services,"Palm Beach County FL",26.714439,-80.054947,17,"Palm Beach County FL",folder,NULL,NULL
+279,http://pascoview.pascocountyfl.net/gisweb/rest/services,"Pasco County FL",28.364725,-82.195915,17,"Pasco County FL",folder,NULL,NULL
+280,https://gis.pinellascounty.org/arcgis/rest/services,"Pinellas County FL",27.767601,-82.640289,17,"Pinellas County FL",folder,NULL,NULL
+281,http://gisapps.polk-county.net/arcgis/rest/services,"Polk County FL",27.897169,-81.842172,17,"Polk County FL",folder,NULL,NULL
+282,http://gis.putnam-fl.com/putgis/rest/services,"Putnam County FL",29.647200,-81.651894,17,"Putnam County FL",folder,NULL,NULL
+283,http://www.gis.bocc.co.st-johns.fl.us/sjcgis/rest/services,"St. Johns County FL",29.896000,-81.316711,17,"St. Johns County FL",folder,NULL,NULL
+284,https://gis.stlucieco.gov/arcgisweb/rest/services,"St. Lucie County FL",29.901243,-81.312431,17,"St. Lucie County FL",folder,NULL,NULL
+285,https://gis.santarosa.fl.gov/arcgis/rest/services,"Santa Rosa County FL",30.632414,-87.039688,17,"Santa Rosa County FL",folder,NULL,NULL
+286,https://maps1.vcgov.org/arcgis/rest/services,"Volusia County FL",29.028318,-81.303116,17,"Volusia County FL",folder,NULL,NULL
+287,https://bocagis.ci.boca-raton.fl.us/arcgis/rest/services,"Boca-Raton FL",26.373790,-80.105059,17,"Boca-Raton FL",folder,NULL,NULL
+288,https://gis.fortlauderdale.gov/arcgis/rest/services,"Foret Lauderdale FL",26.190853,-80.172428,17,"Foret Lauderdale FL",folder,NULL,NULL
+289,https://cfmgis.cityftmyers.com/arcgis/rest/services,"Fort Myers FL",26.614149,-81.825768,17,"Fort Myers FL",folder,NULL,NULL
+290,http://gis.cityofgainesville.org/arcgis/rest/services,"Gainesville FL",29.651634,-82.324829,17,"Gainesville FL",folder,NULL,NULL
+291,https://cw.kissimmee.org/arcgis/rest/services,"Kissimmee FL",28.291956,-81.407570,17,"Kissimmee FL",folder,NULL,NULL
+292,https://g.naplesgov.com/arcgis/rest/services,"Naples FL",26.147369,-81.795479,17,"Naples FL",folder,NULL,NULL
+293,https://gis.ocalafl.org/arcgis/rest/services,"Ocala FL",29.189310,-82.137787,17,"Ocala FL",folder,NULL,NULL
+294,https://gis.cityofpensacola.com/arcgis/rest/services,"Pensacola FL",30.421309,-87.216911,17,"Pensacola FL",folder,NULL,NULL
+295,https://cspgis.stpete.org/arcgis/rest/services,"St. Petersburg FL cspgis",27.767601,-82.640289,17,"St. Petersburg FL cspgis",folder,NULL,NULL
+296,https://tlcgisinter.leoncountyfl.gov/arcgis/rest/services,"Tallahassee FL",30.438255,-84.280731,17,"Tallahassee FL",folder,NULL,NULL
+297,https://gis.wpb.org/arcgis/rest/services,"West Palm Beach FL",26.714439,-80.054947,17,"West Palm Beach FL",folder,NULL,NULL
+298,https://services.gis.ca.gov/arcgis/rest/services,"California State CA Open Data Portal gis",38.581573,-121.494400,17,"California State CA Open Data Portal gis",folder,NULL,NULL
+299,https://conservation1.arcgisonline.com/arcgis/rest/services,"California State CA Open Data Portal conservation1",38.581573,-121.494400,17,"California State CA Open Data Portal conservation1",folder,NULL,NULL
+300,https://conservation2.arcgisonline.com/arcgis/rest/services,"California State CA Open Data Portal conservation2",38.581573,-121.494400,17,"California State CA Open Data Portal conservation2",folder,NULL,NULL
+301,https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/ArcGIS/rest/services,"California State CA Open Data Portal feature server",38.581573,-121.494400,17,"California State CA Open Data Portal feature server",folder,NULL,NULL
+302,https://spatialservices.conservation.ca.gov/arcgis/rest/services,"California State CA Department of Conservation",38.581573,-121.494400,17,"California State CA Department of Conservation",folder,NULL,NULL
+303,https://gis.cnra.ca.gov/arcgis/rest/services,"California State CA Natural Resources Agency gis",38.581573,-121.494400,17,"California State CA Natural Resources Agency gis",folder,NULL,NULL
+304,https://devegis.fire.ca.gov/arcgis/rest/services,"California State CA Natural Resources Agency fire",38.581573,-121.494400,17,"California State CA Natural Resources Agency fire",folder,NULL,NULL
+305,https://gis.water.ca.gov/arcgis/rest/services,"California State CA Department of Water Resources",38.581573,-121.494400,17,"California State CA Department of Water Resources",folder,NULL,NULL
+306,https://gispublic.waterboards.ca.gov/arcgis/rest/services,"California State CA Water Resources Control Board",38.581573,-121.494400,17,"California State CA Water Resources Control Board",folder,NULL,NULL
+307,https://casgemgis.water.ca.gov/ArcGIS/rest/services,"California State CA Statewide Groundwater Elevation Monitoring",38.581573,-121.494400,17,"California State CA Statewide Groundwater Elevation Monitoring",folder,NULL,NULL
+308,https://map.dfg.ca.gov/arcgis/rest/services,"California State CA Department of Fish and Wildlife",38.581573,-121.494400,17,"California State CA Department of Fish and Wildlife",folder,NULL,NULL
+309,https://odpsvcs.dot.ca.gov/arcgis/rest/services,"California State CA Department of Transportation",38.581573,-121.494400,17,"California State CA Department of Transportation",folder,NULL,NULL
+310,https://services3.arcgis.com/bWPjFyq029ChCGur/ArcGIS/rest/services,"California State CA Energy Commission",38.581573,-121.494400,17,"California State CA Energy Commission",folder,NULL,NULL
+329,https://gis.acgov.org/arcgis/rest/services,"Alameda County CA",37.804363,-122.271111,17,"Alameda County CA",folder,NULL,NULL
+330,https://ccmap.cccounty.us/arcgis/rest/services,"Contra Costa County CA ccmap",38.019365,-122.134132,17,"Contra Costa County CA ccmap",folder,NULL,NULL
+331,https://gis.cccounty.us/arcgis/rest/services,"Contra Costa County CA gis",38.019365,-122.134132,17,"Contra Costa County CA gis",folder,NULL,NULL
+332,https://gis.co.fresno.ca.us/ArcGIS/rest/services,"Fresno County CA",36.746841,-119.772591,17,"Fresno County CA",folder,NULL,NULL
+333,https://maps.co.kern.ca.us/arcgis/rest/services,"Kern County CA",35.393528,-119.043732,17,"Kern County CA",folder,NULL,NULL
+334,http://gispublic.co.lake.ca.us:6080/arcgis/rest/services,"Lake County CA",39.042951,-122.915829,17,"Lake County CA",folder,NULL,NULL
+335,http://rpgis.isd.lacounty.gov/arcgis/rest/services,"Los Angeles County CA rpgis",34.049039,-118.246521,17,"Los Angeles County CA rpgis",folder,NULL,NULL
+336,https://map.co.merced.ca.us/arcgis/rest/services,"Merced County CA",37.302163,-120.482968,17,"Merced County CA",folder,NULL,NULL
+337,http://maps.ocgov.net/arcgis/rest/services,"Orange County CA",33.745571,-117.867836,17,"Orange County CA",folder,NULL,NULL
+338,https://gis.countyofriverside.us/arcgis_public/rest/services,"Riverside County CA",33.953350,-117.396156,17,"Riverside County CA",folder,NULL,NULL
+339,https://mapservices.gis.saccounty.net/arcgis/rest/services,"Sacramento County CA",38.581573,-121.494400,17,"Sacramento County CA",folder,NULL,NULL
+340,http://gis1.sandag.org/sdgis/rest/services,"San Diego County CA gis1",32.715736,-117.161087,17,"San Diego County CA gis1",folder,NULL,NULL
+341,http://gis2.sandag.org/sdgis/rest/services,"San Diego County CA gis2",32.715736,-117.161087,17,"San Diego County CA gis2",folder,NULL,NULL
+342,http://sdgis.sandag.org/sdgis/rest/services,"San Diego County CA sdgis",32.715736,-117.161087,17,"San Diego County CA sdgis",folder,NULL,NULL
+343,https://sfgis-portal.sfgov.org/srv/rest/services,"San Francisco County CA",37.804427,-122.410632,17,"San Francisco County CA",folder,NULL,NULL
+344,https://gis.slocounty.ca.gov/arcgis/rest/services,"San Luis Obispo County CA",35.282752,-120.659616,17,"San Luis Obispo County CA",folder,NULL,NULL
+345,https://www.sccgov.org/gis/rest/services,"Santa Clara County CA",37.354107,-121.955238,17,"Santa Clara County CA",folder,NULL,NULL
+346,https://gis.ventura.org/arcgis/rest/services,"Ventura County CA",34.196411,-119.170898,17,"Ventura County CA",folder,NULL,NULL
+347,https://maps.lacity.org/lahub/rest/services,"Los Angeles CA lahub",34.049039,-118.246521,17,"Los Angeles CA lahub",folder,NULL,NULL
+348,https://maps.lacity.org/arcgis/rest/services,"Los Angeles CA navigateLA",34.049039,-118.246521,17,"Los Angeles CA navigateLA",folder,NULL,NULL
+349,http://myladot.lacity.org/arcgis/rest/services,"Los Angeles CA Department of Transportation",34.049039,-118.246521,17,"Los Angeles CA Department of Transportation",folder,NULL,NULL
+350,http://zimas.lacity.org/arcgis/rest/services,"Los Angeles CA zimas",34.049039,-118.246521,17,"Los Angeles CA zimas",folder,NULL,NULL
+351,https://services5.arcgis.com/7nsPwEMP38bSkCjy/arcgis/rest/services,"Los Angeles CA feature server",34.049039,-118.246521,17,"Los Angeles CA feature server",folder,NULL,NULL
+352,https://gis.modestogov.com/arcgis/rest/services/ExternalServices,"Modesto CA",37.661704,-120.988900,17,"Modesto CA",folder,NULL,NULL
+353,http://gisags8.ci.monterey.ca.us/mry/rest/services,"Monterey CA",36.603954,-121.898460,17,"Monterey CA",folder,NULL,NULL
+354,https://services2.arcgis.com/3cLBYFivUvlzVu0H/arcgis/rest/services,"Redding CA",40.586540,-122.391678,17,"Redding CA",folder,NULL,NULL
+355,https://maps.sfmta.com/arcgis/rest/services,"San Francisco CA",37.804427,-122.410632,17,"San Francisco CA",folder,NULL,NULL
+356,https://map.santaclaraca.gov/maps/rest/services,"Santa Clara CA",37.354107,-121.955238,17,"Santa Clara CA",folder,NULL,NULL
+357,https://gis.cityoftemecula.org/arcgis/rest/services,"Temecula CA",33.487007,-117.143784,17,"Temecula CA",folder,NULL,NULL
+358,http://maps.ci.tracy.ca.us:6080/arcgis/rest/services,"Tracy CA",37.739651,-121.425224,17,"Tracy CA",folder,NULL,NULL
+359,https://services5.arcgis.com/54falWtcpty3V47Z/ArcGIS/rest/services,"Sacramento CA online",38.581573,-121.494400,17,"Sacramento CA online",folder,NULL,NULL
+360,http://maps.san-marcos.net/smcarcgis/rest/services,"San Marcos CA",32.715736,-117.161087,17,"San Marcos CA",folder,NULL,NULL
+361,https://maps.santabarbaraca.gov/arcgis/rest/services,"Santa Barbara CA",34.420830,-119.698189,17,"Santa Barbara CA",folder,NULL,NULL
+362,https://gis.co.santa-cruz.ca.us/sccgis/rest/services,"Santa Cruz CA",36.974117,-122.030792,17,"Santa Cruz CA",folder,NULL,NULL
+363,https://csmgisweb.smgov.net/arcgis/rest/services,"Santa Monica CA",34.010090,-118.496948,17,"Santa Monica CA",folder,NULL,NULL
+364,http://www.stocktongov.com/arcgis/rest/services,"Stockton CA",37.961632,-121.275604,17,"Stockton CA",folder,NULL,NULL
+365,http://www.visalia.city/arcgis/rest/services,"Visalia CA",36.330228,-119.292059,17,"Visalia CA",folder,NULL,NULL
+366,https://gis-server.cityofwestsacramento.org/arcgis/rest/services,"West Sacramento CA",38.555619,-121.550540,17,"West Sacramento CA",folder,NULL,NULL
+367,https://tpwd.texas.gov/arcgis/rest/services,"Texas State TX Parks and Wildlife Department",30.266926,-97.750519,17,"Texas State TX Parks and Wildlife Department",folder,NULL,NULL
+368,https://webservices.tnris.org/arcgis/rest/services,"Texas State TX Natural Resources Information System",30.266926,-97.750519,17,"Texas State TX Natural Resources Information System",folder,NULL,NULL
+369,https://maps.dot.state.tx.us/arcgis/rest/services,"Texas State TX Department of Transportation",30.266926,-97.750519,17,"Texas State TX Department of Transportation",folder,NULL,NULL
+370,https://gis.h-gac.com/arcgis/rest/services,"Texas State TX Regional Planning Houston-Galveston Area Council",30.266926,-97.750519,17,"Texas State TX Regional Planning Houston-Galveston Area Council",folder,NULL,NULL
+371,https://gis.lcra.org/arcgis/rest/services,"Texas State TX Regional Planning Lower Colorado River Authority",30.266926,-97.750519,17,"Texas State TX Regional Planning Lower Colorado River Authority",folder,NULL,NULL
+372,https://maps.bexar.org/arcgis/rest/services,"Bexar County TX",29.424349,-98.491142,17,"Bexar County TX",folder,NULL,NULL
+373,https://gis.collincountytx.gov/arcgis/rest/services,"Collin County TX",33.214561,-96.614456,17,"Collin County TX",folder,NULL,NULL
+374,https://maps.dcad.org/prdwa/rest/services,"Dallas County TX",32.897480,-97.040443,17,"Dallas County TX",folder,NULL,NULL
+375,https://gis.dentoncounty.com/arcgis/rest/services,"Denton County TX",33.214840,-97.133064,17,"Denton County TX",folder,NULL,NULL
+376,http://www.co.guadalupe.tx.us/arcgis/rest/services,"Guadalupe County TX",29.568842,-97.964729,17,"Guadalupe County TX",folder,NULL,NULL
+377,https://www.gis.hctx.net/arcgis/rest/services,"Harris County TX",29.761993,-95.366302,17,"Harris County TX",folder,NULL,NULL
+378,http://hidgis.co.hidalgo.tx.us/arcgis/rest/services,"Hidalgo County TX",26.315837,-98.163446,17,"Hidalgo County TX",folder,NULL,NULL
+379,http://gis.mctx.org/arcgis/rest/services,"Montgomery County TX",30.311876,-95.456055,17,"Montgomery County TX",folder,NULL,NULL
+380,https://mapit.tarrantcounty.com/arcgis/rest/services,"Tarrant County TX",32.768799,-97.309341,17,"Tarrant County TX",folder,NULL,NULL
+381,https://geo.traviscountytx.gov/arcgis/rest/services,"Travis County TX",30.266926,-97.750519,17,"Travis County TX",folder,NULL,NULL
+394,https://gis.abilenetx.com/arcgis/rest/services,"Abilene TX",32.448734,-99.733147,17,"Abilene TX",folder,NULL,NULL
+395,https://gis.addisontx.gov/arcgis/rest/services,"Addison TX",32.961790,-96.829169,17,"Addison TX",folder,NULL,NULL
+396,https://maps.cityofbrenham.org/maps/rest/services,"Brenham TX",30.157125,-96.393799,17,"Brenham TX",folder,NULL,NULL
+397,https://maps.cstx.gov/cstx/rest/services,"College Station TX",30.615011,-96.342476,17,"College Station TX",folder,NULL,NULL
+398,https://gismaps.flower-mound.com/wafmp/rest/services,"Flower Mound TX",33.014568,-97.096954,17,"Flower Mound TX",folder,NULL,NULL
+399,https://gis.cityofkeller.com/arcgis/rest/services,"Keller TX",32.933651,-97.225445,17,"Keller TX",folder,NULL,NULL
+400,http://adaptergis.cityoflewisville.com/arcgis/rest/services,"Lewisville TX",33.114548,-96.986618,17,"Lewisville TX",folder,NULL,NULL
+401,http://ewebmap.ci.lubbock.tx.us/arcgis/rest/services,"Lubbock TX ewebmap",33.576698,-101.855072,17,"Lubbock TX ewebmap",folder,NULL,NULL
+402,http://gismap.mcallen.net/mcgis/rest/services,"McAllen TX",26.203407,-98.230011,17,"McAllen TX",folder,NULL,NULL
+403,http://gispub.cityofmesquite.com:6080/arcgis/rest/services,"Mesquite TX",32.764110,-96.592715,17,"Mesquite TX",folder,NULL,NULL
+404,https://maps.roundrocktexas.gov/arcgis/rest/services,"Round Rock TX",30.508255,-97.678894,17,"Round Rock TX",folder,NULL,NULL
+405,http://www1.cityofwebster.com/arcgis/rest/services,"Webster TX",29.529400,-95.201042,17,"Webster TX",folder,NULL,NULL
+406,https://gisservices.its.ny.gov/arcgis/rest/services,"New York State NY Office gisservices",42.652580,-73.756233,17,"New York State NY Office gisservices",folder,NULL,NULL
+407,https://elevation.its.ny.gov/arcgis/rest/services,"New York State NY Office elevation",42.652580,-73.756233,17,"New York State NY Office elevation",folder,NULL,NULL
+408,https://gisservices.dhses.ny.gov/arcgis/rest/services,"New York State NY Homeland Security gisservices",42.652580,-73.756233,17,"New York State NY Homeland Security gisservices",folder,NULL,NULL
+409,https://orthos.dhses.ny.gov/ArcGIS/rest/services,"New York State NY Homeland Security orthos",42.652580,-73.756233,17,"New York State NY Homeland Security orthos",folder,NULL,NULL
+410,https://gis3.dot.ny.gov/arcgis/rest/services,"New York State NY Department of Transportation",42.652580,-73.756233,17,"New York State NY Department of Transportation",folder,NULL,NULL
+411,http://opdgig.dos.ny.gov/arcgis/rest/services,"New York State NY Department of State",42.652580,-73.756233,17,"New York State NY Department of State",folder,NULL,NULL
+412,https://services2.arcgis.com/gubH6kG9JCAsMX2M/ArcGIS/rest/services,"New York State NY Thruway Authority",42.652580,-73.756233,17,"New York State NY Thruway Authority",folder,NULL,NULL
+413,https://services2.arcgis.com/gubH6kG9JCAsMX2M/ArcGIS/rest/services,"New York State NY Adirondack Park Agency",42.652580,-73.756233,17,"New York State NY Adirondack Park Agency",folder,NULL,NULL
+414,https://gis.dutchessny.gov/wa/rest/services,"Dutchess County NY",41.708290,-73.923912,17,"Dutchess County NY",folder,NULL,NULL
+415,http://gis2.erie.gov/arcgis/rest/services,"Erie County NY",42.880230,-78.878738,17,"Erie County NY",folder,NULL,NULL
+416,https://maps.cityofrochester.gov/arcgis/rest/services,"Monroe County NY",43.161030,-77.610924,17,"Monroe County NY",folder,NULL,NULL
+417,https://gis.nassaucountyny.gov/arcgis/rest/services,"Nassau County NY",40.749229,-73.641113,17,"Nassau County NY",folder,NULL,NULL
+418,https://ocgis.orangecountygov.com/ArcGIS/rest/services,"Orange County NY",41.381483,-74.350987,17,"Orange County NY",folder,NULL,NULL
+419,http://opendataservices.suffolkcountyny.gov/arcgis/rest/services,"Suffolk County NY",40.855930,-73.200668,17,"Suffolk County NY",folder,NULL,NULL
+420,https://giswww.westchestergov.com/arcgis/rest/services,"Westchester County NY",41.033985,-73.762909,17,"Westchester County NY",folder,NULL,NULL
+421,https://arcweb.ycpc.org/arcgis/rest/services,"York County NY",40.730610,-73.935242,17,"York County NY",folder,NULL,NULL
+422,https://gis.albanyny.gov/arcgis/rest/services,"Albany NY",42.652580,-73.756233,17,"Albany NY",folder,NULL,NULL
+423,https://services.arcgis.com/uKN48PkxmWiqJM9q/ArcGIS/rest/ser,"New York City NY online",40.730610,-73.935242,17,"New York City NY online",folder,NULL,NULL
+424,https://gis.cityofrochester.gov/arcssl/rest/services,"Rochester NY",43.161030,-77.610924,17,"Rochester NY",folder,NULL,NULL
+425,https://services6.arcgis.com/bdPqSfflsdgFRVVM/arcgis/rest/services,"Syracuse NY",43.088947,-76.154480,17,"Syracuse NY",folder,NULL,NULL
+426,https://maps.pasda.psu.edu/ArcGIS/rest/services,"Pennsylvania State PA Spatial Data Access",40.273190,-76.886703,17,"Pennsylvania State PA Spatial Data Access",folder,NULL,NULL
+427,https://www.pdarcgissvr.pa.gov/penndotgis/rest/services,"Pennsylvania State PA Department of Transportation",40.273190,-76.886703,17,"Pennsylvania State PA Department of Transportation",folder,NULL,NULL
+428,http://geodata.alleghenycounty.us/arcgis/rest/services,"Allegheny County",40.440624,-79.995888,17,"Allegheny County",folder,NULL,NULL
+429,https://gisprodops.chesco.org/arcgis/rest/services,"Chester County",39.959721,-75.605965,17,"Chester County",folder,NULL,NULL
+430,http://gis.ccpa.net/arcgiswebadaptor/rest/services,"Cumberland County",40.201499,-77.189078,17,"Cumberland County",folder,NULL,NULL
+431,https://gis.dauphincounty.org/arcgis/rest/services,"Dauphin County",40.273190,-76.886703,17,"Dauphin County",folder,NULL,NULL
+432,http://mapping.huntingdoncounty.net/arcgisweb/rest/services,"Huntingdon County",40.344631,-78.028122,17,"Huntingdon County",folder,NULL,NULL
+433,https://maps.allentownpa.gov/arcgis/rest/services,"Allentown PA",40.602295,-75.471413,17,"Allentown PA",folder,NULL,NULL
+434,https://gisweb.bethlehem-pa.gov/maps/rest/services,"Bethlehem PA",40.634821,-75.357958,17,"Bethlehem PA",folder,NULL,NULL
+435,https://gis.lansdale.org/arcgis/rest/services,"Lansdale Borough PA",40.241493,-75.283783,17,"Lansdale Borough PA",folder,NULL,NULL
+436,https://gis.dauphincounty.org/arcgis/rest/services,"Harrisburg PA",40.273190,-76.886703,17,"Harrisburg PA",folder,NULL,NULL
+437,https://gis.phila.gov/ArcGIS/rest/services,"Philadelphia PA gis",39.952583,-75.165222,17,"Philadelphia PA gis",folder,NULL,NULL
+438,https://services.arcgis.com/fLeGjb7u4uXqeF9q/ArcGIS/rest/servic,"Philadelphia PA online",39.952583,-75.165222,17,"Philadelphia PA online",folder,NULL,NULL
+439,http://maps.pittsburghpa.gov/arcgis/rest/services,"Pittsburgh PA",40.440624,-79.995888,17,"Pittsburgh PA",folder,NULL,NULL
+440,https://gisweb.iema.state.il.us/ArcGIS/rest/services,"Illinois State IL Emergency Management Agency",41.878113,-87.629799,17,"Illinois State IL Emergency Management Agency",folder,NULL,NULL
+441,http://geoservices.dnr.illinois.gov/arcgis/rest/services,"Illinois State IL Department of Natural Resources",41.878113,-87.629799,17,"Illinois State IL Department of Natural Resources",folder,NULL,NULL
+442,https://geoservices.epa.illinois.gov/arcgis/rest/services,"Illinois State IL Environmental Protection Agency",41.878113,-87.629799,17,"Illinois State IL Environmental Protection Agency",folder,NULL,NULL
+443,https://ags10.dot.illinois.gov/ArcGIS/rest/services,"Illinois State IL Department of Transportation",41.878113,-87.629799,17,"Illinois State IL Department of Transportation",folder,NULL,NULL
+444,http://cookviewer2.cookcountyil.gov/webadapter/rest/services,"Cook County IL",41.878113,-87.629799,17,"Cook County IL",folder,NULL,NULL
+445,https://gis.dupageco.org/arcgis/rest/services,"DuPage County IL",41.866131,-88.106628,17,"DuPage County IL",folder,NULL,NULL
+446,http://gistech.countyofkane.org/arcgis/rest/services,"Kane County IL",41.887562,-88.305092,17,"Kane County IL",folder,NULL,NULL
+447,http://gis.co.kendall.il.us/arcgis/rest/services,"Kendall County IL",41.684589,-88.350166,17,"Kendall County IL",folder,NULL,NULL
+448,https://maps.lakecountyil.gov/arcgis/rest/services,"Lake County IL",42.363633,-87.844794,17,"Lake County IL",folder,NULL,NULL
+449,https://www.mchenrycountygis.org/arcgis/rest/services,"McHenry County IL",42.314754,-88.447433,17,"McHenry County IL",folder,NULL,NULL
+450,https://gis.peoriacounty.org/arcgis/rest/services,"Peoria County IL",40.693649,-89.588989,17,"Peoria County IL",folder,NULL,NULL
+451,http://publicmap.co.st-clair.il.us/gissvr7/rest/services,"St Clair County IL",38.512630,-89.984230,17,"St Clair County IL",folder,NULL,NULL
+452,https://rest.willcountyillinois.com/arcgis/rest/services,"Will County IL",41.526360,-88.084023,17,"Will County IL",folder,NULL,NULL
+453,https://gisdata.elginmapping.ca/arcgis/rest/services,"Elgin IL",42.037260,-88.281099,17,"Elgin IL",folder,NULL,NULL
+454,https://maps.cityofevanston.org/arcgis/rest/services,"Evanston IL",42.052158,-87.687866,17,"Evanston IL",folder,NULL,NULL
+455,https://rest.willcountyillinois.com/arcgis/rest/services,"Joliet IL",41.526360,-88.084023,17,"Joliet IL",folder,NULL,NULL
+456,https://gis.peoriacounty.org/arcgis/rest/services,"Peoria IL",40.693649,-89.588989,17,"Peoria IL",folder,NULL,NULL
+457,http://publicworks.springfield.il.us/arcgis/rest/services,"Springfield IL",39.799358,-89.643623,17,"Springfield IL",folder,NULL,NULL
+458,https://gis5.oit.ohio.gov/ArcGIS/rest/services,"Ohio State OH Office of Information Technology gis5",39.961178,-82.998795,17,"Ohio State OH Office of Information Technology gis5",folder,NULL,NULL
+459,https://geo.oit.ohio.gov/arcgis/rest/services,"Ohio State OH Office of Information Technology geo",39.961178,-82.998795,17,"Ohio State OH Office of Information Technology geo",folder,NULL,NULL
+460,https://gis.ohiodnr.gov/ArcGIS/rest/services,"Ohio State OH Department of Natural Resources",39.961178,-82.998795,17,"Ohio State OH Department of Natural Resources",folder,NULL,NULL
+461,http://epagis1.oit.ohio.gov/arcgis/rest/services,"Ohio State OH Environmental Protection Agency",39.961178,-82.998795,17,"Ohio State OH Environmental Protection Agency",folder,NULL,NULL
+462,https://odotgis.dot.state.oh.us/arcgis/rest/services,"Ohio State OH Department of Transportation gis",39.961178,-82.998795,17,"Ohio State OH Department of Transportation gis",folder,NULL,NULL
+463,https://collectornew.dot.state.oh.us/arcgis/rest/services,"Ohio State OH Department of Transportation collectornew",39.961178,-82.998795,17,"Ohio State OH Department of Transportation collectornew",folder,NULL,NULL
+464,https://gis.mvrpc.org/arcgis/rest/services,"Ohio State OH Miami Valley Regional Planning Commission",39.758949,-84.191605,17,"Ohio State OH Miami Valley Regional Planning Commission",folder,NULL,NULL
+465,https://arcgiswebadp1.morpc.org/webadaptor/rest/services,"Ohio State OH Mid-Ohio Regional Planning Commission",40.763901,-82.503891,17,"Ohio State OH Mid-Ohio Regional Planning Commission",folder,NULL,NULL
+466,http://gis.allencountyohio.com/arcgis/rest/services,"Allen County OH",40.742699,-84.104988,17,"Allen County OH",folder,NULL,NULL
+467,https://maps.butlercountyauditor.org/arcgis/rest/services,"Butler County OH",39.398869,-84.558800,17,"Butler County OH",folder,NULL,NULL
+468,https://maps.cuyahogacounty.us/arcgis/rest/services,"Cuyahoga County OH",41.505161,-81.693443,17,"Cuyahoga County OH",folder,NULL,NULL
+469,https://maps.franklincountyauditor.com/fcaags/rest/services,"Franklin County OH",39.961178,-82.998795,17,"Franklin County OH",folder,NULL,NULL
+470,https://cagisonline.hamilton-co.org/arcgis/rest/services,"Hamilton County OH",39.103119,-84.512016,17,"Hamilton County OH",folder,NULL,NULL
+471,https://arcgis.lakecountyohio.gov/arcgis/rest/services,"Lake County OH",41.724110,-81.245171,17,"Lake County OH",folder,NULL,NULL
+472,https://apps.lcounty.com/arcgis/rest/services,"Licking County OH",40.056808,-82.405899,17,"Licking County OH",folder,NULL,NULL
+473,http://lcapps.co.lucas.oh.us/arcgis/rest/services,"Lucas County OH",41.678675,-83.512728,17,"Lucas County OH",folder,NULL,NULL
+474,http://www.mcegisohio.org/arcgis/rest/services,"Montgomery County OH",39.758948,-84.191607,17,"Montgomery County OH",folder,NULL,NULL
+475,https://scgisb.starkcountyohio.gov/arcgis/rest/services,"Stark County OH",40.797390,-81.377037,17,"Stark County OH",folder,NULL,NULL
+476,http://summitmaps.summitoh.net/arcgis/rest/services,"Summit County OH",41.084820,-81.515610,17,"Summit County OH",folder,NULL,NULL
+477,http://summitmaps.summitoh.net/arcgis/rest/services,"Akron OH",41.084820,-81.515610,17,"Akron OH",folder,NULL,NULL
+478,https://maps.columbus.gov/arcgis/rest/services,"Columbus OH",39.961178,-82.998795,17,"Columbus OH",folder,NULL,NULL
+479,https://mapping.dublin.oh.us/arcgis/rest/services,"Dublin OH",40.099560,-83.113808,17,"Dublin OH",folder,NULL,NULL
+480,http://gis.gahanna.gov/arcgis/rest/services,"Gahanna OH",40.019563,-82.879136,17,"Gahanna OH",folder,NULL,NULL
+481,https://www2.ci.lancaster.oh.us/webgis/rest/services,"Lancaster OH",39.713675,-82.599329,17,"Lancaster OH",folder,NULL,NULL
+482,http://gis.solonohio.org/arcgis/rest/services,"Solon OH",41.389776,-81.441226,17,"Solon OH",folder,NULL,NULL
+483,https://gis.troyohio.gov/arcgis/rest/services,"Troy OH",40.041660,-84.208061,17,"Troy OH",folder,NULL,NULL
+484,http://webmap1.co.warren.oh.us/ArcGIS/rest/services,"Warren OH",41.236118,-80.816193,17,"Warren OH",folder,NULL,NULL
+485,https://gis10.dot.ga.gov/ArcGIS/rest/services,"Georgia State GA Department of Transportation",33.748997,-84.387985,17,"Georgia State GA Department of Transportation",folder,NULL,NULL
+486,https://maps.crc.ga.gov/crcarcgis/rest/services,"Georgia State GA Coastal Regional Commission",33.748997,-84.387985,17,"Georgia State GA Coastal Regional Commission",folder,NULL,NULL
+487,https://maps.itos.uga.edu/arcgis/rest/services,"University of Georgia Institute of Government",33.748997,-84.387985,17,"University of Georgia Institute of Government",folder,NULL,NULL
+488,https://arcgis.atlantaregional.com/arcgis/rest/services,"Atlanta Regional Commission",33.748997,-84.387985,17,"Atlanta Regional Commission",folder,NULL,NULL
+489,http://sagisservices.thempc.org/saint/rest/services,"Chatham County GA",32.080898,-81.091202,17,"Chatham County GA",folder,NULL,NULL
+490,http://gis.cherokeega.com/arcgis/rest/services,"Cherokee County GA",34.236763,-84.490761,17,"Cherokee County GA",folder,NULL,NULL
+491,https://weba.co.clayton.ga.us:5443/server/rest/services,"Clayton County GA",33.521370,-84.354070,17,"Clayton County GA",folder,NULL,NULL
+492,https://services.arcgis.com/HYLRafMc4Ux6DA8c/arcgis/rest/servi,"Cobb County GA",33.952602,-84.549934,17,"Cobb County GA",folder,NULL,NULL
+493,https://maps.dekalbcountyga.gov/arcgis/rest/services,"DeKalb County GA",33.774830,-84.296310,17,"DeKalb County GA",folder,NULL,NULL
+494,https://gis.fultoncountyga.gov/arcgis/rest/services,"Fulton County GA",33.748997,-84.387985,17,"Fulton County GA",folder,NULL,NULL
+495,https://gis.gwinnettcounty.com/arcgis/rest/services,"Gwinnett County GA",33.955002,-83.988251,17,"Gwinnett County GA",folder,NULL,NULL
+496,https://maps.hallcounty.org/public/rest/services,"Hall County GA",34.298771,-83.829628,17,"Hall County GA",folder,NULL,NULL
+497,http://gismap.augustaga.gov/arcgis/rest/services,"Augusta GA",33.472488,-81.964401,17,"Augusta GA",folder,NULL,NULL
+498,http://alphagis.alpharetta.ga.us/arcgis/rest/services,"Alpharetta GA",34.075611,-84.294548,17,"Alpharetta GA",folder,NULL,NULL
+499,https://maps.hallcounty.org/public/rest/services,"Gainesville GA",34.298771,-83.829628,17,"Gainesville GA",folder,NULL,NULL
+500,https://secure.mariettaga.gov/arcgis/rest/services,"Marietta GA secure",33.952602,-84.549934,17,"Marietta GA secure",folder,NULL,NULL
+501,https://lucity.mariettaga.gov/arcgis/rest/services,"Marietta GA lucity",33.952602,-84.549934,17,"Marietta GA lucity",folder,NULL,NULL
+502,http://sagisservices.thempc.org/saint/rest/services,"Savannah GA",32.080898,-81.091202,17,"Savannah GA",folder,NULL,NULL
+503,https://tiles1.arcgis.com/tiles/YfqBAUM5nWR3yhGP/arcgis/rest/services,"North Carolina State NC online",35.779591,-78.638176,17,"North Carolina State NC online",folder,NULL,NULL
+504,https://services.nconemap.gov/secure/rest/services,"North Carolina State NC OneMap",35.779591,-78.638176,17,"North Carolina State NC OneMap",folder,NULL,NULL
+505,https://gis11.services.ncdot.gov/arcgis/rest/services,"North Carolina State NC Department of Transportation",35.779591,-78.638176,17,"North Carolina State NC Department of Transportation",folder,NULL,NULL
+506,http://accessnc.commerce.state.nc.us/arcgis/rest/services,"North Carolina State NC Department of Commerce",35.779591,-78.638176,17,"North Carolina State NC Department of Commerce",folder,NULL,NULL
+507,http://gis.ncdcr.gov/ArcGIS/rest/services,"North Carolina State NC Department of Natural and Cultural Resources",35.779591,-78.638176,17,"North Carolina State NC Department of Natural and Cultural Resources",folder,NULL,NULL
+508,http://www.ncmhtd.com/arcgis/rest/services,"North Carolina State NC Multi-Hazard Threat Database",35.779591,-78.638176,17,"North Carolina State NC Multi-Hazard Threat Database",folder,NULL,NULL
+509,https://services2.arcgis.com/kCu40SDxsCGcuUWO/arcgis/rest/services,"North Carolina State NC Department of Environmental Quality",35.779591,-78.638176,17,"North Carolina State NC Department of Environmental Quality",folder,NULL,NULL
+510,https://geo.brunswickcountync.gov/arcgis/rest/services,"Brunswick County NC",34.069229,-78.147011,17,"Brunswick County NC",folder,NULL,NULL
+511,https://gis.buncombecounty.org/arcgis/rest/services,"Buncombe County NC",35.600950,-82.554016,17,"Buncombe County NC",folder,NULL,NULL
+512,https://gis.co.cumberland.nc.us/arcgispublic/rest/services,"Cumberland County NC",35.054420,-78.883659,17,"Cumberland County NC",folder,NULL,NULL
+513,https://maps.co.forsyth.nc.us/arcgis/rest/services,"Forsyth County NC",36.147640,-80.241571,17,"Forsyth County NC",folder,NULL,NULL
+514,http://gis.co.guilford.nc.us/arcgis/rest/services,"Guilford County NC",36.072636,-79.791977,17,"Guilford County NC",folder,NULL,NULL
+515,https://gis.harnett.org/arcgis/rest/services,"Harnett County NC",35.392761,-78.818626,17,"Harnett County NC",folder,NULL,NULL
+516,http://meckmap.mecklenburgcountync.gov/ArcGIS/rest/services,"Mecklenburg County NC",35.227085,-80.843124,17,"Mecklenburg County NC",folder,NULL,NULL
+517,http://ucprpo.co.nash.nc.us/ArcGIS/rest/services,"Nash County NC",35.969363,-77.955546,17,"Nash County NC",folder,NULL,NULL
+518,https://gis.pittcountync.gov/arcgis/rest/services,"Pitt County NC",35.611328,-77.374100,17,"Pitt County NC",folder,NULL,NULL
+519,https://gis.randolphcountync.gov/arcgis3/rest/services,"Randolph County NC",35.707230,-79.809410,17,"Randolph County NC",folder,NULL,NULL
+520,https://maps.wakegov.com/arcgis/rest/services,"Wake County NC",35.779591,-78.638176,17,"Wake County NC",folder,NULL,NULL
+521,http://arcgis.ashevillenc.gov/arcgis/rest/services,"Asheville NC",35.600950,-82.554016,17,"Asheville NC",folder,NULL,NULL
+522,https://maps.townofcary.org/arcgis/rest/services,"Cary NC",35.791470,-78.781143,17,"Cary NC",folder,NULL,NULL
+523,https://maps.ci.charlotte.nc.us/arcgis/rest/services,"Charlotte NC",35.227085,-80.843124,17,"Charlotte NC",folder,NULL,NULL
+524,https://services.arcgis.com/9Nl857LBlQVyzq54/ArcGIS/rest/services,"Charlotte NC online",35.227085,-80.843124,17,"Charlotte NC online",folder,NULL,NULL
+525,http://gisweb2.ci.durham.nc.us/arcgis/rest/services,"Durham NC gisweb2",35.996948,-78.899017,17,"Durham NC gisweb2",folder,NULL,NULL
+526,http://gis.wilmingtonnc.gov/arcgis/rest/services,"Wilmington NC",34.236698,-77.946198,17,"Wilmington NC",folder,NULL,NULL
+527,https://www5.cityofws.org/arcgis/rest/services,"Winston-Salem NC",36.096260,-80.243736,17,"Winston-Salem NC",folder,NULL,NULL
+528,https://maps.alabama.gov/algogis/rest/services,"Alabama State AL ",32.376541,-86.299660,17,"Alabama State AL ",folder,NULL,NULL
+529,https://conservationgis.alabama.gov/adcnrweb/rest/services,"Alabama State AL Department of Conservation and Natural Resources",32.376541,-86.299660,17,"Alabama State AL Department of Conservation and Natural Resources",folder,NULL,NULL
+530,https://aldotgis.dot.state.al.us/pubgis3/rest/services,"Alabama State AL Department of Transportation",32.376541,-86.299660,17,"Alabama State AL Department of Transportation",folder,NULL,NULL
+531,https://map.gsa.state.al.us/ogbmaps/rest/services,"Alabama State AL Geological Survey and Oil & Gas Board gsa",32.376541,-86.299660,17,"Alabama State AL Geological Survey and Oil & Gas Board gsa",folder,NULL,NULL
+532,https://map.gsa.state.al.us/ogbmaps/rest/services,"Alabama State AL Geological Survey and Oil & Gas Board ogb",32.376541,-86.299660,17,"Alabama State AL Geological Survey and Oil & Gas Board ogb",folder,NULL,NULL
+533,http://jeffcogis.jccal.org/jccarcgis/rest/services,"Jefferson County AL",33.522861,-86.807701,17,"Jefferson County AL",folder,NULL,NULL
+534,https://maps.madisonal.gov/server/rest/services,"Madison County AL",34.730370,-86.586105,17,"Madison County AL",folder,NULL,NULL
+535,http://gis3.mc-ala.org:6080/arcgis/rest/services,"Montgomery County AL",32.376541,-86.299660,17,"Montgomery County AL",folder,NULL,NULL
+536,http://maps.shelbyal.com/arcgis/rest/services,"Shelby County AL",33.178172,-86.607205,17,"Shelby County AL",folder,NULL,NULL
+537,https://arcgis.tuscco.com/arcgis/rest/services,"Tuscaloosa County AL",33.210678,-87.565582,17,"Tuscaloosa County AL",folder,NULL,NULL
+538,http://maps.cityofmobile.org/arcgis/rest/services,"Mobile AL",30.695366,-88.039894,17,"Mobile AL",folder,NULL,NULL
+539,https://gis.montgomeryal.gov/server/rest/services,"Montgomery AL",32.376541,-86.299660,17,"Montgomery AL",folder,NULL,NULL
+540,https://dec.alaska.gov/arcgis/rest/services,"Alaska State AK Department of Environmental Conservation",61.216579,-149.899597,17,"Alaska State AK Department of Environmental Conservation",folder,NULL,NULL
+541,http://forestrymaps.alaska.gov/arcgis/rest/services,"Alaska State AK Division of Forestry",61.216579,-149.899597,17,"Alaska State AK Division of Forestry",folder,NULL,NULL
+542,http://maps.dggs.alaska.gov/arcgis/rest/services,"Alaska State AK Division of Geological & Geophysical Surveys",61.216579,-149.899597,17,"Alaska State AK Division of Geological & Geophysical Surveys",folder,NULL,NULL
+543,https://dnr.alaska.gov/arcgis/rest/services,"Alaska State AK Department of Natural Resources",61.216579,-149.899597,17,"Alaska State AK Department of Natural Resources",folder,NULL,NULL
+544,http://www.dot.state.ak.us/ArcGIS/rest/services,"Alaska State AK Department of Transportation and Public Facilities",61.216579,-149.899597,17,"Alaska State AK Department of Transportation and Public Facilities",folder,NULL,NULL
+545,https://gis.tananachiefs.org/arcgis/rest/services,"Alaska State AK Tanana Chiefs Conference",61.216579,-149.899597,17,"Alaska State AK Tanana Chiefs Conference",folder,NULL,NULL
+546,https://elevation.alaska.gov/arcgis/rest/services,"Alaska State AK elevation",61.216579,-149.899597,17,"Alaska State AK elevation",folder,NULL,NULL
+547,https://gis.fnsb.us/arcgis/rest/services,"Fairbanks North Star Borough",64.836662,-147.738892,17,"Fairbanks North Star Borough",folder,NULL,NULL
+548,https://maps.matsugov.us/ArcGIS/rest/services,"Alaska State AK Matanuska-Susitna Borough",61.599449,-149.122391,17,"Alaska State AK Matanuska-Susitna Borough",folder,NULL,NULL
+549,https://alaskafisheries.noaa.gov/arcgis/rest/services,"Alaska State AK fisheries",61.216579,-149.899597,17,"Alaska State AK fisheries",folder,NULL,NULL
+559,https://azgeo.az.gov/arcgis/rest/services,"Arizona State AZ AZGEO Open Data",33.448376,-112.074036,17,"Arizona State AZ AZGEO Open Data",folder,NULL,NULL
+560,https://gis.azdot.gov/gis/rest/services,"Arizona State AZ Department of Transportation",33.448376,-112.074036,17,"Arizona State AZ Department of Transportation",folder,NULL,NULL
+561,https://geo.azmag.gov/gismag/rest/services,"Arizona State AZ geo",33.448376,-112.074036,17,"Arizona State AZ geo",folder,NULL,NULL
+562,https://gispreview.maricopa.gov/arcgis/rest/services,"Maricopa County AZ",33.448376,-112.074036,17,"Maricopa County AZ",folder,NULL,NULL
+563,https://mcgis2.mohavecounty.us/arcgis/rest/services,"Mohave County AZ",35.189812,-114.060669,17,"Mohave County AZ",folder,NULL,NULL
+564,http://pcmaps1.pima.gov/ArcGIS/rest/services,"Pima County AZ",32.222607,-110.974709,17,"Pima County AZ",folder,NULL,NULL
+565,https://gismaps.pinalcountyaz.gov/webapps/rest/services,"Pinal County AZ",33.031452,-111.387344,17,"Pinal County AZ",folder,NULL,NULL
+566,http://gis.yavapai.us/arcgis/rest/services,"Yavapai County AZ",34.541851,-112.468712,17,"Yavapai County AZ",folder,NULL,NULL
+567,http://gis.yumacountyaz.gov/ArcGIS/rest/services,"Yuma County AZ",32.692650,-114.627693,17,"Yuma County AZ",folder,NULL,NULL
+568,https://gis.arkansas.gov/arcgis/rest/services,"Arkansas State AR GIS Office",34.748741,-92.275101,17,"Arkansas State AR GIS Office",folder,NULL,NULL
+569,http://geostor.arkansas.gov/ArcGIS/rest/services,"Arkansas State AR geostor",34.748741,-92.275101,17,"Arkansas State AR geostor",folder,NULL,NULL
+570,https://gis.agfc.com/arcgis/rest/services,"Arkansas State AR Game and Fish Commission",34.748741,-92.275101,17,"Arkansas State AR Game and Fish Commission",folder,NULL,NULL
+571,https://www.pagis.org/arcgis/rest/services,"Pulaski County AR",34.748741,-92.275101,17,"Pulaski County AR",folder,NULL,NULL
+572,http://geo.bentonvillear.com/arcgis/rest/services,"Bentonville AR",36.371868,-94.202721,17,"Bentonville AR",folder,NULL,NULL
+573,http://gis.cityofconway.org/arcgis_services/rest/services,"Conway AR",35.091801,-92.436699,17,"Conway AR",folder,NULL,NULL
+574,http://gis.fayetteville-ar.gov/faygis/rest/services,"Fayetteville AR",36.061932,-94.160583,17,"Fayetteville AR",folder,NULL,NULL
+575,https://gisapps.fortsmithar.gov/arcgis/rest/services,"Fort Smith AR",35.386639,-94.424362,17,"Fort Smith AR",folder,NULL,NULL
+576,http://maps.cityhs.net/arcgiswebadaptor/rest/services,"Hot Springs AR",34.503700,-93.055176,17,"Hot Springs AR",folder,NULL,NULL
+577,https://gis.lenexa.com/arcgis/rest/services,"Lenexa AR",38.971200,-94.729200,17,"Lenexa AR",folder,NULL,NULL
+578,https://maps.littlerock.state.ar.us/arcgis/rest/services,"Little Rock AR",34.748741,-92.275101,17,"Little Rock AR",folder,NULL,NULL
+579,http://gis2.springdalear.gov/arcgis/rest/services,"Springdale AR",36.186744,-94.128814,17,"Springdale AR",folder,NULL,NULL
+580,https://gis.colorado.gov/public/rest/services,"Colorado State CO ",39.739235,-104.990250,17,"Colorado State CO ",folder,NULL,NULL
+581,https://dtdapps.coloradodot.info/arcgis/rest/services,"Colorado State CO Department of Transportation",39.739235,-104.990250,17,"Colorado State CO Department of Transportation",folder,NULL,NULL
+582,https://maps.dphe.state.co.us/ArcGIS/rest/services,"Colorado State CO Department of Environment",39.739235,-104.990250,17,"Colorado State CO Department of Environment",folder,NULL,NULL
+583,https://www.cohealthmaps.dphe.state.co.us/arcgis/rest/services,"Colorado State CO Department of Public Health",39.739235,-104.990250,17,"Colorado State CO Department of Public Health",folder,NULL,NULL
+584,https://ndismaps.nrel.colostate.edu/arcgis/rest/services,"Colorado State CO University",39.739235,-104.990250,17,"Colorado State CO University",folder,NULL,NULL
+585,https://gis.drcog.org/arcgis/rest/services,"Colorado State CO Denver Regional Council of Governments",39.739235,-104.990250,17,"Colorado State CO Denver Regional Council of Governments",folder,NULL,NULL
+586,https://gisapp.adcogov.org/arcgis/rest/services,"Adams County CO",39.986771,-104.812599,17,"Adams County CO",folder,NULL,NULL
+587,https://gis.arapahoegov.com/arcgis/rest/services,"Arapahoe County CO",39.612652,-105.016197,17,"Arapahoe County CO",folder,NULL,NULL
+588,https://maps.bouldercounty.org/arcgis/rest/services,"Boulder County CO",40.014984,-105.270546,17,"Boulder County CO",folder,NULL,NULL
+589,http://maps.deltacounty.com/arcgis/rest/services,"Delta County CO",38.743612,-108.072917,17,"Delta County CO",folder,NULL,NULL
+590,https://apps.douglas.co.us/geopendata/rest/services,"Douglas County CO geoopendata",39.375370,-104.859909,17,"Douglas County CO geoopendata",folder,NULL,NULL
+591,https://apps.douglas.co.us/dcso/rest/services,"Douglas County CO apps",39.375370,-104.859909,17,"Douglas County CO apps",folder,NULL,NULL
+592,https://services3.arcgis.com/9ntQlfNHEhmpX4cl/ArcGIS/rest/serv,"Jefferson County CO",39.749668,-105.216019,17,"Jefferson County CO",folder,NULL,NULL
+593,https://maps1.larimer.org/arcgis/rest/services,"Larimer County CO",40.550854,-105.066811,17,"Larimer County CO",folder,NULL,NULL
+594,https://lpcgis.laplata.co.us/arcgis/rest/services,"La Plata County CO",37.275280,-107.880066,17,"La Plata County CO",folder,NULL,NULL
+595,http://maps.arvada.org/arcgis/rest/services,"Arvada CO",39.801121,-105.081451,17,"Arvada CO",folder,NULL,NULL
+596,https://ags.auroragov.org/aurora/rest/services,"Aurora CO",39.712929,-104.819359,17,"Aurora CO",folder,NULL,NULL
+597,https://maps.bouldercolorado.gov/arcgis/rest/services,"Boulder CO",40.014984,-105.270546,17,"Boulder CO",folder,NULL,NULL
+598,https://gis.crgov.com/arcgis/rest/services,"Castle Rock CO",39.375370,-104.859909,17,"Castle Rock CO",folder,NULL,NULL
+599,https://maps.centennialco.gov/arcgis/rest/services,"Centennial CO",39.597309,-104.853813,17,"Centennial CO",folder,NULL,NULL
+600,https://gis.durangogov.org/map/rest/services,"Durango CO",37.275280,-107.880066,17,"Durango CO",folder,NULL,NULL
+601,https://maps1.larimer.org/arcgis/rest/services,"Fort Collins CO",40.550854,-105.066811,17,"Fort Collins CO",folder,NULL,NULL
+602,http://online.greenwoodvillage.com/arcgis/rest/services,"Greenwood Village CO",39.616890,-104.950508,17,"Greenwood Village CO",folder,NULL,NULL
+603,https://maps.ci.longmont.co.us/arcgis_public/rest/services,"Longmont CO",40.165730,-105.101189,17,"Longmont CO",folder,NULL,NULL
+604,http://maps.cityofloveland.org/arcgis/rest/services,"Loveland CO",40.394390,-105.070580,17,"Loveland CO",folder,NULL,NULL
+605,http://maps.co.pueblo.co.us/outside/rest/services,"Pueblo CO",38.265430,-104.610413,17,"Pueblo CO",folder,NULL,NULL
+606,https://webmaps.cityofthornton.net/arcgis/rest/services,"Thornton CO webmaps",39.870350,-104.982460,17,"Thornton CO webmaps",folder,NULL,NULL
+607,https://gis.cityofthornton.net/arcgis/rest/services,"Thornton CO gis",39.870350,-104.982460,17,"Thornton CO gis",folder,NULL,NULL
+608,https://denvergov.org/arcgis/rest/services,"Denver CO",39.739235,-104.990250,17,"Denver CO",folder,NULL,NULL
+609,http://maps.co.pueblo.co.us/outside/rest/services,"Pueblo County CO",38.265430,-104.610413,17,"Pueblo County CO",folder,NULL,NULL
+610,https://www.ctgismaps2.ct.gov/arcgis/rest/services,"Connecticut State CT",41.765770,-72.673363,17,"Connecticut State CT",folder,NULL,NULL
+611,https://cteco.uconn.edu/ctmaps/rest/services,"University of Connecticut Environmental Conditions Online maps",41.765770,-72.673363,17,"University of Connecticut Environmental Conditions Online maps",folder,NULL,NULL
+612,https://cteco.uconn.edu/ctraster/rest/services/,"University of Connecticut Environmental Conditions Online raster",41.765770,-72.673363,17,"University of Connecticut Environmental Conditions Online raster",folder,NULL,NULL
+613,https://gis.ctmetro.org/arcgis/rest/services,"Connecticut State CT Metropolitan Council of Governments",41.765770,-72.673363,17,"Connecticut State CT Metropolitan Council of Governments",folder,NULL,NULL
+614,http://maps.groton-ct.gov/arcgis/rest/services,"Groton CT",41.343689,-72.078773,17,"Groton CT",folder,NULL,NULL
+615,https://gis1.hartford.gov/arcgis/rest/services,"Hartford CT",41.765770,-72.673363,17,"Hartford CT",folder,NULL,NULL
+616,http://maps.groton-ct.gov/arcgis/rest/services,"Meriden CT",41.537590,-72.801102,17,"Meriden CT",folder,NULL,NULL
+617,http://gisweb.cityofmiddletown.org:6080/arcgis/rest/services,"Middletown CT",41.562318,-72.650906,17,"Middletown CT",folder,NULL,NULL
+618,https://nhgis.newhavenct.gov/server/rest/services,"New Haven CT",41.310726,-72.929916,17,"New Haven CT",folder,NULL,NULL
+619,http://gis.stonington-ct.gov:6080/arcgis/rest/services,"Stonington CT",41.335933,-71.905904,17,"Stonington CT",folder,NULL,NULL
+620,https://firstmap.gis.delaware.gov/arcgis/rest/services,"Delaware State DE First Map",39.161079,-75.525681,17,"Delaware State DE First Map",folder,NULL,NULL
+621,https://mapservices.dnrec.delaware.gov/ArcGIS/rest/services,"Delaware State DE Department of Natural Resources and Environmental Control",39.161079,-75.525681,17,"Delaware State DE Department of Natural Resources and Environmental Control",folder,NULL,NULL
+622,https://co.kent.de.us/arcgis/rest/services,"Kent County DE",39.161079,-75.525681,17,"Kent County DE",folder,NULL,NULL
+623,https://gis.nccde.org/agsserver/rest/services,"New Castle County DE",39.739071,-75.539787,17,"New Castle County DE",folder,NULL,NULL
+624,https://maps.sussexcountyde.gov/gis/rest/services,"Sussex County DE",38.653995,-75.611044,17,"Sussex County DE",folder,NULL,NULL
+625,https://gis.nccde.org/agsserver/rest/services,"Willmington DE",39.739071,-75.539787,17,"Willmington DE",folder,NULL,NULL
+626,https://geodata.hawaii.gov/arcgis/rest/services,"Hawaii State HI",21.315603,-157.858093,17,"Hawaii State HI",folder,NULL,NULL
+627,https://locator.hawaii.gov/arcgis/rest/services,"Honolulu HI",21.315603,-157.858093,17,"Honolulu HI",folder,NULL,NULL
+628,http://insideidaho.org/ArcGIS/rest/services,"Idaho State ID insideidaho",43.615791,-116.201576,17,"Idaho State ID insideidaho",folder,NULL,NULL
+629,https://cloud.insideidaho.org/ArcGIS/rest/services,"Idaho State ID insideidaho cloud",43.615791,-116.201576,17,"Idaho State ID insideidaho cloud",folder,NULL,NULL
+630,https://gis2.idaho.gov/arcgis/rest/services,"Idaho State ID gis2",43.615791,-116.201576,17,"Idaho State ID gis2",folder,NULL,NULL
+631,https://fishandgame.idaho.gov/gis/rest/services,"Idaho State ID Fish and Game",43.615791,-116.201576,17,"Idaho State ID Fish and Game",folder,NULL,NULL
+632,https://maps.idwr.idaho.gov/arcgis/rest/services,"Idaho State ID Department of Water Resources",43.615791,-116.201576,17,"Idaho State ID Department of Water Resources",folder,NULL,NULL
+633,http://global.deq.idaho.gov/arcgis/rest/services,"Idaho State ID Department of Environmental Quality",43.615791,-116.201576,17,"Idaho State ID Department of Environmental Quality",folder,NULL,NULL
+634,http://ags.giscenter.isu.edu/arcgis/rest/services,"Idaho State ID University GIS Center",43.615791,-116.201576,17,"Idaho State ID University GIS Center",folder,NULL,NULL
+635,http://gis.itd.idaho.gov/arcgisprod/rest/services,"East Idaho Geospatial",42.868861,-112.440110,17,"East Idaho Geospatial",folder,NULL,NULL
+636,https://gis.adacounty.id.gov/arcgis/rest/services,"Ada County ID",43.615791,-116.201576,17,"Ada County ID",folder,NULL,NULL
+637,http://gis.bannockcounty.us/arcgis/rest/services,"Bannock County ID",42.868861,-112.440110,17,"Bannock County ID",folder,NULL,NULL
+638,http://gis.canyonco.org/arcgis/rest/services,"Canyon County ID",43.667874,-116.689416,17,"Canyon County ID",folder,NULL,NULL
+639,https://kcearth.kcgov.us/ws/rest/services,"Kootenai County ID",47.674299,-116.781153,17,"Kootenai County ID",folder,NULL,NULL
+640,https://gis.latah.id.us/arcgis/rest/services,"Latah County ID",46.733688,-117.000000,17,"Latah County ID",folder,NULL,NULL
+641,https://maps.cdaid.org/arcgis/rest/services,"Coeur d’Alene ID",47.674299,-116.781153,17,"Coeur d’Alene ID",folder,NULL,NULL
+642,https://gis.cityoflewiston.org/arcgis/rest/services,"Lewiston ID",46.419048,-117.019127,17,"Lewiston ID",folder,NULL,NULL
+643,https://gis.latah.id.us/arcgis/rest/services,"Moscow ID",46.733688,-117.000000,17,"Moscow ID",folder,NULL,NULL
+644,https://webmap.pocatello.us/map/rest/services,"Pocatello ID",42.868861,-112.440110,17,"Pocatello ID",folder,NULL,NULL
+645,https://imagery.gis.in.gov/arcgis/rest/services,"Indiana State IN imagery",39.768402,-86.158066,17,"Indiana State IN imagery",folder,NULL,NULL
+646,https://maps.indot.in.gov/arcgisro/rest/services,"Indiana State IN Indiana Department of Transportation",39.768402,-86.158066,17,"Indiana State IN Indiana Department of Transportation",folder,NULL,NULL
+647,https://maps.indiana.edu/arcgis/rest/services,"Indiana University Bloomington GIS",39.768402,-86.158066,17,"Indiana University Bloomington GIS",folder,NULL,NULL
+648,https://gis.acimap.us/projectservicesadmin/rest/services,"Allen County IN",41.077469,-85.137489,17,"Allen County IN",folder,NULL,NULL
+649,http://ags1.hamiltoncounty.in.gov/arcgis/rest/services,"Hamilton County IN",40.035884,-86.005501,17,"Hamilton County IN",folder,NULL,NULL
+650,http://imaps.indy.gov/arcgis/rest/services,"Marion County IN",39.768402,-86.158066,17,"Marion County IN",folder,NULL,NULL
+651,http://gis.porterco.org/arcgis/rest/services,"Porter County IN",41.480468,-87.052364,17,"Porter County IN",folder,NULL,NULL
+652,http://gis2.tippecanoe.in.gov/arcgis/rest/services,"Tippecanoe County IN",40.417332,-86.890617,17,"Tippecanoe County IN",folder,NULL,NULL
+653,http://gisweb3.co.wayne.in.us/arcgis/rest/services,"Wayne County IN",39.827290,-84.890358,17,"Wayne County IN",folder,NULL,NULL
+654,http://ags1.hamiltoncounty.in.gov/arcgis/rest/services,"Carmel IN",39.978371,-86.118042,17,"Carmel IN",folder,NULL,NULL
+655,http://maps.evansvillegis.com/arcgis_server/rest/services,"Evansville IN",37.975712,-87.569908,17,"Evansville IN",folder,NULL,NULL
+656,https://gis.acimap.us/reference/rest/services,"Fort Wayne IN",41.077469,-85.137489,17,"Fort Wayne IN",folder,NULL,NULL
+657,https://greenwoodgis.greenwood.in.gov/arcgis/rest/services,"Greenwood IN",39.613659,-86.106651,17,"Greenwood IN",folder,NULL,NULL
+658,https://gis.southbendin.gov/arcgis/rest/services,"South Band IN",41.697578,-86.228096,17,"South Band IN",folder,NULL,NULL
+659,https://programs.iowadnr.gov/geospatial/rest/services,"Iowa State IA Department of Natural Resources",42.026798,-93.620178,17,"Iowa State IA Department of Natural Resources",folder,NULL,NULL
+660,https://gis.iowadot.gov/public/rest/services,"Iowa State IA Department of Transportation",42.026798,-93.620178,17,"Iowa State IA Department of Transportation",folder,NULL,NULL
+661,https://ortho.gis.iastate.edu/arcgis/rest/services,"Iowa State IA University GIS Support and Research Facility",42.026798,-93.620178,17,"Iowa State IA University GIS Support and Research Facility",folder,NULL,NULL
+662,http://gis.dbqco.org/arcgis/rest/services,"Dubuque County IA",42.500557,-90.664574,17,"Dubuque County IA",folder,NULL,NULL
+663,https://gis.johnson-county.com/arcgis/rest/services,"Johnson County IA",41.661255,-91.529907,17,"Johnson County IA",folder,NULL,NULL
+664,https://gis.linncounty.org/arcgis/rest/services,"Linn County IA",41.978050,-91.669861,17,"Linn County IA",folder,NULL,NULL
+665,https://gis.polkcountyiowa.gov/arcgis/rest/services,"Polk County IA",41.586834,-93.624962,17,"Polk County IA",folder,NULL,NULL
+666,https://gis.pottcounty-ia.gov/arcgis/rest/services,"Pottawattamie County IA",41.262128,-95.861391,17,"Pottawattamie County IA",folder,NULL,NULL
+667,https://gis.scottcountyiowa.com/server/rest/services,"Scott County IA",41.523529,-90.577042,17,"Scott County IA",folder,NULL,NULL
+668,https://crgis.cedar-rapids.org/arcgis/rest/services,"Cedar Rapids IA",41.978050,-91.669861,17,"Cedar Rapids IA",folder,NULL,NULL
+669,https://gis.ci.davenport.ia.us/arcgis/rest/services,"Davenport IA",41.523529,-90.577042,17,"Davenport IA",folder,NULL,NULL
+670,https://maps.dmgov.org/arcgis/rest/services,"Des Moines IA",41.586834,-93.624962,17,"Des Moines IA",folder,NULL,NULL
+671,http://mapserver.kansasgis.org/arcgis/rest/services,"Kansas State KS GIS Data Access and Support Center DASC mapserver",39.050980,-95.670433,17,"Kansas State KS GIS Data Access and Support Center DASC mapserver",folder,NULL,NULL
+672,http://services.kansasgis.org/arcgis/rest/services,"Kansas State KS GIS Data Access and Support Center DASC services",39.050980,-95.670433,17,"Kansas State KS GIS Data Access and Support Center DASC services",folder,NULL,NULL
+673,https://wfs.ksdot.org/arcgis_web_adaptor/rest/services,"Kansas State KS Department of Transportation",39.050980,-95.670433,17,"Kansas State KS Department of Transportation",folder,NULL,NULL
+674,http://kars.ku.edu/arcgis/rest/services,"University of Kansas Applied Remote Sensing KARS",39.050980,-95.670433,17,"University of Kansas Applied Remote Sensing KARS",folder,NULL,NULL
+675,https://services.kars.ku.edu/arcgis/rest/services,"University of Kansas Applied Remote Sensing KARS service",39.050980,-95.670433,17,"University of Kansas Applied Remote Sensing KARS service",folder,NULL,NULL
+676,https://arcgis.wycokck.org/mapserv/rest/services,"Wyandotte County KS",39.100105,-94.578142,17,"Wyandotte County KS",folder,NULL,NULL
+677,http://ww1.bucoks.com/arcgis/rest/services,"Butler County KS",37.817240,-96.862252,17,"Butler County KS",folder,NULL,NULL
+678,https://maps.jocogov.org/arcgis/rest/services,"Johnson County KS",38.883530,-94.818237,17,"Johnson County KS",folder,NULL,NULL
+679,https://gis.snco.us/arcgis2/rest/services,"Shawnee County KS",39.050980,-95.670433,17,"Shawnee County KS",folder,NULL,NULL
+680,http://renogis3.renogov.org/arcgis/rest/services,"Reno County KS",38.070530,-97.913101,17,"Reno County KS",folder,NULL,NULL
+681,https://arcgis.wycokck.org/mapserv/rest/services,"Kansas City KS",39.100105,-94.578142,17,"Kansas City KS",folder,NULL,NULL
+682,https://gis.lenexa.com/arcgis/rest/services,"Lenexa City KS",38.969746,-94.784584,17,"Lenexa City KS",folder,NULL,NULL
+683,https://map.opkansas.org/arcgis/rest/services,"Overland Park KS",38.974250,-94.685170,17,"Overland Park KS",folder,NULL,NULL
+684,https://gis.snco.us/arcgis2/rest/services,"Topeka KS",39.050980,-95.670433,17,"Topeka KS",folder,NULL,NULL
+685,https://gismaps.wichita.gov/agsweb/rest/services,"Wichita KS",37.687176,-97.330055,17,"Wichita KS",folder,NULL,NULL
+686,https://kygisserver.ky.gov/arcgis/rest/services,"Kentucky State KY ",38.200905,-84.873283,17,"Kentucky State KY ",folder,NULL,NULL
+687,https://maps.kytc.ky.gov/arcgis/rest/services,"Kentucky State KY Transportation Cabinet",38.200905,-84.873283,17,"Kentucky State KY Transportation Cabinet",folder,NULL,NULL
+688,https://kgs.uky.edu/arcgis/rest/services,"University of Kentucky Geological Survey",38.200905,-84.873283,17,"University of Kentucky Geological Survey",folder,NULL,NULL
+689,https://kyraster.ky.gov/arcgis/rest/services,"Boone County KY",39.027771,-84.724197,17,"Boone County KY",folder,NULL,NULL
+690,http://kcgis.kcor.org/arcgis/rest/services,"Kenton County KY",39.083622,-84.508371,17,"Kenton County KY",folder,NULL,NULL
+691,https://gis.bgky.org/arcgis/rest/services,"Bowling Green KY",36.990318,-86.443604,17,"Bowling Green KY",folder,NULL,NULL
+692,http://agis101.frankfort.ky.gov/arcgis/rest/services,"Frankfort KY",38.200905,-84.873283,17,"Frankfort KY",folder,NULL,NULL
+693,http://gis.gscplanning.com/arcgis/rest/services,"Georgetown KY",38.209949,-84.559769,17,"Georgetown KY",folder,NULL,NULL
+694,https://gis.owensboro.org/arcgis/rest/services,"Owensboro KY",37.774216,-87.113327,17,"Owensboro KY",folder,NULL,NULL
+695,http://gis.wlf.la.gov/arcgis/rest/services,"Louisiana State LA Department of Wildlife and Fisheries",30.443319,-91.187492,17,"Louisiana State LA Department of Wildlife and Fisheries",folder,NULL,NULL
+696,http://cimsgeo.coastal.louisiana.gov/arcgis/rest/services,"Louisiana State LA Coastal Information Management System",30.443319,-91.187492,17,"Louisiana State LA Coastal Information Management System",folder,NULL,NULL
+697,http://gisweb.dotd.la.gov/ArcGIS/rest/services,"Louisiana State LA Department of Transportation and Development",30.443319,-91.187492,17,"Louisiana State LA Department of Transportation and Development",folder,NULL,NULL
+698,https://giswebnew.dotd.la.gov/arcgis/rest/services,"Louisiana State LA Department of Transportation and Development new",30.443319,-91.187492,17,"Louisiana State LA Department of Transportation and Development new",folder,NULL,NULL
+699,https://eweb.jeffparish.net/arcgis/rest/services,"Jefferson Parishes LA",29.994227,-90.241781,17,"Jefferson Parishes LA",folder,NULL,NULL
+700,http://lcgmaps.lafayettela.gov/arcgis/rest/services,"Lafayette Parishes LA",30.221260,-92.018768,17,"Lafayette Parishes LA",folder,NULL,NULL
+701,https://eweb.jeffparish.net/arcgis/rest/services,"Kenner LA",29.994227,-90.241781,17,"Kenner LA",folder,NULL,NULL
+702,http://lcgmaps.lafayettela.gov/arcgis/rest/services,"Lafayette LA",30.221260,-92.018768,17,"Lafayette LA",folder,NULL,NULL
+703,https://arcgisserver.maine.gov/arcgis/rest/services,"Maine State ME arcgisserver",44.307690,-69.780792,17,"Maine State ME arcgisserver",folder,NULL,NULL
+704,https://gis2.maine.gov/arcgis/rest/services,"Maine State ME gis2",44.307690,-69.780792,17,"Maine State ME gis2",folder,NULL,NULL
+705,https://gis.maine.gov/arcgis/rest/services,"Maine State ME gis",44.307690,-69.780792,17,"Maine State ME gis",folder,NULL,NULL
+706,http://gis.bangormaine.gov/arcgis/rest/services,"Bangor ME",44.808147,-68.795013,17,"Bangor ME",folder,NULL,NULL
+707,https://maps2.lewistonmaine.gov/arcgis/rest/services,"Lewiston ME",44.100731,-70.214958,17,"Lewiston ME",folder,NULL,NULL
+708,https://click.portlandmaine.gov/arcgis/rest/services,"Portland ME",43.659222,-70.256523,17,"Portland ME",folder,NULL,NULL
+709,https://geodata.md.gov/imap/rest/services,"Maryland State MD imap",38.978291,-76.495682,17,"Maryland State MD imap",folder,NULL,NULL
+710,https://geodata.md.gov/appdata/rest/services,"Maryland State MD appdata",38.978291,-76.495682,17,"Maryland State MD appdata",folder,NULL,NULL
+711,https://imagery.geodata.md.gov/imap/rest/services,"Maryland State MD imagery",38.978291,-76.495682,17,"Maryland State MD imagery",folder,NULL,NULL
+712,https://lidar.geodata.md.gov/imap/rest/services,"Maryland State MD lidar",38.978291,-76.495682,17,"Maryland State MD lidar",folder,NULL,NULL
+713,http://maps.roads.maryland.gov/ArcGIS/rest/services,"Maryland State MD Department of Transportation",38.978291,-76.495682,17,"Maryland State MD Department of Transportation",folder,NULL,NULL
+714,https://gis.baltometro.org/arcgis/rest/services,"Baltimore Metropolitan Council MD",39.290440,-76.612328,17,"Baltimore Metropolitan Council MD",folder,NULL,NULL
+715,http://gis-world2.aacounty.org/arcgis/rest/services,"Anne Arundel County MD",38.978291,-76.495682,17,"Anne Arundel County MD",folder,NULL,NULL
+716,http://calvertgis.co.cal.md.us/arcgis/rest/services,"Calvert County MD",38.540400,-76.584402,17,"Calvert County MD",folder,NULL,NULL
+717,https://maps.frederickcountymd.gov/arcgis/rest/services,"Frederick County MD",39.414181,-77.410942,17,"Frederick County MD",folder,NULL,NULL
+718,https://gis.montgomerycountymd.gov/ArcGIS/rest/services,"Montgomery County MD gis",39.084179,-77.152901,17,"Montgomery County MD gis",folder,NULL,NULL
+719,https://mcatlas.org/arcgis3/rest/services,"Montgomery County MD mcatlas",39.084179,-77.152901,17,"Montgomery County MD mcatlas",folder,NULL,NULL
+720,https://onlinegis.princegeorgescountymd.gov/arcgis/rest/services,"Prince George’s County MD",38.816527,-76.751975,17,"Prince George’s County MD",folder,NULL,NULL
+721,http://gisdata.pgplanning.org/arcgis/rest/services,"Prince George’s County MD",38.816527,-76.751975,17,"Prince George’s County MD",folder,NULL,NULL
+722,https://hcggis.harfordcountymd.gov/public/rest/services,"Harford County MD",39.535506,-76.349040,17,"Harford County MD",folder,NULL,NULL
+723,https://www7.montgomerycountymd.gov/arcgis/rest/services,"Montgomery County MD",39.084179,-77.152901,17,"Montgomery County MD",folder,NULL,NULL
+724,https://gis.qac.org/arcgis/rest/services,"Queen Anne’s County MD",39.042059,-76.067434,17,"Queen Anne’s County MD",folder,NULL,NULL
+725,http://gis-world2.aacounty.org/arcgis/rest/services,"Annapolis MD",38.978291,-76.495682,17,"Annapolis MD",folder,NULL,NULL
+726,https://gis.baltimorecity.gov/egis/rest/services,"Baltimore MD",39.290440,-76.612328,17,"Baltimore MD",folder,NULL,NULL
+727,http://spires2.cityoffrederick.com/ArcGIS/rest/services,"Frederick MD",39.414181,-77.410942,17,"Frederick MD",folder,NULL,NULL
+728,https://maps.gaithersburgmd.gov/arcgis/rest/services,"Gaithersburg MD",39.142189,-77.193398,17,"Gaithersburg MD",folder,NULL,NULL
+729,https://maps.rockvillemd.gov/arcgis/rest/services,"Rockville MD",39.084179,-77.152901,17,"Rockville MD",folder,NULL,NULL
+730,http://zimas.lacity.org/arcgis/rest/services,"Los Angeles City Planning Zoning Zimas",34.052235,-118.243683,17,"Los Angeles City Planning Zoning Zimas",folder,NULL,NULL
+731,http://tiles.arcgis.com/tiles/hGdibHYSPO59RG1h/arcgis/rest/services,"Massachusetts State MA tiles",42.361145,-71.057083,17,"Massachusetts State MA tiles",folder,NULL,NULL
+732,http://gisprpxy.itd.state.ma.us/ArcGISServer/rest/services,"Massachusetts State MA gisprpxy",42.361145,-71.057083,17,"Massachusetts State MA gisprpxy",folder,NULL,NULL
+733,https://services.massdot.state.ma.us/ArcGIS/rest/services,"Massachusetts State MA Department of Transportation",42.361145,-71.057083,17,"Massachusetts State MA Department of Transportation",folder,NULL,NULL
+734,https://gisdev.massdot.state.ma.us/arcgis/rest/services,"Massachusetts State MA Department of Transportation gisdev",42.361145,-71.057083,17,"Massachusetts State MA Department of Transportation gisdev",folder,NULL,NULL
+735,https://gis-services.capecodcommission.org/arcgis/rest/services,"Massachusetts Cape Cod Commission",41.700378,-70.300171,17,"Massachusetts Cape Cod Commission",folder,NULL,NULL
+736,http://library.mapc.org/arcgis/rest/services,"Massachusetts Metropolitan Area Planning Council",42.361145,-71.057083,17,"Massachusetts Metropolitan Area Planning Council",folder,NULL,NULL
+737,http://map01.cityofboston.gov:6080/arcgis/rest/services,"Boston MA",42.361145,-71.057083,17,"Boston MA",folder,NULL,NULL
+738,http://gisweb.brooklinema.gov/arcgis/rest/services,"Brookline MA",42.331764,-71.121164,17,"Brookline MA",folder,NULL,NULL
+739,https://gis.cambridgema.gov/arcgis/rest/services,"Cambridge MA",42.365250,-71.105011,17,"Cambridge MA",folder,NULL,NULL
+740,https://gis.newtonma.gov/arcgis/rest/services,"Newton MA",42.338032,-71.211578,17,"Newton MA",folder,NULL,NULL
+741,https://maps.springfield-ma.gov/arcgis/rest/services,"Springfield MA",42.102051,-72.585762,17,"Springfield MA",folder,NULL,NULL
+742,http://gisweb.west-springfield.ma.us:6080/arcgis/rest/services,"West Springfield MA",42.103451,-72.623337,17,"West Springfield MA",folder,NULL,NULL
+743,https://www5.worcesterma.gov/arcgis/rest/services,"Worcester MA",42.262119,-71.802238,17,"Worcester MA",folder,NULL,NULL
+744,https://gisago.mcgi.state.mi.us/arcgis/rest/services,"Michigan State MI gisago",42.331429,-83.045753,17,"Michigan State MI gisago",folder,NULL,NULL
+745,https://gisago-qa.mcgi.state.mi.us/arcgis/rest/services,"Michigan State MI gisago-qa",42.331429,-83.045753,17,"Michigan State MI gisago-qa",folder,NULL,NULL
+746,https://mspmaps.state.mi.us/micims/rest/services,"Michigan State MI police",42.331429,-83.045753,17,"Michigan State MI police",folder,NULL,NULL
+747,https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services,"Michigan State MI ",42.331429,-83.045753,17,"Michigan State MI ",folder,NULL,NULL
+748,https://arcgisserver.semcog.org/arcgis/rest/services,"Southeast Michigan Council of Governments",42.331429,-83.045753,17,"Southeast Michigan Council of Governments",folder,NULL,NULL
+749,https://services2.arcgis.com/HsXtOCMp1Nis1Ogr/ArcGIS/rest/ser,"Detroit MI",42.331429,-83.045753,17,"Detroit MI",folder,NULL,NULL
+750,http://gis.kentcountymi.gov/prodarcgis/rest/services,"Grand Rapids MI",42.965462,-85.670174,17,"Grand Rapids MI",folder,NULL,NULL
+751,https://gis.kalamazoocity.org/arcgis/rest/services,"Kalamazoo MI",42.289780,-85.584679,17,"Kalamazoo MI",folder,NULL,NULL
+752,http://gis.emmetcounty.org/arcgis/rest/services,"Petoskey MI",45.373989,-84.955589,17,"Petoskey MI",folder,NULL,NULL
+753,https://gis.romi.gov/arcgis/rest/services,"Royal Oak MI",42.489480,-83.144649,17,"Royal Oak MI",folder,NULL,NULL
+754,http://gis.traversecitymi.gov/arcgis/rest/services,"Traverse City MI",44.763058,-85.620628,17,"Traverse City MI",folder,NULL,NULL
+755,http://gis.emmetcounty.org/arcgis/rest/services,"Emmet County MI",45.373989,-84.955589,17,"Emmet County MI",folder,NULL,NULL
+756,http://hdgis.ingham.org/arcgis/rest/services,"Ingham County MI",43.977882,-86.246292,17,"Ingham County MI",folder,NULL,NULL
+757,http://gis.kentcountymi.gov/prodarcgis/rest/services,"Kent County MI",42.965462,-85.670174,17,"Kent County MI",folder,NULL,NULL
+758,https://gisservices.oakgov.com/arcgis/rest/services,"Oakland County MI",42.638924,-83.291046,17,"Oakland County MI",folder,NULL,NULL
+759,https://gis.miottawa.org/gisweb/rest/services,"Ottawa County MI",43.058800,-86.227989,17,"Ottawa County MI",folder,NULL,NULL
+760,https://webmapssecure.ewashtenaw.org/arcgisshared/rest/services,"Washtenaw County MI",42.281422,-83.748482,17,"Washtenaw County MI",folder,NULL,NULL
+761,https://app.gisdata.mn.gov/arcgis/rest/services,"Minnesota State MN app.gisdata",44.953705,-93.089958,17,"Minnesota State MN app.gisdata",folder,NULL,NULL
+762,https://gis2.metc.state.mn.us/arcgis/rest/services,"Minnesota State MN gis2",44.953705,-93.089958,17,"Minnesota State MN gis2",folder,NULL,NULL
+763,http://geoserver.state.mn.us/arcgis/rest/services,"Minnesota State MN geoserver",44.953705,-93.089958,17,"Minnesota State MN geoserver",folder,NULL,NULL
+764,http://mndotgis.dot.state.mn.us/egis12/rest/services/CACHED/MNDOT_CACHE,"Minnesota State MN Department of Transportation",44.953705,-93.089958,17,"Minnesota State MN Department of Transportation",folder,NULL,NULL
+765,https://arcgis.dnr.state.mn.us/arcgis/rest/services,"Minnesota State MN Department of Natural Resources",44.953705,-93.089958,17,"Minnesota State MN Department of Natural Resources",folder,NULL,NULL
+766,https://w20.education.state.mn.us/arcgis/rest/services,"Minnesota State MN Department of Education",44.953705,-93.089958,17,"Minnesota State MN Department of Education",folder,NULL,NULL
+767,https://pca-gis02.pca.state.mn.us/arcgis/rest/services,"Minnesota State MN Pollution Control Agency",44.953705,-93.089958,17,"Minnesota State MN Pollution Control Agency",folder,NULL,NULL
+768,http://gisservices.co.anoka.mn.us/anoka_gis/rest/services,"Anoka MN",45.197929,-93.387199,17,"Anoka MN",folder,NULL,NULL
+769,https://gis.crowwing.us/cwcexternal/rest/services,"Brainerd MN",46.358022,-94.200829,17,"Brainerd MN",folder,NULL,NULL
+770,https://gis.stlouiscountymn.gov/arcgis/rest/services,"Duluth MN",46.786671,-92.100487,17,"Duluth MN",folder,NULL,NULL
+771,https://gis.hennepin.us/arcgis/rest/services,"Minneapolis MN",44.977753,-93.265015,17,"Minneapolis MN",folder,NULL,NULL
+772,https://gweb01.co.olmsted.mn.us/arcgis/rest/services,"Rochester MN",44.012123,-92.480202,17,"Rochester MN",folder,NULL,NULL
+773,https://stpmaps.stpaul.gov/public/rest/services,"St. Paul MN",44.953705,-93.089958,17,"St. Paul MN",folder,NULL,NULL
+774,https://gisweb.co.aitkin.mn.us/arcgis/rest/services,"Aitkin County MN",46.571484,-93.384758,17,"Aitkin County MN",folder,NULL,NULL
+775,http://gisservices.co.anoka.mn.us/anoka_gis/rest/services,"Anoka County MN",45.197929,-93.387199,17,"Anoka County MN",folder,NULL,NULL
+776,https://gis.co.carlton.mn.us/arcgis/rest/services,"Carlton County MN",46.662655,-92.424695,17,"Carlton County MN",folder,NULL,NULL
+777,https://gis.co.carver.mn.us/arcgis_ea/rest/services,"Carver County MN",44.789406,-93.602180,17,"Carver County MN",folder,NULL,NULL
+778,https://gis.crowwing.us/cwcexternal/rest/services,"Crow Wing County MN",46.358022,-94.200829,17,"Crow Wing County MN",folder,NULL,NULL
+779,https://cassweb3.co.cass.mn.us/arcgis/rest/services,"Cass County MN",47.101768,-94.582161,17,"Cass County MN",folder,NULL,NULL
+780,https://gis2.co.dakota.mn.us/arcgis/rest/services,"Dakota County MN",44.744328,-92.851372,17,"Dakota County MN",folder,NULL,NULL
+781,https://gis.hennepin.us/arcgis/rest/services,"Hennepin County MN",44.977753,-93.265015,17,"Hennepin County MN",folder,NULL,NULL
+782,https://maps.co.itasca.mn.us/arcgis/rest/services,"Itasca County MN",47.234413,-93.529436,17,"Itasca County MN",folder,NULL,NULL
+783,https://gweb01.co.olmsted.mn.us/arcgis/rest/services,"Olmsted County MN",44.012123,-92.480202,17,"Olmsted County MN",folder,NULL,NULL
+784,https://maps.co.ramsey.mn.us/arcgis/rest/services,"Ramsey County MN",44.953705,-93.089958,17,"Ramsey County MN",folder,NULL,NULL
+785,https://gis.stlouiscountymn.gov/arcgis/rest/services,"St. Louis County MN",46.786671,-92.100487,17,"St. Louis County MN",folder,NULL,NULL
+786,https://gis.co.stearns.mn.us/arcgis/rest/services,"Stearns County MN",45.559292,-94.156517,17,"Stearns County MN",folder,NULL,NULL
+787,https://maps.co.washington.mn.us/arcgis/rest/services,"Washington County MN",44.919849,-92.937088,17,"Washington County MN",folder,NULL,NULL
+788,http://gis.ms.gov/arcgis/rest/services,"Mississippi State MS gis",32.298756,-90.184807,17,"Mississippi State MS gis",folder,NULL,NULL
+789,https://gisonline.ms.gov/ArcGIS/rest/services,"Mississippi State MS gisonline",32.298756,-90.184807,17,"Mississippi State MS gisonline",folder,NULL,NULL
+790,https://gis.deq.ms.gov/ArcGIS/rest/services,"Mississippi State MS Department of Environmental Quality",32.298756,-90.184807,17,"Mississippi State MS Department of Environmental Quality",folder,NULL,NULL
+791,http://arcgis.gomdot.com/MDOTArcGIS10/rest/services/external,"Mississippi State MS Department of Transportation",32.298756,-90.184807,17,"Mississippi State MS Department of Transportation",folder,NULL,NULL
+792,http://gis.cmpdd.org/arcgis/rest/services,"Central Mississippi Planning & Development District",32.298756,-90.184807,17,"Central Mississippi Planning & Development District",folder,NULL,NULL
+793,http://gis.smpdd.com/arcgis/rest/services,"Southern Mississippi Planning and Development",30.367420,-89.092819,17,"Southern Mississippi Planning and Development",folder,NULL,NULL
+794,http://maps.desotocountyms.gov/arcgis/rest/services,"DeSoto County MS",34.823986,-89.993706,17,"DeSoto County MS",folder,NULL,NULL
+795,http://gis.co.harrison.ms.us/arcgis/rest/services,"Harrison County MS",30.367420,-89.092819,17,"Harrison County MS",folder,NULL,NULL
+796,https://webmap.co.jackson.ms.us/arcgis/rest/services,"Jackson County MS",32.298756,-90.184807,17,"Jackson County MS",folder,NULL,NULL
+797,http://gis.biloxi.ms.us:6080/arcgis/rest/services,"Biloxi MS",30.396032,-88.885307,17,"Biloxi MS",folder,NULL,NULL
+798,https://map.gulfport-ms.gov/arcgis/rest/services,"Gulfport MS",30.367420,-89.092819,17,"Gulfport MS",folder,NULL,NULL
+799,http://maps.desotocountyms.gov/arcgis/rest/services,"Southhaven MS",34.988983,-90.012589,17,"Southhaven MS",folder,NULL,NULL
+800,https://emgis.oa.mo.gov/arcgis/rest/services,"Missouri State MO emgis",38.576908,-92.174873,17,"Missouri State MO emgis",folder,NULL,NULL
+801,https://ogitest.oa.mo.gov/arcgis/rest/services,"Missouri State MO ogitest",38.576908,-92.174873,17,"Missouri State MO ogitest",folder,NULL,NULL
+802,https://ogi.oa.mo.gov/ArcGIS/rest/services,"Missouri State MO Office of Geospatial Information",38.576908,-92.174873,17,"Missouri State MO Office of Geospatial Information",folder,NULL,NULL
+803,https://gisblue.mdc.mo.gov/arcgis/rest/services,"Missouri State MO Department of Conservation",38.576908,-92.174873,17,"Missouri State MO Department of Conservation",folder,NULL,NULL
+804,http://mapping.modot.org/arcgis/rest/services,"Missouri State MO Department of Transportation",38.576908,-92.174873,17,"Missouri State MO Department of Transportation",folder,NULL,NULL
+805,https://moimagery.missouri.edu/ArcGIS/rest/services,"University of Missouri Spatial Data Information Service moimagery",38.576908,-92.174873,17,"University of Missouri Spatial Data Information Service moimagery",folder,NULL,NULL
+806,http://msdisweb.missouri.edu/arcgis/rest/services,"University of Missouri Spatial Data Information Service msdisweb",38.576908,-92.174873,17,"University of Missouri Spatial Data Information Service msdisweb",folder,NULL,NULL
+807,https://maps.showmeboone.com/arcgis/rest/services,"Boone County MO",38.951183,-92.339638,17,"Boone County MO",folder,NULL,NULL
+808,https://www.midmogis.org/arcgis/rest/services,"Cole County MO",38.576908,-92.174873,17,"Cole County MO",folder,NULL,NULL
+809,http://arcgisweb.jacksongov.org/arcgis/rest/services,"Jackson County MO",39.091118,-94.415504,17,"Jackson County MO",folder,NULL,NULL
+810,https://gis.sccmo.org/scc_gis/rest/services,"St. Charles County MO",38.788105,-90.497437,17,"St. Charles County MO",folder,NULL,NULL
+811,https://maps.stlouisco.com/arcgis/rest/services,"St. Louis County MO",38.627003,-90.199402,17,"St. Louis County MO",folder,NULL,NULL
+812,http://arcgis.cityofcapegirardeau.org:6080/arcgis/rest/services,"Cape Girardeau MO",37.305884,-89.518148,17,"Cape Girardeau MO",folder,NULL,NULL
+813,https://mapping.chesterfield.mo.us/arcgis/rest/services,"Chesterfield MO",38.662380,-90.543320,17,"Chesterfield MO",folder,NULL,NULL
+814,https://www.midmogis.org/arcgis/rest/services,"Jefferson City MO",38.576908,-92.174873,17,"Jefferson City MO",folder,NULL,NULL
+815,http://arcgisweb.jacksongov.org/arcgis/rest/services,"Independence MO",39.091118,-94.415504,17,"Independence MO",folder,NULL,NULL
+816,https://maps.kcmo.org/maps1/rest/services,"Kansas City MO maps1",39.015697,-94.565559,17,"Kansas City MO maps1",folder,NULL,NULL
+817,https://maps.kcmo.org/kcgis/rest/services,"Kansas City MO kcgis",39.015697,-94.565559,17,"Kansas City MO kcgis",folder,NULL,NULL
+818,https://maps.springfieldmo.gov/arcgis/rest/services,"Springfield MO",37.208957,-93.292299,17,"Springfield MO",folder,NULL,NULL
+819,https://maps.stlouisco.com/arcgis/rest/services,"St. Louis MO",38.627003,-90.199402,17,"St. Louis MO",folder,NULL,NULL
+820,https://gis.sccmo.org/scc_gis/rest/services,"St. Charles MO",38.788105,-90.497437,17,"St. Charles MO",folder,NULL,NULL
+821,https://app.mdt.mt.gov/arcgis/rest/services,"Montana State MT Department of Transportation",46.595806,-112.027031,17,"Montana State MT Department of Transportation",folder,NULL,NULL
+822,https://gis.fwp.mt.gov/arcgis101/rest/services,"Montana State MT Fish Wildlife and Parks",46.595806,-112.027031,17,"Montana State MT Fish Wildlife and Parks",folder,NULL,NULL
+823,http://maps.flathead.mt.gov/arcgis/rest/services,"Flathead County MT",48.197777,-114.316109,17,"Flathead County MT",folder,NULL,NULL
+824,https://helenamontanamaps.org/arcgisadp/rest/services,"Clark County MT",46.595806,-112.027031,17,"Clark County MT",folder,NULL,NULL
+825,https://helenamontanamaps.org/arcgisadp/rest/services,"Lewis County MT",46.595806,-112.027031,17,"Lewis County MT",folder,NULL,NULL
+826,https://gisweb.bozeman.net/cob/rest/services,"Bozeman MT",45.676998,-111.042931,17,"Bozeman MT",folder,NULL,NULL
+827,https://helenamontanamaps.org/arcgisadp/rest/services,"Helena MT",46.595806,-112.027031,17,"Helena MT",folder,NULL,NULL
+828,http://gis.gallatin.mt.gov/arcgis/rest/services,"Gallatin County MT",45.676998,-111.042931,17,"Gallatin County MT",folder,NULL,NULL
+829,https://prodmaps.ne.gov/public/rest/services,"Nebraska State NE ",40.806862,-96.681679,17,"Nebraska State NE ",folder,NULL,NULL
+830,https://maps.outdoornebraska.gov/arcgis/rest/services,"Nebraska State NE Game and Parks Commission",40.806862,-96.681679,17,"Nebraska State NE Game and Parks Commission",folder,NULL,NULL
+831,https://gis.dogis.org/arcgis/rest/services,"Douglas County NE",41.257160,-95.995102,17,"Douglas County NE",folder,NULL,NULL
+832,https://geodata.sarpy.com/arcgis/rest/services,"Sarpy County NE",41.156368,-96.041583,17,"Sarpy County NE",folder,NULL,NULL
+833,https://gis.grand-island.com/arcgis/rest/services,"Grand Island NE",40.929077,-98.368149,17,"Grand Island NE",folder,NULL,NULL
+834,https://ags3.lincoln.ne.gov/arcgis/rest/services,"Lincoln NE",40.806862,-96.681679,17,"Lincoln NE",folder,NULL,NULL
+835,https://gis.dogis.org/arcgis/rest/services,"Omaha NE",41.257160,-95.995102,17,"Omaha NE",folder,NULL,NULL
+836,http://arcgis.dcnr.nv.gov/arcgis/rest/services,"Nevada State NV Department of Conservation & Natural Resources",39.163798,-119.767403,17,"Nevada State NV Department of Conservation & Natural Resources",folder,NULL,NULL
+837,http://ndep-emap.nv.gov/ArcGIS/rest/services,"Nevada State NV Division of Environmental Protection",39.163798,-119.767403,17,"Nevada State NV Division of Environmental Protection",folder,NULL,NULL
+838,http://gis.ndow.nv.gov/arcgis/rest/services,"Nevada State NV Department of Wildlife",39.163798,-119.767403,17,"Nevada State NV Department of Wildlife",folder,NULL,NULL
+839,https://gis.rtcsnv.com/arcgis/rest/services,"Nevada State NV Transportation Commission of Southern Nevada",39.163798,-119.767403,17,"Nevada State NV Transportation Commission of Southern Nevada",folder,NULL,NULL
+840,http://gisgate.co.clark.nv.us/arcgis/rest/services,"Clark County NV",36.114647,-115.172813,17,"Clark County NV",folder,NULL,NULL
+841,http://gis.elkocountynv.net:1402/arcgis/rest/services,"Elko County NV",40.835732,-115.759460,17,"Elko County NV",folder,NULL,NULL
+842,https://gis.lyonco.org/arcgis/rest/services,"Lyon County NV",38.993911,-119.163156,17,"Lyon County NV",folder,NULL,NULL
+843,https://wcgisweb.washoecounty.us/arcgis/rest/services,"Washoe County NV",39.530895,-119.814972,17,"Washoe County NV",folder,NULL,NULL
+844,http://ccapps.org/arcgis/rest/services,"Carson City NV",39.163798,-119.767403,17,"Carson City NV",folder,NULL,NULL
+845,http://maps.cityofhenderson.com/arcgis/rest/services,"Henderson NV",36.039524,-114.981720,17,"Henderson NV",folder,NULL,NULL
+846,https://mapdata.lasvegasnevada.gov/clvgis/rest/services,"Las Vegas NV",36.114647,-115.172813,17,"Las Vegas NV",folder,NULL,NULL
+847,https://wcgisweb.washoecounty.us/arcgis/rest/services,"Reno NV",39.530895,-119.814972,17,"Reno NV",folder,NULL,NULL
+848,http://portal.cityofsparks.us/arcgis/rest/services,"Sparks NV",39.541210,-119.748001,17,"Sparks NV",folder,NULL,NULL
+849,http://www4.des.state.nh.us/arcgis/rest/services,"New Hampshire State NH Department of Environmental Services",43.209572,-71.537292,17,"New Hampshire State NH Department of Environmental Services",folder,NULL,NULL
+850,http://gis.dot.nh.gov/arcgis_prd/rest/services,"New Hampshire State NH Department of Transportation",43.209572,-71.537292,17,"New Hampshire State NH Department of Transportation",folder,NULL,NULL
+851,https://maps.hillsboroughcounty.org/arcgis/rest/services,"Hillsborough County NH",42.990929,-71.463089,17,"Hillsborough County NH",folder,NULL,NULL
+852,http://extranet2.derrynh.org:6080/arcgis/rest/services,"Derry NH",42.881981,-71.324173,17,"Derry NH",folder,NULL,NULL
+853,https://secure.manchesternh.gov/agsgis2/rest/services,"Manchester NH",42.990929,-71.463089,17,"Manchester NH",folder,NULL,NULL
+854,http://citygisweb3.nashuanh.gov/arcgis3/rest/services,"Nashua NH citygisweb3",42.757870,-71.463951,17,"Nashua NH citygisweb3",folder,NULL,NULL
+855,http://gis.nashuanh.gov/arcgis/rest/services,"Nashua NH gis",42.757870,-71.463951,17,"Nashua NH gis",folder,NULL,NULL
+856,https://gis.concordma.gov/arcgis/rest/services,"Concord MA",39.540946,-76.084672,17,"Concord MA",folder,NULL,NULL
+857,https://geodata.state.nj.us/arcgis/rest/services,"New Jersey State NJ ",40.220581,-74.759720,17,"New Jersey State NJ ",folder,NULL,NULL
+858,http://gis.njtpa.org/arcgis/rest/services,"New Jersey State NJ Transportation Planning Authority",40.220581,-74.759720,17,"New Jersey State NJ Transportation Planning Authority",folder,NULL,NULL
+859,https://mcgisweb.co.middlesex.nj.us/arcgis/rest/services,"Middlesex County NJ",40.495949,-74.444122,17,"Middlesex County NJ",folder,NULL,NULL
+860,https://njgin.ci.newark.nj.us/arcgis/rest/services,"Newark NJ",40.735657,-74.172363,17,"Newark NJ",folder,NULL,NULL
+861,https://nmbbmapping.org/arcgis/rest/services,"New Mexico State NM Broadband Program",35.686974,-105.937798,17,"New Mexico State NM Broadband Program",folder,NULL,NULL
+862,http://x-23-q.env.state.nm.us:6080/arcgis/rest/services,"New Mexico State NM Environment Department",35.686974,-105.937798,17,"New Mexico State NM Environment Department",folder,NULL,NULL
+863,https://services2.arcgis.com/qXZbWTdPDbTjl7Dy/ArcGIS/rest/services,"New Mexico State NM Office of State Engineer",35.686974,-105.937798,17,"New Mexico State NM Office of State Engineer",folder,NULL,NULL
+864,http://maps.donaanacounty.org/arcgis/rest/services,"Doña Ana County NM",32.316238,-106.780449,17,"Doña Ana County NM",folder,NULL,NULL
+865,http://maps.sjcounty.net/arcgis/rest/services,"San Juan County NM",36.822226,-107.992846,17,"San Juan County NM",folder,NULL,NULL
+866,http://arcgisce.co.valencia.nm.us/arcgis/rest/services,"Valencia County NM",34.814209,-106.761307,17,"Valencia County NM",folder,NULL,NULL
+867,http://coagisweb.cabq.gov/arcgis/rest/services,"Albuquerque NM",35.084385,-106.650421,17,"Albuquerque NM",folder,NULL,NULL
+868,https://maps.las-cruces.org/arcgis/rest/services,"Las Cruces NM",32.316238,-106.780449,17,"Las Cruces NM",folder,NULL,NULL
+869,http://gis.losalamosnm.us/arcgis/rest/services,"Los Alamos NM",35.881401,-106.298996,17,"Los Alamos NM",folder,NULL,NULL
+870,https://gis.rrnm.gov/arcgis/rest/services,"Rio Rancho NM",35.306641,-106.676979,17,"Rio Rancho NM",folder,NULL,NULL
+871,https://ndgishub.nd.gov/arcgis/rest/services,"North Dakota State ND GIS Hub",46.805401,-100.783127,17,"North Dakota State ND GIS Hub",folder,NULL,NULL
+872,https://gis.dot.nd.gov/arcgis/rest/services/external,"North Dakota State ND Department of Transportation",46.805401,-100.783127,17,"North Dakota State ND Department of Transportation",folder,NULL,NULL
+873,https://gisweb.casscountynd.gov/arcgis/rest/services,"Cass County ND",46.876961,-96.784637,17,"Cass County ND",folder,NULL,NULL
+874,https://c39gisserver.co.richland.nd.us/arcgis/rest/services,"Richland County ND",46.263920,-96.605507,17,"Richland County ND",folder,NULL,NULL
+875,https://gis.cityoffargo.com/arcgis/rest/services,"Fargo ND",46.876961,-96.784637,17,"Fargo ND",folder,NULL,NULL
+876,https://www.gfgis.com/arcgis/rest/services,"Grand Forks ND",47.925709,-97.036072,17,"Grand Forks ND",folder,NULL,NULL
+877,https://gis.westfargond.gov/arcgis/rest/services,"West Fargo ND",46.874966,-96.900360,17,"West Fargo ND",folder,NULL,NULL
+878,http://gis.deq.ok.gov/ArcGIS/rest/services,"Oklahoma State OK Department of Environmental Quality",35.467560,-97.516426,17,"Oklahoma State OK Department of Environmental Quality",folder,NULL,NULL
+879,http://rest.owrb.ok.gov/ArcGIS/rest/services,"Oklahoma State OK Water Resources Board",35.467560,-97.516426,17,"Oklahoma State OK Water Resources Board",folder,NULL,NULL
+880,http://maps.ag.ok.gov/arcgis/rest/services,"Oklahoma State OK Department of Agricultur Food and Forestry",35.467560,-97.516426,17,"Oklahoma State OK Department of Agricultur Food and Forestry",folder,NULL,NULL
+881,http://services6.arcgis.com/RBtoEUQ2lmN0K3GY/arcgis/rest/services,"Oklahoma State OK Department of Transportation",35.467560,-97.516426,17,"Oklahoma State OK Department of Transportation",folder,NULL,NULL
+882,https://gis.clo.ok.gov/arcgis/rest/services,"Oklahoma State OK Land Office",35.467560,-97.516426,17,"Oklahoma State OK Land Office",folder,NULL,NULL
+883,http://gis.edmondok.com/arcgis/rest/services,"Edmond OK",35.657295,-97.478256,17,"Edmond OK",folder,NULL,NULL
+884,http://gis.edmondok.com/arcgis/rest/services,"Oklahoma City OK",35.467560,-97.516426,17,"Oklahoma City OK",folder,NULL,NULL
+885,https://maps.normanok.gov/arcgis/rest/services,"Norman OK",35.221050,-97.445938,17,"Norman OK",folder,NULL,NULL
+886,https://maps.cityoftulsa.org/gis/rest/services,"Tulsa OK",36.153980,-95.992775,17,"Tulsa OK",folder,NULL,NULL
+887,https://navigator.state.or.us/ArcGIS/rest/services,"Oregon State OR navigator",44.939018,-123.039307,17,"Oregon State OR navigator",folder,NULL,NULL
+888,https://maps.prd.state.or.us/arcgis/rest/services,"Oregon State OR maps",44.939018,-123.039307,17,"Oregon State OR maps",folder,NULL,NULL
+889,https://gis.odot.state.or.us/ArcGIS/rest/services,"Oregon State OR Department of Transportation",44.939018,-123.039307,17,"Oregon State OR Department of Transportation",folder,NULL,NULL
+890,http://lib-arcgis5.library.oregonstate.edu/arcgis/rest/services,"Oregon State OR University GIS",44.939018,-123.039307,17,"Oregon State OR University GIS",folder,NULL,NULL
+891,https://gis.oregonmetro.gov/arcgis/rest/services,"Oregon State OR Metro",44.939018,-123.039307,17,"Oregon State OR Metro",folder,NULL,NULL
+892,http://eservices.co.crook.or.us/mapping/rest/services,"Crook County OR",44.302040,-120.847122,17,"Crook County OR",folder,NULL,NULL
+893,https://apps.douglas.co.us/geopendata/rest/services,"Douglas County OR",43.210499,-123.345284,17,"Douglas County OR",folder,NULL,NULL
+894,https://spatial.jacksoncounty.org/arcgis/rest/services,"Jackson County OR",42.326542,-122.872192,17,"Jackson County OR",folder,NULL,NULL
+895,https://gis2.co.josephine.or.us/arcgis/rest/services,"Josephine County OR",42.439371,-123.327249,17,"Josephine County OR",folder,NULL,NULL
+896,https://lcmaps.lanecounty.org/arcgis/rest/services,"Lane County OR",44.052071,-123.086754,17,"Lane County OR",folder,NULL,NULL
+897,https://www3.multco.us/arcgispublic/rest/services,"Multnomah County OR arcgispublic",45.509380,-122.400641,17,"Multnomah County OR arcgispublic",folder,NULL,NULL
+898,http://services5.arcgis.com/x7DNZL1YqNQVNykA/arcgis/rest/services,"Multnomah County OR arcgis online",45.509380,-122.400641,17,"Multnomah County OR arcgis online",folder,NULL,NULL
+899,http://restdata.umatilla.nsn.us/ArcGIS/rest/services,"Umatilla County OR",45.672699,-118.787491,17,"Umatilla County OR",folder,NULL,NULL
+900,http://webags.co.washington.or.us/ArcGIS/rest/services,"Washington County OR",45.522896,-122.989830,17,"Washington County OR",folder,NULL,NULL
+901,https://gis.ashland.or.us/arcgis/rest/services,"Ashland OR",42.190418,-122.703270,17,"Ashland OR",folder,NULL,NULL
+902,http://maps.beavertonoregon.gov:6080/arcgis/rest/services,"Beaverton OR",45.486599,-122.795609,17,"Beaverton OR",folder,NULL,NULL
+903,https://maps.ci.bend.or.us/arcgis/rest/services,"Bend OR",44.058174,-121.315308,17,"Bend OR",folder,NULL,NULL
+904,https://arcgis.corvallisoregon.gov/pub/rest/services,"Corvallis OR",44.564568,-123.262047,17,"Corvallis OR",folder,NULL,NULL
+905,http://maps.beavertonoregon.gov:6080/arcgis/rest/services,"Gresham OR",45.506741,-122.436706,17,"Gresham OR",folder,NULL,NULL
+906,http://gis.ci.mcminnville.or.us/arcgis/rest/services,"McMinnville OR",45.210037,-123.194463,17,"McMinnville OR",folder,NULL,NULL
+907,https://gisweb.newbergoregon.gov:6443/gisweb/rest/services,"Newberg OR",45.300596,-122.972542,17,"Newberg OR",folder,NULL,NULL
+908,https://maps.orcity.org/arcgis/rest/services,"Oregon City OR",45.357343,-122.606758,17,"Oregon City OR",folder,NULL,NULL
+909,https://www.portlandmaps.com/arcgis/rest/services,"Portland OR",45.512230,-122.658722,17,"Portland OR",folder,NULL,NULL
+910,http://redmondmaps.ci.redmond.or.us/arcgis/rest/services,"Redmond OR",44.272549,-121.174309,17,"Redmond OR",folder,NULL,NULL
+911,https://geoweb.cityofsalem.net/salemgis/rest/services,"Salem OR",44.939018,-123.039307,17,"Salem OR",folder,NULL,NULL
+912,https://tualgis.tualatinoregon.gov/tualgis/rest/services,"Tualatin OR",45.379539,-122.761719,17,"Tualatin OR",folder,NULL,NULL
+913,https://services2.arcgis.com/S8zZg9pg23JUEexQ/ArcGIS/rest/services,"Rhode Island State RI ",41.823990,-71.412834,17,"Rhode Island State RI ",folder,NULL,NULL
+914,https://welltesting.health.ri.gov/arcgis/rest/services,"Rhode Island State RI Department of Health",41.823990,-71.412834,17,"Rhode Island State RI Department of Health",folder,NULL,NULL
+915,https://vueworks.dot.ri.gov/arcgis/rest/services,"Rhode Island State RI Department of Transportation",41.823990,-71.412834,17,"Rhode Island State RI Department of Transportation",folder,NULL,NULL
+916,https://gis.cranstonri.org/arcgis/rest/services,"Cranston RI",41.778961,-71.435806,17,"Cranston RI",folder,NULL,NULL
+917,https://gis.providenceri.com/arcgis/rest/services,"Providence RI",41.823990,-71.412834,17,"Providence RI",folder,NULL,NULL
+918,https://ags2.scgov.net/arcgis/rest/services,"South Carolina State SC ",34.000710,-81.034813,17,"South Carolina State SC ",folder,NULL,NULL
+919,https://gisweb01vm.dhec.sc.gov/arcgis/rest/services,"South Carolina State SC Department of Health and Environmental Control",34.000710,-81.034813,17,"South Carolina State SC Department of Health and Environmental Control",folder,NULL,NULL
+920,https://services1.arcgis.com/VaY7cY9pvUYUP1Lf/arcgis/rest/services,"South Carolina State SC Department of Transportation",34.000710,-81.034813,17,"South Carolina State SC Department of Transportation",folder,NULL,NULL
+921,https://scarng-gis.sc.gov/scng/rest/services,"South Carolina State SC Army National Guard",34.000710,-81.034813,17,"South Carolina State SC Army National Guard",folder,NULL,NULL
+922,https://propertyviewer.andersoncountysc.org/arcgis/rest/services,"Anderson County SC",34.499870,-82.651192,17,"Anderson County SC",folder,NULL,NULL
+923,http://gis.berkeleycountysc.gov/arcgis/rest/services,"Berkeley County SC",33.194790,-80.010353,17,"Berkeley County SC",folder,NULL,NULL
+924,https://ccgisapps.charlestoncounty.org/arcgis/rest/service,"Charleston County SC",32.784618,-79.940918,17,"Charleston County SC",folder,NULL,NULL
+925,https://arc2000.florenceco.org/arcgis/rest/services,"Florence County SC",34.195435,-79.762566,17,"Florence County SC",folder,NULL,NULL
+926,https://gis.greenvillesc.gov/arcgis/rest/services,"Greenville County SC",34.852619,-82.394012,17,"Greenville County SC",folder,NULL,NULL
+927,http://www.horrycounty.org/gisweb/rest/service,"Horry County SC",33.836002,-79.047813,17,"Horry County SC",folder,NULL,NULL
+928,http://arcserver.jaspercountysc.gov:3280/arcgis/rest/services,"Jasper County SC",32.483120,-80.980812,17,"Jasper County SC",folder,NULL,NULL
+929,http://maps.lex-co.com/arcgis/rest/services,"Lexington County SC",33.981537,-81.236214,17,"Lexington County SC",folder,NULL,NULL
+930,https://maps2.yorkcountygov.com/agsn1/rest/services,"York County SC",34.994110,-81.241982,17,"York County SC",folder,NULL,NULL
+931,https://gis.charleston-sc.gov/arcgis/rest/services,"Charleston SC",32.784618,-79.940918,17,"Charleston SC",folder,NULL,NULL
+932,https://gis.columbiasc.gov/cola/rest/services,"Columbia SC",34.000710,-81.034813,17,"Columbia SC",folder,NULL,NULL
+933,https://gis.greenvillesc.gov/arcgis/rest/services,"Greenville SC",34.852619,-82.394012,17,"Greenville SC",folder,NULL,NULL
+934,http://www.greenwoodsc.gov/arcgis/rest/services,"Greenwood SC",34.187580,-82.159500,17,"Greenwood SC",folder,NULL,NULL
+935,https://gismaps.cityofgreer.org/arcgis/rest/services,"Greer SC",34.938728,-82.227058,17,"Greer SC",folder,NULL,NULL
+936,https://maps.tompsc.com/arcgis/rest/services,"Mount Pleasant SC",32.790440,-79.876503,17,"Mount Pleasant SC",folder,NULL,NULL
+937,https://gis.northcharleston.org/arcgis/rest/services,"North Charleston SC",32.854622,-79.974808,17,"North Charleston SC",folder,NULL,NULL
+938,https://arcgis.sd.gov/arcgis/rest/services,"South Dakota State SD",44.372429,-100.319923,17,"South Dakota State SD",folder,NULL,NULL
+939,https://maps.lincolncountysd.org/webmapadaptor/rest/services,"Lincoln County SD",43.300815,-96.592820,17,"Lincoln County SD",folder,NULL,NULL
+940,http://206.176.83.74/minnemap/rest/services,"Minnehaha County SD",43.549975,-96.700327,17,"Minnehaha County SD",folder,NULL,NULL
+941,http://permits.rcgov.org/arcgiswebadaptor/rest/services,"Rapid City SD",44.080544,-103.231018,17,"Rapid City SD",folder,NULL,NULL
+942,https://gis2.siouxfalls.org/arcgis/rest/services,"Sioux Falls SD",43.549975,-96.700327,17,"Sioux Falls SD",folder,NULL,NULL
+943,https://tnmap.tn.gov/arcgis/rest/services,"Tennessee State TN ",36.162663,-86.781601,17,"Tennessee State TN ",folder,NULL,NULL
+944,https://gis.tnema.org/ArcGIS/rest/services,"Tennessee State TN Emergency Management Agency",36.162663,-86.781601,17,"Tennessee State TN Emergency Management Agency",folder,NULL,NULL
+945,https://mapsdev.hamiltontn.gov/hcwa03/rest/services,"Hamilton County TN",35.045631,-85.309677,17,"Hamilton County TN",folder,NULL,NULL
+946,http://maps.rutherfordcountytn.gov/ArcGIS/rest/services,"Rutherford County TN",35.845959,-86.391449,17,"Rutherford County TN",folder,NULL,NULL
+947,https://testuasiportal.shelbycountytn.gov/arcgis/rest/service,"Shelby County TN",35.149532,-90.048981,17,"Shelby County TN",folder,NULL,NULL
+948,http://arcgis.williamsoncounty-tn.gov/ArcGIS/rest/services,"Williamson County TN",35.923649,-86.867828,17,"Williamson County TN",folder,NULL,NULL
+949,https://pwgis.chattanooga.gov/arcgis/rest/services,"Chattanooga TN",35.045631,-85.309677,17,"Chattanooga TN",folder,NULL,NULL
+950,https://gis.johnsoncitytn.org/arcgis/rest/services,"Johnson City TN",36.313438,-82.353470,17,"Johnson City TN",folder,NULL,NULL
+951,http://mapgis.memphistn.gov/arcgis/rest/services,"Memphis TN",35.149532,-90.048981,17,"Memphis TN",folder,NULL,NULL
+952,https://maps.nashville.gov/arcgis/rest/services,"Nashville TN",36.162663,-86.781601,17,"Nashville TN",folder,NULL,NULL
+953,https://maps.geology.utah.gov/arcgis/rest/services,"Utah State UT Geology",40.758701,-111.876183,17,"Utah State UT Geology",folder,NULL,NULL
+954,https://tlamap.trustlands.utah.gov/arcgis/rest/services,"Utah State UT Trust Lands Administration",40.758701,-111.876183,17,"Utah State UT Trust Lands Administration",folder,NULL,NULL
+955,https://maps.udot.utah.gov/arcgis/rest/services,"Utah State UT Department of Transportation",40.758701,-111.876183,17,"Utah State UT Department of Transportation",folder,NULL,NULL
+956,https://slco.org/slcogis/rest/services,"Salt Lake County UT",40.758701,-111.876183,17,"Salt Lake County UT",folder,NULL,NULL
+957,http://co.uintah.ut.us/arcgis/rest/services,"Uintah County UT",40.455601,-109.538017,17,"Uintah County UT",folder,NULL,NULL
+958,https://maps.utahcounty.gov/arcgis/rest/services,"Utah County UT",40.233845,-111.658531,17,"Utah County UT",folder,NULL,NULL
+959,https://arcgis10.washco.utah.gov/arcgis/rest/services,"Washington County UT",37.104153,-113.584131,17,"Washington County UT",folder,NULL,NULL
+960,https://arcgis.ogdencity.com/arcgis/rest/services,"Ogden UT",41.222759,-111.970421,17,"Ogden UT",folder,NULL,NULL
+961,https://maps.orem.org/arcgis/rest/services,"Orem UT",40.297119,-111.695007,17,"Orem UT",folder,NULL,NULL
+962,https://maps.slcgov.com/mapservice/rest/services,"Salt Lake City UT",40.758701,-111.876183,17,"Salt Lake City UT",folder,NULL,NULL
+963,https://gis.sandy.utah.gov/arcgis/rest/services,"Sandy UT",40.569710,-111.897278,17,"Sandy UT",folder,NULL,NULL
+964,http://gis.sjc.utah.gov/sjcmaps/rest/services,"South Jordan UT",40.562168,-111.929657,17,"South Jordan UT",folder,NULL,NULL
+965,https://suvgismaps.spanishfork.org/arcgis/rest/services,"Spanish Fork UT",40.114955,-111.654923,17,"Spanish Fork UT",folder,NULL,NULL
+966,https://gis.wjordan.com/arcgis/rest/services,"West Jordan UT",40.610920,-111.938766,17,"West Jordan UT",folder,NULL,NULL
+967,https://gis.wvc-ut.gov/arcgis/rest/services,"West Valley City UT",40.696629,-111.986727,17,"West Valley City UT",folder,NULL,NULL
+968,http://vtransmap01.aot.state.vt.us/arcgis/rest/services,"Vermont State VT Agency of Transportation",44.259548,-72.575882,17,"Vermont State VT Agency of Transportation",folder,NULL,NULL
+969,https://anrmaps.vermont.gov/arcgis/rest/services,"Vermont State VT Agency of Natural Resources",44.259548,-72.575882,17,"Vermont State VT Agency of Natural Resources",folder,NULL,NULL
+970,https://map.ccrpcvt.org/arcgis/rest/services,"Chittenden County VT",44.475990,-73.210999,17,"Chittenden County VT",folder,NULL,NULL
+971,https://gis.burlingtonvt.gov/arcgis/rest/services,"Burlington VT",44.475990,-73.210999,17,"Burlington VT",folder,NULL,NULL
+972,https://gismaps.vita.virginia.gov/arcgis/rest/services,"Virginia State VA Information Technologies Agency",37.540726,-77.436050,17,"Virginia State VA Information Technologies Agency",folder,NULL,NULL
+973,https://dswcapps.dcr.virginia.gov/arcgis/rest/services,"Virginia State VA Department of Conservation and Recreation",37.540726,-77.436050,17,"Virginia State VA Department of Conservation and Recreation",folder,NULL,NULL
+974,https://arcgis.vdem.virginia.gov/arcgis/rest/services,"Virginia State VA Department of Emergency Management",37.540726,-77.436050,17,"Virginia State VA Department of Emergency Management",folder,NULL,NULL
+975,http://gis.vdot.virginia.gov/arcgis/rest/services,"Virginia State VA Department of Transportation",37.540726,-77.436050,17,"Virginia State VA Department of Transportation",folder,NULL,NULL
+976,https://maps.yesvirginia.org/arcgis/rest/services,"Virginia State VA Economic Development",37.540726,-77.436050,17,"Virginia State VA Economic Development",folder,NULL,NULL
+977,https://www.fairfaxcounty.gov/mercator/rest/services,"Fairfax County VA",38.847118,-77.306320,17,"Fairfax County VA",folder,NULL,NULL
+978,https://fredcogis.fcva.us/maps/rest/services,"Frederick County VA",39.185218,-78.165240,17,"Frederick County VA",folder,NULL,NULL
+979,http://gis.co.henrico.va.us/arcgis/rest/services,"Henrico County VA",37.646152,-77.511429,17,"Henrico County VA",folder,NULL,NULL
+980,https://logis.loudoun.gov/gis/rest/services,"Loudoun County VA",39.108002,-77.550636,17,"Loudoun County VA",folder,NULL,NULL
+981,http://gisweb.montva.com/arcgis/rest/services,"Montgomery County VA",37.129852,-80.408939,17,"Montgomery County VA",folder,NULL,NULL
+982,https://gisweb.pwcgov.org/arcgis/rest/services,"Prince William County VA",38.750771,-77.475090,17,"Prince William County VA",folder,NULL,NULL
+983,https://gismapping.stafford.va.us/arcgis/rest/services,"Stafford County VA",38.416725,-77.457977,17,"Stafford County VA",folder,NULL,NULL
+984,https://maps.yorkcounty.gov/arcgis/rest/services,"York County VA",37.237888,-76.508064,17,"York County VA",folder,NULL,NULL
+985,https://arcgisweb01.roanokecountyva.gov/arcgisweb/rest/services,"Roanoke County VA",37.293468,-80.054764,17,"Roanoke County VA",folder,NULL,NULL
+986,https://maps.alexandriava.gov/arcgis/rest/services,"Alexandria VA",38.804661,-77.043610,17,"Alexandria VA",folder,NULL,NULL
+987,https://gis2.arlingtonva.us/arlgis/rest/services,"Arlington VA",38.890759,-77.084747,17,"Arlington VA",folder,NULL,NULL
+988,https://gisweb.charlottesville.org/cvgisweb/rest/services,"Charlottesville VA",38.031052,-78.474159,17,"Charlottesville VA",folder,NULL,NULL
+989,https://gisdata.cityofchesapeake.net/public/rest/services,"Chesapeake VA",36.768208,-76.287491,17,"Chesapeake VA",folder,NULL,NULL
+990,http://gis.danville-va.gov/arcgis/rest/services,"Danville VA",36.586170,-79.395241,17,"Danville VA",folder,NULL,NULL
+991,https://gis2.nngov.com/arcgis/rest/services,"Newport News VA",36.978645,-76.432109,17,"Newport News VA",folder,NULL,NULL
+992,https://gisapp1.norfolk.gov/ArcGIS/rest/services,"Norfolk VA",36.846161,-76.285912,17,"Norfolk VA",folder,NULL,NULL
+993,https://radfordgis.radford.va.us/arcgiscloud/rest/services,"Radford VA",37.131792,-80.576448,17,"Radford VA",folder,NULL,NULL
+994,https://gismaps.vbgov.com/arcgisimage/rest/services,"Virginia Beach VA",36.845131,-75.975441,17,"Virginia Beach VA",folder,NULL,NULL
+995,https://arcgisweb01.roanokecountyva.gov/arcgiswebssl/rest/services,"Roanoke County VA",37.293468,-80.054764,17,"Roanoke County VA",folder,NULL,NULL
+1057,https://services.arcgis.com/jsIt88o09Q0r1j8h/ArcGIS/rest/services,"Washington State WA ",47.035530,-122.900833,17,"Washington State WA ",folder,NULL,NULL
+1058,https://services6.arcgis.com/yIPFYZqx6a8IC4Hk/ArcGIS/rest/services,"Washington State WA Register_Properties",47.035530,-122.900833,17,"Washington State WA Register_Properties",folder,NULL,NULL
+1059,https://fortress.wa.gov/agr/gis/wsdagis/rest/services,"Washington State WA Department of Agriculture",47.035530,-122.900833,17,"Washington State WA Department of Agriculture",folder,NULL,NULL
+1060,https://services.arcgis.com/6lCKYNJLvwTXqrmp/ArcGIS/rest/services,"Washington State WA Department of Ecology",47.035530,-122.900833,17,"Washington State WA Department of Ecology",folder,NULL,NULL
+1061,https://fortress.wa.gov/ecy/gisprod/arcgis/rest/services,"Washington State WA Department of Ecology fortress",47.035530,-122.900833,17,"Washington State WA Department of Ecology fortress",folder,NULL,NULL
+1062,http://geoservices.des.wa.gov/arcgis/rest/services,"Washington State WA Department of Enterprise Services",47.035530,-122.900833,17,"Washington State WA Department of Enterprise Services",folder,NULL,NULL
+1063,https://gispublic.dfw.wa.gov/arcgis/rest/services,"Washington State WA Department of Fish & Wildlife gispublic",47.035530,-122.900833,17,"Washington State WA Department of Fish & Wildlife gispublic",folder,NULL,NULL
+1064,https://geodataservices.wdfw.wa.gov/arcgis/rest/services,"Washington State WA Department of Fish & Wildlife geodataservices",47.035530,-122.900833,17,"Washington State WA Department of Fish & Wildlife geodataservices",folder,NULL,NULL
+1065,https://fortress.wa.gov/doh/arcgis/arcgis/rest/services,"Washington State WA Department of Health",47.035530,-122.900833,17,"Washington State WA Department of Health",folder,NULL,NULL
+1066,https://gis.dnr.wa.gov/site1/rest/services,"Washington State WA Department of Natural Resources site1",47.035530,-122.900833,17,"Washington State WA Department of Natural Resources site1",folder,NULL,NULL
+1067,https://gis.dnr.wa.gov/site2/rest/services,"Washington State WA Department of Natural Resources site2",47.035530,-122.900833,17,"Washington State WA Department of Natural Resources site2",folder,NULL,NULL
+1068,https://gis.dnr.wa.gov/site3/rest/services,"Washington State WA Department of Natural Resources site3",47.035530,-122.900833,17,"Washington State WA Department of Natural Resources site3",folder,NULL,NULL
+1069,https://www.wsdot.wa.gov/arcgis/rest/services,"Washington State WA Department of Transportation",47.035530,-122.900833,17,"Washington State WA Department of Transportation",folder,NULL,NULL
+1070,https://data.wsdot.wa.gov/arcgis/rest/services,"Washington State WA Department of Transportation data",47.035530,-122.900833,17,"Washington State WA Department of Transportation data",folder,NULL,NULL
+1071,http://gismanager.rco.wa.gov/arcgis/rest/services,"Washington State WA Recreation and Conservation Office",47.035530,-122.900833,17,"Washington State WA Recreation and Conservation Office",folder,NULL,NULL
+1072,https://atlas.co.chelan.wa.us/arcgis/rest/services,"Chelan County WA",47.429829,-120.324699,17,"Chelan County WA",folder,NULL,NULL
+1073,https://mapservices.chelanpud.org/arcgisnew/rest/services,"Chelan PUD County WA",47.429829,-120.324699,17,"Chelan PUD County WA",folder,NULL,NULL
+1074,http://websrv19.clallam.net/arcgis/rest/services,"Clallam County WA",48.118146,-123.430741,17,"Clallam County WA",folder,NULL,NULL
+1075,https://gis.clark.wa.gov/arcgis/rest/services,"Clark County WA",45.635513,-122.557831,17,"Clark County WA",folder,NULL,NULL
+1076,http://www.cowlitzinfo.net/ArcGIS/rest/services,"Cowlitz County WA",46.144630,-122.911407,17,"Cowlitz County WA",folder,NULL,NULL
+1077,https://maps.islandcountywa.gov/arcgis/rest/services,"Island County WA",48.214667,-122.680760,17,"Island County WA",folder,NULL,NULL
+1078,https://gismaps.kingcounty.gov/arcgis/rest/services,"King County WA",47.606209,-122.332069,17,"King County WA",folder,NULL,NULL
+1079,https://agspubsrv.kitsapgov.com/kcgispub/rest/services,"Kitsap County WA",47.531563,-122.638406,17,"Kitsap County WA",folder,NULL,NULL
+1080,https://kitsappublichealth.org/agsserver/rest/services,"Kitsap County WA public health",47.531563,-122.638406,17,"Kitsap County WA public health",folder,NULL,NULL
+1081,https://gis.co.kittitas.wa.us/kcgis/rest/services,"Kittitas County WA",46.999619,-120.548851,17,"Kittitas County WA",folder,NULL,NULL
+1082,https://arcgis.lewiscountywa.gov/arcgispublic/rest/services,"Lewis County WA",46.659965,-122.963432,17,"Lewis County WA",folder,NULL,NULL
+1083,https://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services,"Pierce County WA",47.253078,-122.441528,17,"Pierce County WA",folder,NULL,NULL
+1084,https://www.skagitcounty.net/gispublic/rest/services,"Skagit County WA",48.420048,-122.326424,17,"Skagit County WA",folder,NULL,NULL
+1085,https://gismaps.snoco.org/snocogis/rest/services,"Snohomish County WA",47.979130,-122.195892,17,"Snohomish County WA",folder,NULL,NULL
+1086,https://gis.spokanecounty.org/arcgis/rest/services,"Spokane County WA",47.658779,-117.426048,17,"Spokane County WA",folder,NULL,NULL
+1087,http://gisfarm.spokanecounty.org/arcgis/rest/services,"Spokane County WA gisfarm",47.658779,-117.426048,17,"Spokane County WA gisfarm",folder,NULL,NULL
+1088,https://map.co.thurston.wa.us/arcgis/rest/services,"Thurston County WA",47.035530,-122.900833,17,"Thurston County WA",folder,NULL,NULL
+1089,https://gis.yakimawa.gov/arcgis101/rest/services,"Yakima County WA",46.602230,-120.506088,17,"Yakima County WA",folder,NULL,NULL
+1090,https://gis.arlingtonwa.gov/arcgisserver/rest/services,"Arlington WA",48.191311,-122.126488,17,"Arlington WA",folder,NULL,NULL
+1091,https://maps.auburnwa.gov/arcgis_external/rest/services,"Auburn WA",47.307537,-122.230179,17,"Auburn WA",folder,NULL,NULL
+1092,https://tiles.arcgis.com/tiles/0Q6HuHqqcg7Zo8zH/arcgis/rest/services,"Bainbridge Island WA",47.626263,-122.520451,17,"Bainbridge Island WA",folder,NULL,NULL
+1093,https://giswebtest.bellevuewa.gov/cobgis/rest/services,"Bellevue WA",47.613701,-122.190933,17,"Bellevue WA",folder,NULL,NULL
+1094,https://www.iqmap.org/arcgis4/rest/services,"Bellingham WA",48.754902,-122.478119,17,"Bellingham WA",folder,NULL,NULL
+1095,http://maps.bothellwa.gov/arcgis_public/rest/services,"Bothell WA",47.759869,-122.206825,17,"Bothell WA",folder,NULL,NULL
+1096,https://cobgis.ci.bremerton.wa.us/arcgis/rest/services,"Bremerton WA",47.565366,-122.624684,17,"Bremerton WA",folder,NULL,NULL
+1097,https://gis.burienwa.gov/arcgis/rest/services,"Burien WA",47.469918,-122.348527,17,"Burien WA",folder,NULL,NULL
+1098,https://maps.desmoineswa.gov/dmgis/rest/services,"Des Moines WA",47.398829,-122.309909,17,"Des Moines WA",folder,NULL,NULL
+1099,http://maps.edmondswa.gov/arcgis/rest/services,"Edmonds WA",47.810574,-122.377495,17,"Edmonds WA",folder,NULL,NULL
+1100,https://gismaps.everettwa.gov/coearcgis/rest/services,"Everett WA",47.979130,-122.195892,17,"Everett WA",folder,NULL,NULL
+1101,https://cityworks.kenmorewa.gov:6080/arcgis/rest/services,"Kenmore WA",47.757320,-122.244015,17,"Kenmore WA",folder,NULL,NULL
+1102,https://maps.ci.kennewick.wa.us/arcgis_public/rest/services,"Kennewick WA",46.208393,-119.120209,17,"Kennewick WA",folder,NULL,NULL
+1103,https://geoservices.kentwa.gov/public/rest/services,"Kent WA",47.380852,-122.237419,17,"Kent WA",folder,NULL,NULL
+1104,https://maps.kirklandwa.gov/arcgis/rest/services,"Kirkland WA",47.676891,-122.205986,17,"Kirkland WA",folder,NULL,NULL
+1105,https://maps.lakewood.org/arcgis/rest/services,"Lakewood WA",47.171409,-122.516400,17,"Lakewood WA",folder,NULL,NULL
+1106,https://gisnew.lynnwoodwa.gov/arcgis/rest/services,"Lynnwood WA",47.823952,-122.292419,17,"Lynnwood WA",folder,NULL,NULL
+1107,https://chgis1.mercergov.org/arcgis/rest/services,"Mercer Island WA",47.576632,-122.227638,17,"Mercer Island WA",folder,NULL,NULL
+1108,https://arcgis.cityofml.com/server/rest/services,"Moses Lake WA",47.130142,-119.278077,17,"Moses Lake WA",folder,NULL,NULL
+1109,https://webgis.mountvernonwa.org/arcgisweb/rest/services,"Mount Vernon WA",48.420048,-122.326424,17,"Mount Vernon WA",folder,NULL,NULL
+1110,https://gis.olympiawa.gov/arcgis/rest/services/Public,"Olympia WA",47.035530,-122.900833,17,"Olympia WA",folder,NULL,NULL
+1111,https://gis.redmond.gov/arcgis/rest/services,"Redmond WA",47.674911,-122.124001,17,"Redmond WA",folder,NULL,NULL
+1112,https://rp.rentonwa.gov/arcgis/rest/services,"Renton WA",47.479694,-122.207924,17,"Renton WA",folder,NULL,NULL
+1113,http://maps.shorelinewa.gov/arcgis/rest/services,"Shoreline WA",47.755981,-122.338928,17,"Shoreline WA",folder,NULL,NULL
+1114,https://gisqa.cityoftacoma.org/arcgis/rest/services,"Tacoma WA",47.253078,-122.441528,17,"Tacoma WA",folder,NULL,NULL
+1115,http://wallawallagis.com/adaptor/rest/services,"Walla Walla WA",46.065037,-118.330246,17,"Walla Walla WA",folder,NULL,NULL
+1116,https://gis.wenatcheewa.gov/arcgis/rest/services,"Wenatchee WA",47.429829,-120.324699,17,"Wenatchee WA",folder,NULL,NULL
+1117,https://gis.yakimawa.gov/arcgis101/rest/services,"Yakima WA",46.602230,-120.506088,17,"Yakima WA",folder,NULL,NULL
+1118,https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services,"World Data",34.051686,-118.247424,17,"World Data",folder,NULL,NULL
+1119,https://services1.arcgis.com/5NARefyPVtAeuJPU/ArcGIS/rest/services,"Sacramento County CA arcgis hub",38.581573,-121.494400,17,"Sacramento County CA arcgis hub",folder,NULL,NULL
+1120,https://services.arcgis.com/jIL9msH9OI208GCb/ArcGIS/rest/services,"world data jIL9msH9OI208GCb",34.051686,-118.247424,17,"world data jIL9msH9OI208GCb",folder,NULL,NULL
+1121,http://services1.arcgis.com/tp9wqSVX1AitKgjd/ArcGIS/rest/services,"Los Angeles Department of Transportation",34.051686,-118.247424,17,"Los Angeles Department of Transportation",folder,NULL,NULL
+1122,https://services5.arcgis.com/7nsPwEMP38bSkCjy/ArcGIS/rest/services,"Los Angeles Mayor office",34.055451,-118.245656,17,"Los Angeles Mayor office",folder,NULL,NULL
+1123,https://geohub.lacity.org,"Los Angeles CA",34.055451,-118.245656,17,"Los Angeles CA",hub,NULL,NULL
+1124,https://gisdatacatalog-spokanecounty.opendata.arcgis.com,"Spokane County WA",47.664760,-117.429630,17,"Spokane County WA",hub,NULL,"1116 W Broadway Ave, Spokane, WA 99260"
+1125,https://data-ral.opendata.arcgis.com,"Raleigh NC",35.779064,-78.642610,17,"Raleigh NC",hub,NULL,"222 W Hargett St, Raleigh, NC 27601"
+1126,https://data-wake.opendata.arcgis.com,"Wake County NC",35.776308,-78.639830,17,"Wake County NC",hub,NULL,"316 Fayetteville St, Raleigh, NC 27601"
+1127,https://hub-cookcountyil.opendata.arcgis.com,"Cook County IL",41.883819,-87.631210,17,"Cook County IL",hub,NULL,"118 N Clark St, Chicago, IL 60602"
+1128,http://geohub.mwrd.org,"Metropolitan Water Reclamation Dist of Greater Chicago ",41.883840,-87.632330,17,"Metropolitan Water Reclamation Dist of Greater Chicago ",hub,NULL,"121 N LaSalle St, Chicago, IL 60602"
+1129,http://geohub-mwrdgc.opendata.arcgis.com,"Metropolitan Water Reclamation Dist of Greater Chicago opendata",41.883840,-87.632330,17,"Metropolitan Water Reclamation Dist of Greater Chicago opendata",hub,NULL,"121 N LaSalle St, Chicago, IL 60602"
+1130,https://geohub-doitgis.opendata.arcgis.com,"Solano County CA",38.248009,-122.039169,17,"Solano County CA",hub,NULL,"600 Union Ave, Fairfield, CA 94533"
+1131,https://data-algeohub.opendata.arcgis.com,"Alabama State AL",32.377740,-86.300730,17,"Alabama State AL",hub,NULL,"600 Dexter Ave, Montgomery, AL 36130"
+1132,http://geohub.brampton.ca,"Brampton Canada",43.685045,-79.759538,17,"Brampton Canada",hub,NULL,"2 Wellington St W, Brampton, ON L6Y 4R2, Canada"
+1133,https://opendata.atlantaregional.com,"Atlanta Regional Commission GA",33.748401,-84.395448,17,"Atlanta Regional Commission GA",hub,NULL,"229 Peachtree St #100, Atlanta, GA 30303"
+1134,http://geo.wa.gov,"Washington State WA",46.996041,-122.869779,17,"Washington State WA",hub,NULL,"416 14th Ave SW, Olympia, WA 98504"
+1135,http://datalb.longbeach.gov,"Long Beach CA",33.768134,-118.195582,17,"Long Beach CA",hub,NULL,"333 W Ocean Blvd, Long Beach, CA 90802"
+1136,https://datahub.johnscreekga.gov,"Johns Creek GA",34.041963,-84.176541,17,"Johns Creek GA",hub,NULL,"10700 Abbotts Bridge Rd Suite 190, Johns Creek, GA 30097"
+1137,http://data.imap.maryland.gov,"Maryland State MD",38.978891,-76.491100,17,"Maryland State MD",hub,NULL,"100 State Cir, Annapolis, MD 21401"
+1138,http://data.syrgov.net,"Syracuse NY",43.049794,-76.149081,17,"Syracuse NY",hub,NULL,"233 E Washington St, Syracuse, NY 13202"
+1139,http://pathfinder1.geospatialhub.org,"Wyoming State WY",41.140264,-104.820437,17,"Wyoming State WY",hub,NULL,"200 W 24th St #124, Cheyenne, WY 82001"
+1140,http://www.eo-geohub.com,"Ontario Canada",43.651801,-79.382560,17,"Ontario Canada",hub,NULL,"100 Queen St W, Toronto, ON M5H 2N2, Canada"
+1141,https://gisdata.fultoncountyga.gov,"Fulton County GA",33.750489,-84.391455,17,"Fulton County GA",hub,NULL,"136 Pryor St SW, Atlanta, GA 30303"
+1142,http://data.charlottenc.gov,"Charlotte NC",35.221249,-80.839583,17,"Charlotte NC",hub,NULL,"600 E 4th St, Charlotte, NC 28202"
+1143,http://opendata.gis.ms.gov,"Mississippi State MS",32.304940,-90.181270,17,"Mississippi State MS",hub,NULL,"550 High St, Jackson, MS 39201"
+1144,http://www.hrgeo.org,"Hampton Roads VA",36.790093,-76.235972,17,"Hampton Roads VA",hub,NULL,"723 Woodlake Dr, Chesapeake, VA 23320"
+1145,http://public-chesva.opendata.arcgis.com,"Chesapeake VA",36.715767,-76.249704,17,"Chesapeake VA",hub,NULL,"306 Cedar Rd, Chesapeake, VA 23322"
+1146,http://norfolkgisdata-orf.opendata.arcgis.com,"Norfolk VA",36.844580,-76.285720,17,"Norfolk VA",hub,NULL,"810 Union St, Norfolk, VA 23510"
+1147,http://opendata.dc.gov,"Washington DC ",38.895010,-77.031355,17,"Washington DC ",hub,NULL,"1350 Pennsylvania Ave NW, Washington, DC 20004"
+1148,http://opendata.esrichina.hk,"Hong Kong China",22.282886,114.161190,17,"Hong Kong China",hub,NULL,"Hong Kong, Central, Edinburgh Pl"
+1149,http://data.cityofsacramento.org,"Sacramento CA",38.580000,-121.490000,17,"Sacramento CA",hub,NULL,"915 I St, Sacramento, CA 95814"
+1150,http://opendata.minneapolismn.gov,"Minneapolis MN",44.977377,-93.265688,17,"Minneapolis MN",hub,NULL,"350 S 5th St, Minneapolis, MN 55415"
+1151,http://opendata.lincoln.ne.gov,"Lincoln NE",40.808670,-96.707760,17,"Lincoln NE",hub,NULL,"555 S 10th St # 111, Lincoln, NE 68508"
+1152,http://opendata.charlottesville.org,"Charlottesville VA",38.031180,-78.488390,17,"Charlottesville VA",hub,NULL,"605 E Main St, Charlottesville, VA 22901"
+1153,http://gisopendata.marincounty.org,"Marin County CA",37.998617,-122.531068,17,"Marin County CA",hub,NULL,"3501 Civic Center Dr #234, San Rafael, CA 94903"
+1154,http://data.waterloo.ca,"Waterloo Canada",43.463040,-80.520250,17,"Waterloo Canada",hub,NULL,"100 Regina St S, Waterloo, ON N2J 4P9, Canada"
+1155,http://opendata.gis.utah.gov,"Utah State UT",40.778180,-111.888570,17,"Utah State UT",hub,NULL,"350 State St Suite 200, Salt Lake City, UT 84114"
+1156,http://opendata.firstmap.delaware.gov,"Delaware State DE",39.156159,-75.519548,17,"Delaware State DE",hub,NULL,"150 Martin Luther King Jr Blvd, Dover, DE 19901"
+1157,http://opendata.esriuk.com,"United Kingdom",51.505237,-0.079039,17,"United Kingdom",hub,NULL,"The Queen's Walk, London SE1 2AA, UK"
+1158,http://data.gis.idaho.gov,"Idaho State ID",43.617704,-116.199761,17,"Idaho State ID",hub,NULL,"700 W Jefferson St, Boise, ID 83702"
+1159,http://opendata.kelowna.ca,"Kelowna Canada",49.888070,-119.495933,17,"Kelowna Canada",hub,NULL,"1435 Water St, Kelowna, BC V1Y 1J4, Canada"
+1160,http://data.cityofpasadena.net,"Pasadena CA",34.147640,-118.144180,17,"Pasadena CA",hub,NULL,"100 Garfield Ave, Pasadena, CA 91101"
+1161,http://accessoakland.oakgov.com,"Oakland County CA",37.799602,-122.264996,17,"Oakland County CA",hub,NULL,"1106 Madison St, Oakland, CA 94607"
+1162,http://geodata.dep.state.fl.us,"Florida State FL Department of Environmental Protection",30.476956,-84.358362,17,"Florida State FL Department of Environmental Protection",hub,NULL,"3900 Commonwealth Blvd, Tallahassee, FL 32399"
+1163,http://opendata.starkcountyohio.gov,"Stark County OH",40.799077,-81.374844,17,"Stark County OH",hub,NULL,"115 Central Plaza N # 101, Canton, OH 44702"
+1164,http://datahub.cityofwestsacramento.org,"West Sacramento CA",38.582060,-121.523391,17,"West Sacramento CA",hub,NULL,"1110 West Capitol Ave West Sacramento, CA 95691"
+1165,http://geodata.freshfromflorida.com,"Florida State FL Department of Agriculture and Consumer Services",26.716091,-80.081080,17,"Florida State FL Department of Agriculture and Consumer Services",hub,NULL,"400 N Congress Ave, West Palm Beach, FL 33401"
+1166,http://geodata.myflorida.com,"Florida State FL",30.438100,-84.281660,17,"Florida State FL",hub,NULL,"400 S Monroe St, Tallahassee, FL 32399"
+1167,http://www.opendata.go.ke,"Kenya Africa",-1.283330,36.816670,17,"Kenya Africa",hub,NULL,"Nairobi, KENYA"
+1168,http://data.globalforestwatch.org,"Global Forest Watch",38.899075,-77.008137,17,"Global Forest Watch",hub,NULL,"10 G Street NE, Suite 800 Washington, DC 20002"
+1169,http://data.sacog.org,"Sacramento Area Council of Governments (SACOG) ",38.576650,-121.488620,17,"Sacramento Area Council of Governments (SACOG) ",hub,NULL,"1415 L St # 300, Sacramento, CA 95814"
+1170,http://opendata.ajax.ca,"Ajax Canada",43.850500,-79.021150,17,"Ajax Canada",hub,NULL,"65 Harwood Ave. S.Ajax, Ontario L1S 2H9"
+1171,http://data.lojic.org,"Louisville and Jefferson County Metropolitan KY",38.253183,-85.760241,17,"Louisville and Jefferson County Metropolitan KY",hub,NULL,"514 W Liberty St, Louisville, KY 40202"
+1172,https://data.louisvilleky.gov,"Louisville Metro Government KY",38.254280,-85.760310,17,"Louisville Metro Government KY",hub,NULL,"601 W Jefferson St #19, Louisville, KY 40202"
+1173,https://data.lexingtonky.gov,"Lexington KY",38.044583,-84.495787,17,"Lexington KY",hub,NULL,"200 E Main St, Lexington, KY 40507"
+1174,http://opendata.lethbridge.ca,"Lethbridge Canada",49.694040,-112.833104,17,"Lethbridge Canada",hub,NULL,"910 4 Ave S, Lethbridge, AB T1J 0P6, Canada"
+1175,http://data.squamish.ca,"Squamish Canada",49.700000,-123.150000,17,"Squamish Canada",hub,NULL,"Squamish, BC, Canada"
+1176,http://data.roanokecountyva.gov,"Roanoke County VA",37.293912,-80.053562,17,"Roanoke County VA",hub,NULL,"305 E Main St #200, Salem, VA 24153"
+1177,http://gisdata.worcesterma.gov,"Worcester MA",42.262561,-71.801959,17,"Worcester MA",hub,NULL,"455 Main St # 309, Worcester, MA 01608"
+1178,http://data.indy.gov,"Indianapolis IN",39.768211,-86.153519,17,"Indianapolis IN",hub,NULL,"200 E Washington St, Indianapolis, IN 46204"
+1179,http://opendata.victoria.ca,"Victoria Canada",48.428674,-123.364555,17,"Victoria Canada",hub,NULL,"1 Centennial Square, Victoria, BC V8W 1P6, Canada"
+1180,http://data.ferndalemi.gov,"Ferndale MI",42.460290,-83.132380,17,"Ferndale MI",hub,NULL,"300 E 9 Mile Rd, Ferndale, MI 48220"
+1181,http://www.opendatalapalma.es,"La Palma Spain",28.683392,-17.764822,17,"La Palma Spain",hub,NULL,"Plaza de España, 6, 38700 Santa Cruz de la Palma, Santa Cruz de Tenerife, Spain"
+1182,https://geohub.lio.gov.on.ca,"Ontario Canada Land Information",43.651801,-79.382560,17,"Ontario Canada Land Information",hub,NULL,"100 Queen St W, Toronto, ON M5H 2N2, Canada"
+1183,https://hifld-geoplatform.opendata.arcgis.com,"Homeland Infrastructure Foundation-Level Data (HIFLD)",38.885236,-77.021396,17,"Homeland Infrastructure Foundation-Level Data (HIFLD)",hub,NULL,"300 7th St SW, Washington, DC 20024"
+1184,http://data-lakecountyil.opendata.arcgis.com,"Lake County IL",42.360368,-87.833057,17,"Lake County IL",hub,NULL,"18 N County St, Waukegan, IL 60085"
+1185,https://gis11.services.ncdot.gov/arcgis/rest/services,"North Carolina State NC Department of Transportation",35.809760,-80.228500,17,"North Carolina State NC Department of Transportation",folder,NULL,"1404 E Old US Highway 64, Lexington, NC 27292"
+1186,https://services3.arcgis.com/fdvHcZVgB2QSRNkL/ArcGIS/rest/services,"California unified school district",34.001686,-118.147424,17,"California unified school district",folder,NULL,NULL
+1187,https://gis.transportation.wv.gov/arcgis/rest/services,"West Virginia State VA Department of Transportation",38.338271,-81.610059,17,"West Virginia State VA Department of Transportation",folder,NULL,"1900 Kanawha Blvd E, Charleston, WV 25305"
+1188,https://services.wvgis.wvu.edu/ArcGIS/rest/services,"West Virginia State VA University GIS Technical Center",39.638746,-79.959422,17,"West Virginia State VA University GIS Technical Center",folder,NULL,"98 Beechurst Ave, Morgantown, WV 26505"
+1189,http://www.cabellassessor.com/arcgis/rest/services,"Cabell County WV",38.419691,-82.446231,17,"Cabell County WV",folder,NULL,"750 5th Ave # 114, Huntington, WV 25701"
+1190,https://ccgisapps.charlestoncounty.org/arcgis/rest/services,"Charleston WV",38.350768,-81.638506,17,"Charleston WV",folder,NULL,"501 Virginia St E, Charleston, WV 25301"
+1191,https://dnrmaps.wi.gov/arcgis/rest/services,"Wisconsin State WI Department of Natural Resources dnrmaps",44.082959,-88.528051,17,"Wisconsin State WI Department of Natural Resources dnrmaps",folder,NULL,"625 E County Rd Y # 700, Oshkosh, WI 54901"
+1192,https://uadnrmaps.wi.gov/arcgis/rest/services,"Wisconsin State WI Department of Natural Resources uadnrmaps",44.082959,-88.528051,17,"Wisconsin State WI Department of Natural Resources uadnrmaps",folder,NULL,"625 E County Rd Y # 700, Oshkosh, WI 54901"
+1193,https://datcpgis.wi.gov/arcgis/rest/services,"Wisconsin State WI Department of Agriculture, Trade and Consumer Protection",43.061306,-89.289376,17,"Wisconsin State WI Department of Agriculture, Trade and Consumer Protection",folder,NULL,"2811 Agriculture Dr, Madison, WI 53718"
+1194,http://maps.gis.co.brown.wi.us/arcgis/rest/services,"Brown County WI",44.513855,-88.014452,17,"Brown County WI",folder,NULL,"305 E Walnut St #120, Green Bay, WI 54301"
+1195,https://dcimapapps.countyofdane.com/arcgis/rest/services,"Dane County WI",43.071226,-89.383841,17,"Dane County WI",folder,NULL,"215 S Hamilton St #1000, Madison, WI 53703"
+1196,https://kc-web-01.kenoshacounty.org/arcgis/rest/services,"Kenosha County WI",42.587888,-87.821073,17,"Kenosha County WI",folder,NULL,"625 52nd St #105, Kenosha, WI 53140"
+1197,https://maps2.milwaukee.gov/arcgis/rest/services,"Milwaukee County WI",43.041737,-87.923743,17,"Milwaukee County WI",folder,NULL,"901 N 9th St #105, Milwaukee, WI 53233"
+1198,http://gis.co.richland.wi.us/arcgis/rest/services,"Richland County WI",43.334564,-90.386139,17,"Richland County WI",folder,NULL,"181 W Seminary St, Richland Center, WI 53581"
+1199,http://www.co.rock.wi.us:8080/rockweb/rest/services,"Rock County WI",42.682506,-89.019420,17,"Rock County WI",folder,NULL,"51 S Main St, Janesville, WI 53545"
+1200,https://www.vernoncounty.org/vcarcgis/rest/services,"Vernon County WI",43.556789,-90.893420,17,"Vernon County WI",folder,NULL,"400 Court House Square St Ste 108, Viroqua, WI 54665"
+1201,http://maps.waukcogeo.com/arcgis/rest/services,"Waukesha County WI",43.023086,-88.228891,17,"Waukesha County WI",folder,NULL,"515 W Moreland Blvd #226, Waukesha, WI 53188"
+1202,https://gis.appleton.org/arcgis/rest/services,"Appleton WI",44.262243,-88.407105,17,"Appleton WI",folder,NULL,"100 N Appleton St, Appleton, WI 54911"
+1203,https://gis.fdl.wi.gov/fdlarcgis/rest/services,"Fond du Lac WI",43.774376,-88.448288,17,"Fond du Lac WI",folder,NULL,"160 S Macy St, Fond du Lac, WI 54935"
+1204,https://kc-web-01.kenoshacounty.org/arcgis/rest/services,"Kenosha WI",42.587888,-87.821073,17,"Kenosha WI",folder,NULL,"625 52nd St #105, Kenosha, WI 53140"
+1205,https://maps.cityofmadison.com/arcgis/rest/services,"Madison WI",43.072423,-89.382393,17,"Madison WI",folder,NULL,"210 Martin Luther King Jr Blvd, Madison, WI 53703"
+1206,https://maps2.milwaukee.gov/ArcGIS/rest/services,"Milwaukee WI",43.041833,-87.909801,17,"Milwaukee WI",folder,NULL,"200 E Wells St, Milwaukee, WI 53202"
+1207,https://www.ci.oshkosh.wi.us/arcgis/rest/services,"Oshkosh WI",44.020710,-88.541470,17,"Oshkosh WI",folder,NULL,"215 Church Ave, Oshkosh, WI 54903"
+1208,https://gis.cityofracine.org/arcgis/rest/services,"Racine WI",42.725480,-87.790600,17,"Racine WI",folder,NULL,"730 Washington Ave, Racine, WI 53403"
+1209,http://wogccms.state.wy.us/arcgis/rest/services,"Wyoming State WY Oil and Gas Conservation Commission",42.842989,-106.351904,17,"Wyoming State WY Oil and Gas Conservation Commission",folder,NULL,"2211 King Blvd, Casper, WY 82604"
+1210,https://wygiscservices.wygisc.org/arcgis/rest/services,"Wyoming State WY University Geographic Information Science Center",41.715060,-105.797380,17,"Wyoming State WY University Geographic Information Science Center",folder,NULL,"1000 E University Ave, Laramie, WY 82071"
+1211,http://arcmobile.co.albany.wy.us/arcgis/rest/services,"Albany County WY",41.311297,-105.590284,17,"Albany County WY",folder,NULL,"525 Grand Ave #202, Laramie, WY 82070"
+1212,https://cecilmaps.ccgov.org/arcgis/rest/services,"Campbell County WY",44.289310,-105.504020,17,"Campbell County WY",folder,NULL,"500 S Gillette Ave # 1600, Gillette, WY 82716"
+1213,https://maps.laramiecounty.com/arcgis/rest/services,"Laramie County WY",41.135498,-104.819079,17,"Laramie County WY",folder,NULL,"309 W 20th St # 3205, Cheyenne, WY 82001"
+1214,http://arcmobile.co.albany.wy.us/arcgis/rest/services,"Carbon County WY",41.789650,-107.240680,17,"Carbon County WY",folder,NULL,"415 W Pine St, Rawlins, WY 82301"
+1215,https://maps.casperwy.gov/nrgisc/rest/services,"Casper WY",42.851521,-106.327154,17,"Casper WY",folder,NULL,"200 N David St, Casper, WY 82601"
+1216,https://maps.laramiecounty.com/arcgis/rest/services,"Cheyenne WY",41.135480,-104.822219,17,"Cheyenne WY",folder,NULL,"2101 O Neil Ave, Cheyenne, WY 82001"
+1217,http://maps.oki.org/arcgis/rest/services,"Ohio Kentucky Indiana Regional Council of Governments (OKI)",39.101868,-84.499779,17,"Ohio Kentucky Indiana Regional Council of Governments (OKI)",folder,NULL,"720 E Pete Rose Way # 420, Cincinnati, OH 45202"
+1218,https://gis2.marc2.org/arcgis/rest/services,"Mid-America Regional Council's (MARC) Greater Kansas City area",39.106181,-94.588826,17,"Mid-America Regional Council's (MARC) Greater Kansas City area",folder,NULL,"600 Broadway Blvd #200, Kansas City, MO 64105"
+1219,https://services.northeastoceandata.org/arcgis1/rest/services,"Northeast Ocean Data Portal",42.360500,-71.059600,17,"Northeast Ocean Data Portal",folder,NULL,boston
+1220,https://tiles.arcgis.com/tiles/P3ePLMYs2RVChkJx/arcgis/rest/services,"arcgis vector tile server sample",42.360500,-71.059600,17,"arcgis vector tile server sample",folder,NULL,NULL
+1221,https://gis-mdc.opendata.arcgis.com,"Miami Dade County FL",25.761681,-80.191788,9,"Miami Dade County FL",hub,NULL,"5400 NW 22nd Avenue, Room 103, Miami, Florida 33142"
+1222,https://data-nevcounty.opendata.arcgis.com/,"Nevada County CA",39.270108,-121.026471,9,"Nevada County CA",hub,NULL,"950 Maidu Avenue Nevada City, CA 95959"
+1223,https://geodat-kernco.opendata.arcgis.com/,"Kern County CA",35.411340,-118.967336,9,"Kern County CA",hub,NULL,"4175 Mt. Vernon Ave, Bakersfield, CA 93306"
+1224,https://gis-cityoh.opendata.arcgis.com/,"Oak Hill WV",37.973538,-81.149280,9,"Oak Hill WV",hub,NULL,"100 Kelly Avenue, PO Box 1245, Oak Hill, WV 25901"
+1225,http://data-ocpw.opendata.arcgis.com/,"Orange County CA",33.749220,-117.874121,9,"Orange County CA",hub,NULL,"12 Civic Center Plaza #101, Santa Ana, CA 92701"
+1226,http://data-sacramentocounty.opendata.arcgis.com/,"Sacramento County CA",38.460091,-121.409119,9,"Sacramento County CA",hub,NULL,"8239 E Stockton Blvd A, Sacramento, CA 95828"
+1227,https://data.roanokecountyva.gov/,"Roanoke County VA",37.293912,-80.053562,9,"Roanoke County VA",hub,NULL,"305 E Main St #200, Salem, VA 24153"
+1228,http://geodata.myflorida.com/,"Florida State FL",30.438022,-84.282184,9,"Florida State FL",hub,NULL,"400 S Monroe St, Tallahassee, FL 32399"
+1229,https://data.imap.maryland.gov/,"Maryland State MD",39.025794,-76.607967,9,"Maryland State MD",hub,NULL,"100 Community Pl, Crownsville, MD 21032"
+1230,http://data.lojic.org/,"Louisville County KY",38.253305,-85.762818,9,"Louisville County KY",hub,NULL,"700 West Liberty Street Louisville, KY 40203"
+1231,http://data.lojic.org/,"Jefferson County KY",38.253305,-85.762818,9,"Jefferson County KY",hub,NULL,"700 West Liberty Street Louisville, KY 40203"
+1232,http://accessoakland.oakgov.com/,"Oakland County MI",42.655579,-83.326769,9,"Oakland County MI",hub,NULL,"1200 N. Telegraph Road Pontiac, MI 48341"
+1233,http://data.virginia.gov/,"Virginia State VA",37.541298,-77.434133,9,"Virginia State VA",hub,NULL,"800 East Broad Street Richmond, VA 23219"
+1234,http://opendata.cityofboise.org/,"Boise ID",43.615070,-116.201613,9,"Boise ID",hub,NULL,"150 N Capitol Blvd, Boise, ID 83702"
+1235,http://opendata.suffolkcountyny.gov/,"Suffolk County NY",40.913549,-72.668306,9,"Suffolk County NY",hub,NULL,"310 Center Dr S, Riverhead, NY 11901"
+1236,https://data.iowadot.gov/,"Iowa State IA Department of Transportation",42.021067,-93.620881,9,"Iowa State IA Department of Transportation",hub,NULL,"800 Lincoln Way, Ames, IA 50010"
+1237,https://gis-pdx.opendata.arcgis.com/,"Portland OR",45.515020,-122.679058,9,"Portland OR",hub,NULL,"1221 SW 4th Avenue, Room 110, Portland, OR 97204"
+1238,https://data-claycountymn.opendata.arcgis.com/,"Clay County MN",46.884205,-96.763512,9,"Clay County MN",hub,NULL,"807 11th Street North Moorhead, MN 56560"
+1239,http://www.rigis.org/,"Rhode Island State RI",41.830289,-71.414986,9,"Rhode Island State RI",hub,NULL,"82 Smith St, Providence, RI 02903"
+1240,http://gis-bouldercounty.opendata.arcgis.com/,"Boulder County CO",40.017522,-105.249078,9,"Boulder County CO",hub,NULL,"1750 33rd St, Boulder, CO 80301"
